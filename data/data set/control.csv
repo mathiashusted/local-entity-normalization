@@ -1,0 +1,190 @@
+id,input,canonical_name,entity_type,id_status,pubchem_id,hgnc_id,uniprot_id,ncbi_gene_id,accepted_id,accepted_title,resolution_rule,prev_symbol,alias_symbol
+CTRL-001,(-)-menthol,(-)-menthol,chemical,single,16666,,,,16666,(-)-Menthol,exact_single,,
+CTRL-002,"(6R)-5,6,7,8-tetrahydrobiopterin","(6R)-5,6,7,8-tetrahydrobiopterin",chemical,single,135409384,,,,135409384,"(6R)-5,6,7,8-tetrahydrobiopterin",exact_single,,
+CTRL-003,(S)-lactate,(S)-lactate,chemical,single,5460161,,,,5460161,(S)-Lactate,exact_single,,
+CTRL-004,2-deoxy-D-ribose,2-deoxy-D-ribose,chemical,single,5460005,,,,5460005,"2-Deoxyribose, D-",exact_single,,
+CTRL-005,2-oxoglutaric acid,2-oxoglutaric acid,chemical,single,51,,,,51,2-Oxoglutaric Acid,exact_single,,
+CTRL-006,"3',5'-cyclic AMP","3',5'-cyclic AMP",chemical,single,6076,,,,6076,Camp,exact_single,,
+CTRL-007,3-hydroxy-3-methylglutaryl-CoA,3-hydroxy-3-methylglutaryl-CoA,chemical,single,91506,,,,91506,3-Hydroxy-3-methylglutaryl-CoA,exact_single,,
+CTRL-008,4-aminobenzoic acid,4-aminobenzoic acid,chemical,single,978,,,,978,4-Aminobenzoic Acid,exact_single,,
+CTRL-009,ABCB1,ABCB1,gene,single,,HGNC:40,P08183,5243,HGNC:40,ATP binding cassette subfamily B member 1,approved_symbol,PGY1;MDR1;CLCS,P-gp;CD243;GP170;ABC20;p-170;PGY1
+CTRL-010,ACE,ACE,gene,single,,HGNC:2707,P12821,1636,HGNC:2707,angiotensin I converting enzyme,approved_symbol,DCP1,ACE1;CD143
+CTRL-011,ACTB,ACTB,gene,single,,HGNC:132,P60709,60,HGNC:132,actin beta,approved_symbol,,
+CTRL-012,APOE,APOE,gene,single,,HGNC:613,P02649,348,HGNC:613,apolipoprotein E,approved_symbol,AD2,
+CTRL-013,APP,APP,gene,single,,HGNC:620,P05067,351,HGNC:620,amyloid beta precursor protein,approved_symbol,AD1,alpha-sAPP
+CTRL-014,AR,AR,gene,single,,HGNC:644,P10275,367,HGNC:644,androgen receptor,approved_symbol,DHTR;SBMA,AIS;NR3C4;SMAX1;HUMARA
+CTRL-015,B2M,B2M,gene,single,,HGNC:914,P61769,567,HGNC:914,beta-2-microglobulin,approved_symbol,,
+CTRL-016,BDNF,BDNF,gene,single,,HGNC:1033,P23560,627,HGNC:1033,brain derived neurotrophic factor,approved_symbol,,
+CTRL-017,BRCA1,BRCA1,gene,single,,HGNC:1100,P38398,672,HGNC:1100,BRCA1 DNA repair associated,approved_symbol,,RNF53;BRCC1;PPP1R53;FANCS
+CTRL-018,C9orf72,C9orf72,gene,single,,HGNC:28337,Q96LT7,203228,HGNC:28337,C9orf72-SMCR8 complex subunit,approved_symbol,,MGC23980;DENNL72;DENND9
+CTRL-019,CCL2,CCL2,gene,single,,HGNC:10618,P13500,6347,HGNC:10618,C-C motif chemokine ligand 2,approved_symbol,SCYA2,MCP1;MCP-1;MCAF;SMC-CF;GDCF-2;HC11;MGC9434
+CTRL-020,CCL5,CCL5,gene,single,,HGNC:10632,P13501,6352,HGNC:10632,C-C motif chemokine ligand 5,approved_symbol,D17S136E;SCYA5,RANTES;SISd;TCP228;MGC17164
+CTRL-021,CD274,CD274,gene,single,,HGNC:17635,Q9NZQ7,29126,HGNC:17635,CD274 molecule,approved_symbol,PDCD1LG1,B7-H;B7H1;PD-L1;PDL1;B7-H1
+CTRL-022,CD4,CD4,gene,single,,HGNC:1678,P01730,920,HGNC:1678,CD4 molecule,approved_symbol,,T4;Leu-3
+CTRL-023,CEACAM5,CEACAM5,gene,single,,HGNC:1817,P06731,1048,HGNC:1817,CEA cell adhesion molecule 5,approved_symbol,CEA,CD66e
+CTRL-024,CFTR,CFTR,gene,single,,HGNC:1884,P13569,1080,HGNC:1884,CF transmembrane conductance regulator,approved_symbol,CF;ABCC7,MRP7;ABC35;TNR-CFTR;dJ760C5.1;CFTR/MRP
+CTRL-025,COL1A1,COL1A1,gene,single,,HGNC:2197,P02452,1277,HGNC:2197,collagen type I alpha 1 chain,approved_symbol,,OI4
+CTRL-026,COMT,COMT,gene,single,,HGNC:2228,P21964,1312,HGNC:2228,catechol-O-methyltransferase,approved_symbol,,
+CTRL-027,CTLA4,CTLA4,gene,single,,HGNC:2505,P16410,1493,HGNC:2505,cytotoxic T-lymphocyte associated protein 4,approved_symbol,CELIAC3;IDDM12,CD152;CD;GSE;CTLA-4
+CTRL-028,CXCL8,CXCL8,gene,single,,HGNC:6025,P10145,3576,HGNC:6025,C-X-C motif chemokine ligand 8,approved_symbol,IL8,SCYB8;LUCT;LECT;MDNCF;TSG-1;IL-8;NAP-1;3-10C;MONAP;AMCF-I;LYNAP;NAF;b-ENAP;GCP-1;K60;GCP1;NAP1
+CTRL-029,CYP3A4,CYP3A4,gene,single,,HGNC:2637,P08684,1576,HGNC:2637,cytochrome P450 family 3 subfamily A member 4,approved_symbol,CYP3A3,
+CTRL-030,D-biotin,D-biotin,chemical,single,171548,,,,171548,Biotin,exact_single,,
+CTRL-031,D-fructose,D-fructose,chemical,single,2723872,,,,2723872,D-Fructose,exact_single,,
+CTRL-032,D-fructose 6-phosphate,D-fructose 6-phosphate,chemical,single,439160,,,,439160,D-Fructose 6-phosphate,exact_single,,
+CTRL-033,D-galactosamine,D-galactosamine,chemical,single,24154,,,,24154,D-Galactosamine,exact_single,,
+CTRL-034,D-glucose,D-glucose,chemical,single,5793,,,,5793,D-Glucose,exact_single,,
+CTRL-035,D-glucose 6-phosphate,D-glucose 6-phosphate,chemical,ambiguous,439958,,,,439958;99058,Glucose-6-Phosphate,parent_over_salt,,
+CTRL-036,D-mannitol,D-mannitol,chemical,single,6251,,,,6251,Mannitol,exact_single,,
+CTRL-037,D-ribose,D-ribose,chemical,single,10975657,,,,10975657,D-Ribose,exact_single,,
+CTRL-038,DELEC1,DELEC1,gene,single,,HGNC:23658,Q9P2X7,50514,HGNC:23658,deleted in esophageal cancer 1,approved_symbol,DEC1,CTS9
+CTRL-039,DMD,DMD,gene,single,,HGNC:2928,P11532,1756,HGNC:2928,dystrophin,approved_symbol,MRX85,BMD;DXS142;DXS164;DXS206;DXS230;DXS239;DXS268;DXS269;DXS270;DXS272
+CTRL-040,EGFR,EGFR,gene,single,,HGNC:3236,P00533,1956,HGNC:3236,epidermal growth factor receptor,approved_symbol,ERBB,ERBB1;ERRP
+CTRL-041,ERBB2,ERBB2,gene,single,,HGNC:3430,P04626,2064,HGNC:3430,erb-b2 receptor tyrosine kinase 2,approved_symbol,NGL,NEU;HER-2;CD340;HER2;c-ERB2;c-ERB-2;MLN-19;p185(erbB2)
+CTRL-042,ESR1,ESR1,gene,single,,HGNC:3467,P03372,2099,HGNC:3467,estrogen receptor 1,approved_symbol,ESR,ER;NR3A1;Era;ER-alpha
+CTRL-043,GAPDH,GAPDH,gene,single,,HGNC:4141,P04406,2597,HGNC:4141,glyceraldehyde-3-phosphate dehydrogenase,approved_symbol,GAPD,
+CTRL-044,HBB,HBB,gene,single,,HGNC:4827,P68871,3043,HGNC:4827,hemoglobin subunit beta,approved_symbol,,CD113t-C;beta-globin
+CTRL-045,HEPES,HEPES,chemical,single,23831,,,,23831,4-(2-Hydroxyethyl)-1-piperazineethanesulfonic acid,exact_single,,
+CTRL-046,HIF1A,HIF1A,gene,single,,HGNC:4910,Q16665,3091,HGNC:4910,hypoxia inducible factor 1 subunit alpha,approved_symbol,,MOP1;HIF-1alpha;PASD8;HIF1;bHLHe78
+CTRL-047,HLA-A,HLA-A,gene,single,,HGNC:4931,P04439,3105,HGNC:4931,"major histocompatibility complex, class I, A",approved_symbol,,
+CTRL-048,HLA-DRB1,HLA-DRB1,gene,single,,HGNC:4948,P01911,3123,HGNC:4948,"major histocompatibility complex, class II, DR beta 1",approved_symbol,HLA-DR1B,
+CTRL-049,HMGCR,HMGCR,gene,single,,HGNC:5006,P04035,3156,HGNC:5006,3-hydroxy-3-methylglutaryl-CoA reductase,approved_symbol,,
+CTRL-050,HPRT1,HPRT1,gene,single,,HGNC:5157,P00492,3251,HGNC:5157,hypoxanthine phosphoribosyltransferase 1,approved_symbol,HPRT,HGPRT
+CTRL-051,HTT,HTT,gene,single,,HGNC:4851,P42858,3064,HGNC:4851,huntingtin,approved_symbol,HD,IT15
+CTRL-052,IGF1,IGF1,gene,single,,HGNC:5464,P05019,3479,HGNC:5464,insulin like growth factor 1,approved_symbol,,IGF1A;IGFI;IGF-I;IGF
+CTRL-053,IL1B,IL1B,gene,single,,HGNC:5992,P01584,3553,HGNC:5992,interleukin 1 beta,approved_symbol,,IL1F2;IL-1B;IL1-BETA
+CTRL-054,IL6,IL6,gene,single,,HGNC:6018,P05231,3569,HGNC:6018,interleukin 6,approved_symbol,IFNB2,IL-6;BSF2;HGF;HSF
+CTRL-055,INSR,INSR,gene,single,,HGNC:6091,P06213,3643,HGNC:6091,insulin receptor,approved_symbol,,CD220
+CTRL-056,KCNH2,KCNH2,gene,single,,HGNC:6251,Q12809,3757,HGNC:6251,potassium voltage-gated channel subfamily H member 2,approved_symbol,LQT2,Kv11.1;HERG;erg1
+CTRL-057,KLK3,KLK3,gene,single,,HGNC:6364,P07288,354,HGNC:6364,kallikrein related peptidase 3,approved_symbol,APS,PSA
+CTRL-058,KRAS,KRAS,gene,single,,HGNC:6407,P01116,3845,HGNC:6407,"KRas proto-oncogene, GTPase",approved_symbol,KRAS2,KRAS1;K-Ras4B
+CTRL-059,L-ascorbic acid,L-ascorbic acid,chemical,single,54670067,,,,54670067,L-Ascorbic Acid,exact_single,,
+CTRL-060,L-aspartic acid,L-aspartic acid,chemical,single,5960,,,,5960,L-Aspartic Acid,exact_single,,
+CTRL-061,L-carnitine,L-carnitine,chemical,single,10917,,,,10917,(-)-Carnitine,exact_single,,
+CTRL-062,L-cysteine,L-cysteine,chemical,single,5862,,,,5862,L-(+)-Cysteine,exact_single,,
+CTRL-063,L-glutamic acid,L-glutamic acid,chemical,single,33032,,,,33032,L-Glutamic Acid,exact_single,,
+CTRL-064,L-glutamine,L-glutamine,chemical,single,5961,,,,5961,L-Glutamine,exact_single,,
+CTRL-065,L-methionine,L-methionine,chemical,single,6137,,,,6137,L-Methionine,exact_single,,
+CTRL-066,L-phenylalanine,L-phenylalanine,chemical,single,6140,,,,6140,L-Phenylalanine,exact_single,,
+CTRL-067,L-tartaric acid,L-tartaric acid,chemical,single,444305,,,,444305,L-Tartaric acid,exact_single,,
+CTRL-068,LDLR,LDLR,gene,single,,HGNC:6547,P01130,3949,HGNC:6547,low density lipoprotein receptor,approved_symbol,,LDLCQ2
+CTRL-069,MAP2K1,MAP2K1,gene,single,,HGNC:6840,Q02750,5604,HGNC:6840,mitogen-activated protein kinase kinase 1,approved_symbol,PRKMK1,MEK1;MAPKK1;MKK1
+CTRL-070,MAPK1,MAPK1,gene,single,,HGNC:6871,P28482,5594,HGNC:6871,mitogen-activated protein kinase 1,approved_symbol,PRKM2;PRKM1,ERK;ERK2;p41mapk;MAPK2
+CTRL-071,MAPK14,MAPK14,gene,single,,HGNC:6876,Q16539,1432,HGNC:6876,mitogen-activated protein kinase 14,approved_symbol,CSPB1;CSBP1;CSBP2,p38alpha;PRKM14;p38;Mxi2;PRKM15
+CTRL-072,MAPK3,MAPK3,gene,single,,HGNC:6877,P27361,5595,HGNC:6877,mitogen-activated protein kinase 3,approved_symbol,PRKM3,ERK1;p44mapk;p44erk1;ERK-1
+CTRL-073,MARCHF1,MARCHF1,gene,single,,HGNC:26077,Q8TCQ1,55016,HGNC:26077,membrane associated ring-CH-type finger 1,approved_symbol,MARCH1,FLJ20668;MARCH-I;RNF171
+CTRL-074,MARCHF5,MARCHF5,gene,single,,HGNC:26025,Q9NX47,54708,HGNC:26025,membrane associated ring-CH-type finger 5,approved_symbol,RNF153;MARCH5,FLJ20445;MARCH-V;MITOL
+CTRL-075,MKI67,MKI67,gene,single,,HGNC:7107,P46013,4288,HGNC:7107,marker of proliferation Ki-67,approved_symbol,,MIB-1;PPP1R105;Ki-67
+CTRL-076,MMP9,MMP9,gene,single,,HGNC:7176,P14780,4318,HGNC:7176,matrix metallopeptidase 9,approved_symbol,CLG4B,
+CTRL-077,MS4A1,MS4A1,gene,single,,HGNC:7315,P11836,931,HGNC:7315,membrane spanning 4-domains A1,approved_symbol,CD20,B1;Bp35;FMC7
+CTRL-078,MT-CO1,MT-CO1,gene,single,,HGNC:7419,P00395,4512,HGNC:7419,mitochondrially encoded cytochrome c oxidase I,approved_symbol,MTCO1,COX1;COI
+CTRL-079,MTHFR,MTHFR,gene,single,,HGNC:7436,P42898,4524,HGNC:7436,methylenetetrahydrofolate reductase,approved_symbol,,
+CTRL-080,MTOR,MTOR,gene,single,,HGNC:3942,P42345,2475,HGNC:3942,mechanistic target of rapamycin kinase,approved_symbol,FRAP;FRAP2;FRAP1,mTOR;RAFT1;RAPT1;FLJ44809
+CTRL-081,MUC16,MUC16,gene,single,,HGNC:15582,Q8WXI7,94025,HGNC:15582,"mucin 16, cell surface associated",approved_symbol,,CA125;FLJ14303;CA-125
+CTRL-082,MYC,MYC,gene,single,,HGNC:7553,P01106,4609,HGNC:7553,"MYC proto-oncogene, bHLH transcription factor",approved_symbol,,c-Myc;bHLHe39;MYCC
+CTRL-083,"N,N-dimethylformamide","N,N-dimethylformamide",chemical,single,6228,,,,6228,Dimethylformamide,exact_single,,
+CTRL-084,N-acetyl-L-cysteine,N-acetyl-L-cysteine,chemical,single,12035,,,,12035,N-Acetyl-L-Cysteine,exact_single,,
+CTRL-085,NAD+,NAD+,chemical,single,5892,,,,5892,Nadide,exact_single,,
+CTRL-086,NADH,NADH,chemical,single,439153,,,,439153,Nadh,exact_single,,
+CTRL-087,NADPH,NADPH,chemical,single,5884,,,,5884,NADPH,exact_single,,
+CTRL-088,NAT2,NAT2,gene,single,,HGNC:7646,P11245,10,HGNC:7646,N-acetyltransferase 2,approved_symbol,AAC2,
+CTRL-089,NFE2L2,NFE2L2,gene,single,,HGNC:7782,Q16236,4780,HGNC:7782,NFE2 like bZIP transcription factor 2,approved_symbol,,NRF2;NRF-2
+CTRL-090,NR3C1,NR3C1,gene,single,,HGNC:7978,P04150,2908,HGNC:7978,nuclear receptor subfamily 3 group C member 1,approved_symbol,GRL,GR
+CTRL-091,PCSK9,PCSK9,gene,single,,HGNC:20001,Q8NBP7,255738,HGNC:20001,proprotein convertase subtilisin/kexin type 9,approved_symbol,HCHOLA3,NARC-1;FH3
+CTRL-092,PDCD1,PDCD1,gene,single,,HGNC:8760,Q15116,5133,HGNC:8760,programmed cell death 1,approved_symbol,SLEB2,CD279;PD1;hSLE1;PD-1
+CTRL-093,PIK3CA,PIK3CA,gene,single,,HGNC:8975,P42336,5290,HGNC:8975,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",approved_symbol,,PI3K
+CTRL-094,PRKAA1,PRKAA1,gene,single,,HGNC:9376,Q13131,5562,HGNC:9376,protein kinase AMP-activated catalytic subunit alpha 1,approved_symbol,,AMPKa1
+CTRL-095,PRKACA,PRKACA,gene,single,,HGNC:9380,P17612,5566,HGNC:9380,protein kinase cAMP-activated catalytic subunit alpha,approved_symbol,,PKACa
+CTRL-096,PTEN,PTEN,gene,single,,HGNC:9588,P60484,5728,HGNC:9588,phosphatase and tensin homolog,approved_symbol,BZS;MHAM,MMAC1;TEP1;PTEN1
+CTRL-097,PTGS2,PTGS2,gene,single,,HGNC:9605,P35354,5743,HGNC:9605,prostaglandin-endoperoxide synthase 2,approved_symbol,,COX2
+CTRL-098,RELA,RELA,gene,single,,HGNC:9955,Q04206,5970,HGNC:9955,"RELA proto-oncogene, NF-kB subunit",approved_symbol,NFKB3,p65
+CTRL-099,SEPTIN2,SEPTIN2,gene,single,,HGNC:7729,Q15019,4735,HGNC:7729,septin 2,approved_symbol,DIFF6;NEDD5;SEPT2,KIAA0158;hNedd5;Pnutl3;Septin-2
+CTRL-100,SEPTIN9,SEPTIN9,gene,single,,HGNC:7323,Q9UHD8,10801,HGNC:7323,septin 9,approved_symbol,MSF;SEPT9,MSF1;KIAA0991;PNUTL4;AF17q25;SeptD1
+CTRL-101,SLC2A1,SLC2A1,gene,single,,HGNC:11005,P11166,6513,HGNC:11005,solute carrier family 2 member 1,approved_symbol,GLUT1;GLUT;HTLVR;CSE,DYT18;DYT9;GLUT-1
+CTRL-102,SLC6A4,SLC6A4,gene,single,,HGNC:11050,P31645,6532,HGNC:11050,solute carrier family 6 member 4,approved_symbol,OCD1,5-HTT;SERT1
+CTRL-103,SMAD4,SMAD4,gene,single,,HGNC:6770,Q13485,4089,HGNC:6770,SMAD family member 4,approved_symbol,MADH4,DPC4
+CTRL-104,SNCA,SNCA,gene,single,,HGNC:11138,P37840,6622,HGNC:11138,synuclein alpha,approved_symbol,PARK1;PARK4,NACP;PD1
+CTRL-105,SOD1,SOD1,gene,single,,HGNC:11179,P00441,6647,HGNC:11179,superoxide dismutase 1,approved_symbol,ALS;ALS1,IPOA
+CTRL-106,STAT3,STAT3,gene,single,,HGNC:11364,P40763,6774,HGNC:11364,signal transducer and activator of transcription 3,approved_symbol,,APRF
+CTRL-107,TGFB1,TGFB1,gene,single,,HGNC:11766,P01137,7040,HGNC:11766,transforming growth factor beta 1,approved_symbol,TGFB;DPD1,CED;TGFbeta
+CTRL-108,TNF,TNF,gene,single,,HGNC:11892,P01375,7124,HGNC:11892,tumor necrosis factor,approved_symbol,TNFA,TNFSF2;DIF;TNF-alpha
+CTRL-109,TP53,TP53,gene,single,,HGNC:11998,P04637,7157,HGNC:11998,tumor protein p53,approved_symbol,,p53;LFS1
+CTRL-110,TUBB,TUBB,gene,single,,HGNC:20778,P07437,203068,HGNC:20778,tubulin beta class I,approved_symbol,,OK/SW-cl.56;MGC16435;M40;Tubb5
+CTRL-111,VEGFA,VEGFA,gene,single,,HGNC:12680,P15692,7422,HGNC:12680,vascular endothelial growth factor A,approved_symbol,VEGF,VEGF-A;VPF
+CTRL-112,acetaminophen,acetaminophen,chemical,single,1983,,,,1983,Acetaminophen,exact_single,,
+CTRL-113,acetic acid,acetic acid,chemical,single,176,,,,176,Acetic Acid,exact_single,,
+CTRL-114,acetyl-CoA,acetyl-CoA,chemical,single,444493,,,,444493,acetyl CoA,exact_single,,
+CTRL-115,acetylsalicylic acid,acetylsalicylic acid,chemical,single,2244,,,,2244,Aspirin,exact_single,,
+CTRL-116,adenosine 5'-diphosphate,adenosine 5'-diphosphate,chemical,single,6022,,,,6022,5'-Adp,exact_single,,
+CTRL-117,adenosine 5'-monophosphate,adenosine 5'-monophosphate,chemical,single,6083,,,,6083,Adenosine Monophosphate,exact_single,,
+CTRL-118,adenosine 5'-triphosphate,adenosine 5'-triphosphate,chemical,single,5957,,,,5957,5'-Atp,exact_single,,
+CTRL-119,alpha-tocopherol,alpha-tocopherol,chemical,single,14985,,,,14985,alpha-Tocopherol,exact_single,,
+CTRL-120,amphetamine,amphetamine,chemical,single,3007,,,,3007,Amphetamine,exact_single,,
+CTRL-121,beta-carotene,beta-carotene,chemical,single,5280489,,,,5280489,Beta-Carotene,exact_single,,
+CTRL-122,boric acid,boric acid,chemical,single,7628,,,,7628,Boric Acid,exact_single,,
+CTRL-123,butanoic acid,butanoic acid,chemical,single,264,,,,264,Butyric Acid,exact_single,,
+CTRL-124,calcitriol,calcitriol,chemical,single,5280453,,,,5280453,Calcitriol,exact_single,,
+CTRL-125,carbon dioxide,carbon dioxide,chemical,single,280,,,,280,Carbon Dioxide,exact_single,,
+CTRL-126,chloroform,chloroform,chemical,single,6212,,,,6212,Chloroform,exact_single,,
+CTRL-127,cholecalciferol,cholecalciferol,chemical,single,5280795,,,,5280795,Vitamin D3,exact_single,,
+CTRL-128,cholesterol,cholesterol,chemical,single,5997,,,,5997,Cholesterol,exact_single,,
+CTRL-129,citric acid,citric acid,chemical,single,311,,,,311,Citric Acid,exact_single,,
+CTRL-130,cyanocobalamin,cyanocobalamin,chemical,single,166596686,,,,166596686,Cyanocobalamin,exact_single,,
+CTRL-131,cytosine,cytosine,chemical,single,597,,,,597,Cytosine,exact_single,,
+CTRL-132,dimethyl sulfoxide,dimethyl sulfoxide,chemical,single,679,,,,679,Dimethyl Sulfoxide,exact_single,,
+CTRL-133,dithiothreitol,dithiothreitol,chemical,single,439196,,,,439196,Dithiothreitol,exact_single,,
+CTRL-134,docosahexaenoic acid,docosahexaenoic acid,chemical,single,445580,,,,445580,Doconexent,exact_single,,
+CTRL-135,eicosapentaenoic acid,eicosapentaenoic acid,chemical,single,5282847,,,,5282847,Eicosapentaenoic Acid,exact_single,,
+CTRL-136,epinephrine,epinephrine,chemical,single,5816,,,,5816,Epinephrine,exact_single,,
+CTRL-137,ethanol,ethanol,chemical,single,702,,,,702,Ethanol,exact_single,,
+CTRL-138,ethylenediaminetetraacetic acid,ethylenediaminetetraacetic acid,chemical,single,6049,,,,6049,Ethylenediaminetetraacetic Acid,exact_single,,
+CTRL-139,flavin adenine dinucleotide,flavin adenine dinucleotide,chemical,single,643975,,,,643975,Flavin Adenine Dinucleotide,exact_single,,
+CTRL-140,folic acid,folic acid,chemical,single,135398658,,,,135398658,Folic Acid,exact_single,,
+CTRL-141,formaldehyde,formaldehyde,chemical,single,712,,,,712,Formaldehyde,exact_single,,
+CTRL-142,gamma-aminobutyric acid,gamma-aminobutyric acid,chemical,single,119,,,,119,Gamma-Aminobutyric Acid,exact_single,,
+CTRL-143,gamma-glutamylcysteine,gamma-glutamylcysteine,chemical,single,123938,,,,123938,Gamma-L-Glutamyl-L-cysteine,exact_single,,
+CTRL-144,gamma-linolenic acid,gamma-linolenic acid,chemical,single,5280933,,,,5280933,Gamma-Linolenic acid,exact_single,,
+CTRL-145,glutathione,glutathione,chemical,single,124886,,,,124886,Glutathione,exact_single,,
+CTRL-146,glycerol,glycerol,chemical,single,753,,,,753,Glycerol,exact_single,,
+CTRL-147,hexane,hexane,chemical,single,8058,,,,8058,Hexane,exact_single,,
+CTRL-148,hydrochloric acid,hydrochloric acid,chemical,single,313,,,,313,Hydrochloric Acid,exact_single,,
+CTRL-149,hydrogen peroxide,hydrogen peroxide,chemical,single,784,,,,784,Hydrogen Peroxide,exact_single,,
+CTRL-150,hydroxyurea,hydroxyurea,chemical,single,3657,,,,3657,Hydroxyurea,exact_single,,
+CTRL-151,hypoxanthine,hypoxanthine,chemical,single,135398638,,,,135398638,Hypoxanthine,exact_single,,
+CTRL-152,ibuprofen,ibuprofen,chemical,single,3672,,,,3672,"Ibuprofen, (+-)-",exact_single,,
+CTRL-153,lactose,lactose,chemical,single,6134,,,,6134,beta-Lactose,exact_single,,
+CTRL-154,levodopa,levodopa,chemical,single,6047,,,,6047,Levodopa,exact_single,,
+CTRL-155,magnesium sulfate,magnesium sulfate,chemical,single,24083,,,,24083,Sulfuric acid magnesium salt (1:1),exact_single,,
+CTRL-156,magnesium sulfate heptahydrate,magnesium sulfate heptahydrate,chemical,single,24843,,,,24843,Magnesium Sulfate Heptahydrate,exact_single,,
+CTRL-157,melatonin,melatonin,chemical,single,896,,,,896,Melatonin,exact_single,,
+CTRL-158,mercury,mercury,chemical,single,23931,,,,23931,Mercury,exact_single,,
+CTRL-159,methanol,methanol,chemical,single,887,,,,887,Methanol,exact_single,,
+CTRL-160,myo-inositol,myo-inositol,chemical,single,892,,,,892,An inositol,exact_single,,
+CTRL-161,nicotinic acid,nicotinic acid,chemical,single,938,,,,938,Nicotinic Acid,exact_single,,
+CTRL-162,nitrous oxide,nitrous oxide,chemical,single,948,,,,948,Nitrous Oxide,exact_single,,
+CTRL-163,norepinephrine,norepinephrine,chemical,single,439260,,,,439260,Norepinephrine,exact_single,,
+CTRL-164,p-cresol,p-cresol,chemical,single,2879,,,,2879,P-Cresol,exact_single,,
+CTRL-165,p-xylene,p-xylene,chemical,single,7809,,,,7809,P-Xylene,exact_single,,
+CTRL-166,palmitic acid,palmitic acid,chemical,single,985,,,,985,Palmitic Acid,exact_single,,
+CTRL-167,phenol,phenol,chemical,single,996,,,,996,Phenol,exact_single,,
+CTRL-168,phenylmethylsulfonyl fluoride,phenylmethylsulfonyl fluoride,chemical,single,4784,,,,4784,Phenylmethylsulfonyl Fluoride,exact_single,,
+CTRL-169,phosphate-buffered saline,phosphate-buffered saline,chemical,single,24978514,,,,24978514,Phosphate Buffered Saline,exact_single,,
+CTRL-170,phosphatidylcholine,phosphatidylcholine,chemical,none,,,,,,,term_unresolvable,,
+CTRL-171,phosphoenolpyruvate,phosphoenolpyruvate,chemical,single,1005,,,,1005,Phosphoenolpyruvate,exact_single,,
+CTRL-172,pyridoxine,pyridoxine,chemical,single,1054,,,,1054,Pyridoxine,exact_single,,
+CTRL-173,pyruvate,pyruvate,chemical,single,107735,,,,107735,Pyruvate,exact_single,,
+CTRL-174,riboflavin,riboflavin,chemical,single,493570,,,,493570,Riboflavin,exact_single,,
+CTRL-175,serotonin,serotonin,chemical,single,5202,,,,5202,Serotonin,exact_single,,
+CTRL-176,sodium bicarbonate,sodium bicarbonate,chemical,single,516892,,,,516892,Sodium Bicarbonate,exact_single,,
+CTRL-177,sodium chloride,sodium chloride,chemical,single,5234,,,,5234,Sodium Chloride,exact_single,,
+CTRL-178,sodium dodecyl sulfate,sodium dodecyl sulfate,chemical,single,3423265,,,,3423265,Sodium Lauryl Sulfate,exact_single,,
+CTRL-179,sodium hydroxide,sodium hydroxide,chemical,single,14798,,,,14798,Sodium Hydroxide,exact_single,,
+CTRL-180,spermine,spermine,chemical,single,1103,,,,1103,Spermine,exact_single,,
+CTRL-181,sulfuric acid,sulfuric acid,chemical,single,1118,,,,1118,Sulfuric Acid,exact_single,,
+CTRL-182,thalidomide,thalidomide,chemical,single,5426,,,,5426,Thalidomide,exact_single,,
+CTRL-183,thiamine,thiamine,chemical,single,1130,,,,1130,Thiamine,exact_single,,
+CTRL-184,tretinoin,tretinoin,chemical,single,444795,,,,444795,Retinoic Acid,exact_single,,
+CTRL-185,trichloroacetic acid,trichloroacetic acid,chemical,single,6421,,,,6421,Trichloroacetic Acid,exact_single,,
+CTRL-186,trimethylamine,trimethylamine,chemical,single,1146,,,,1146,Trimethylamine,exact_single,,
+CTRL-187,tromethamine,tromethamine,chemical,single,6503,,,,6503,Tris(hydroxymethyl)aminomethane,exact_single,,
+CTRL-188,urea,urea,chemical,single,1176,,,,1176,Urea,exact_single,,
+CTRL-189,xanthine,xanthine,chemical,single,1188,,,,1188,Xanthine,exact_single,,

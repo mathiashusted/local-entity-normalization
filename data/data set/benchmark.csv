@@ -1,0 +1,320 @@
+id,input,clean_form,canonical_name,entity_type,noise_type,noise_detail,id_status,accepted_id,note
+CHEM-001,glucosse,glucose,D-glucose,chemical,typo,doubled_letter,ambiguous,5793,
+CHEM-002,ureaa,urea,urea,chemical,typo,doubled_letter,single,1176,
+CHEM-003,hydroxyureaa,hydroxyurea,hydroxyurea,chemical,typo,doubled_letter,single,3657,Minimal pair with 'ureaa'.
+CHEM-004,cytossine,cytosine,cytosine,chemical,typo,doubled_letter,single,597,
+CHEM-005,sperrmine,spermine,spermine,chemical,typo,doubled_letter,single,1103,Adjacent entity: spermidine.
+CHEM-006,melattonin,melatonin,melatonin,chemical,typo,doubled_letter,single,896,
+CHEM-007,mannnitol,mannitol,D-mannitol,chemical,typo,doubled_letter,ambiguous,6251,Tripled letter; edit distance 2.
+CHEM-008,xanhtine,xanthine,xanthine,chemical,typo,transposition,single,1188,
+CHEM-009,cystiene,cysteine,L-cysteine,chemical,typo,transposition,ambiguous,5862,Adjacent entity: cystine (disulfide dimer).
+CHEM-010,aspratic acid,aspartic acid,L-aspartic acid,chemical,typo,transposition,ambiguous,5960,
+CHEM-011,butryic acid,butyric acid,butanoic acid,chemical,typo,transposition,single,264,
+CHEM-012,glutathoine,glutathione,glutathione,chemical,typo,transposition,single,124886,Reduced (GSH) vs oxidised (GSSG) must be declared.
+CHEM-013,chlorofrom,chloroform,chloroform,chemical,typo,transposition,single,6212,
+CHEM-014,tetrahydrobiooterin,tetrahydrobiopterin,"(6R)-5,6,7,8-tetrahydrobiopterin",chemical,typo,substitution,single,135409384,
+CHEM-015,methiunine,methionine,L-methionine,chemical,typo,substitution,ambiguous,6137,
+CHEM-016,deoxyrybose,deoxyribose,2-deoxy-D-ribose,chemical,typo,substitution,ambiguous,5460005,
+CHEM-017,riboflvin,riboflavin,riboflavin,chemical,typo,deletion,single,493570,
+CHEM-018,phenyalalanine,phenylalanine,L-phenylalanine,chemical,typo,deletion,ambiguous,6140,
+CHEM-019,hypoxnthine,hypoxanthine,hypoxanthine,chemical,typo,deletion,single,135398638,
+CHEM-020,pyrdoxine,pyridoxine,pyridoxine,chemical,typo,deletion,single,1054,
+CHEM-021,cholestrol,cholesterol,cholesterol,chemical,typo,deletion,single,5997,
+CHEM-022,asetic acid,acetic acid,acetic acid,chemical,typo,phonetic,single,176,"Sound-alike substitution, not a keyboard slip."
+CHEM-023,ATP,adenosine 5'-triphosphate,adenosine 5'-triphosphate,chemical,abbreviation,acronym,single,5957,
+CHEM-024,ADP,adenosine 5'-diphosphate,adenosine 5'-diphosphate,chemical,abbreviation,acronym,single,6022,
+CHEM-025,NADPH,NADPH,NADPH,chemical,unperturbed,unambiguous,single,5884,
+CHEM-026,FAD,flavin adenine dinucleotide,flavin adenine dinucleotide,chemical,abbreviation,acronym,ambiguous,643975,Oxidised FAD vs reduced FADH2.
+CHEM-027,GABA,gamma-aminobutyric acid,gamma-aminobutyric acid,chemical,abbreviation,acronym,single,119,
+CHEM-028,DHA,docosahexaenoic acid,docosahexaenoic acid,chemical,abbreviation,acronym,ambiguous,445580,DHA also denotes dehydroascorbic acid and dihydroxyacetone.
+CHEM-029,EPA,eicosapentaenoic acid,eicosapentaenoic acid,chemical,abbreviation,acronym,single,5282847,
+CHEM-030,PEP,phosphoenolpyruvate,phosphoenolpyruvate,chemical,abbreviation,acronym,single,1005,
+CHEM-031,G6P,glucose 6-phosphate,D-glucose 6-phosphate,chemical,abbreviation,acronym,ambiguous,439958;99058,
+CHEM-032,Acetyl-CoA,acetyl coenzyme A,acetyl-CoA,chemical,abbreviation,acronym,single,444493,
+CHEM-033,DMSO,dimethyl sulfoxide,dimethyl sulfoxide,chemical,abbreviation,acronym,single,679,
+CHEM-034,EDTA,ethylenediaminetetraacetic acid,ethylenediaminetetraacetic acid,chemical,abbreviation,acronym,single,6049,
+CHEM-035,SDS,sodium dodecyl sulfate,sodium dodecyl sulfate,chemical,abbreviation,acronym,single,3423265,
+CHEM-036,DTT,dithiothreitol,dithiothreitol,chemical,abbreviation,acronym,single,439196,
+CHEM-037,PMSF,phenylmethylsulfonyl fluoride,phenylmethylsulfonyl fluoride,chemical,abbreviation,acronym,single,4784,
+CHEM-038,HEPES,HEPES,HEPES,chemical,unperturbed,unambiguous,single,23831,
+CHEM-039,Tris,tris(hydroxymethyl)aminomethane,tromethamine,chemical,abbreviation,clipped,single,6503,
+CHEM-040,PBS,phosphate-buffered saline,phosphate-buffered saline,chemical,abbreviation,acronym,single,24978514,"Buffer mixture, not a compound. API will return CID 24978514, which is accepted"
+CHEM-041,TCA,trichloroacetic acid,trichloroacetic acid,chemical,abbreviation,acronym,ambiguous,6421,Also expands to 'tricarboxylic acid cycle'. Context-dependent.
+CHEM-042,5-HT,5-hydroxytryptamine,serotonin,chemical,abbreviation,acronym,single,5202,
+CHEM-043,NAC,N-acetylcysteine,N-acetyl-L-cysteine,chemical,abbreviation,acronym,ambiguous,12035,
+CHEM-044,cAMP,cyclic adenosine monophosphate,"3',5'-cyclic AMP",chemical,abbreviation,acronym,single,6076,LLM should normalize to chemical if type is unknown due to the casing (collision with HGNC CAMP)
+CHEM-045,FRUCTOSE,fructose,D-fructose,chemical,casing,all_caps,ambiguous,2723872,
+CHEM-046,Adenosine Triphosphate,adenosine triphosphate,adenosine 5'-triphosphate,chemical,casing,title_case,ambiguous,5957,
+CHEM-047,dmso,DMSO,dimethyl sulfoxide,chemical,casing,all_lower,single,679,
+CHEM-048,CAMP,cAMP,"3',5'-cyclic AMP",chemical,casing,all_caps,ambiguous,6076,Collides with HGNC symbol CAMP (cathelicidin). Both results accepted here If type is unknown
+CHEM-049,nadh,NADH,NADH,chemical,casing,all_lower,single,439153,
+CHEM-050,l-dopa,L-DOPA,levodopa,chemical,casing,all_lower,single,6047,Lower-casing destroys the L- stereo descriptor.
+CHEM-051,d-glucose,D-glucose,D-glucose,chemical,casing,all_lower,single,5793,Stereo descriptor becomes indistinguishable from a prefix letter.
+CHEM-052,VITAMIN C,vitamin C,L-ascorbic acid,chemical,casing,all_caps,single,54670067,
+CHEM-053,Sodium Chloride,sodium chloride,sodium chloride,chemical,casing,title_case,single,5234,
+CHEM-054,hcl,HCl,hydrochloric acid,chemical,casing,all_lower,single,313,Element-symbol casing destroyed.
+CHEM-055,NAOH,NaOH,sodium hydroxide,chemical,casing,all_caps,single,14798,Element-symbol casing destroyed.
+CHEM-056,co2,CO2,carbon dioxide,chemical,casing,all_lower,single,280,
+CHEM-057,mgso4,MgSO4,magnesium sulfate,chemical,casing,all_lower,single,24083,
+CHEM-058,ETHANOL,ethanol,ethanol,chemical,casing,all_caps,single,702,
+CHEM-059,h2o2,H2O2,hydrogen peroxide,chemical,casing,all_lower,single,784,
+CHEM-060,Alpha-ketoglutarate,alpha-ketoglutarate,2-oxoglutaric acid,chemical,casing,title_case,single,51,
+CHEM-061,fructose 6 phosphate,fructose 6-phosphate,D-fructose 6-phosphate,chemical,separator,hyphen_to_space,ambiguous,439160,
+CHEM-062,N acetylcysteine,N-acetylcysteine,N-acetyl-L-cysteine,chemical,separator,hyphen_to_space,ambiguous,12035,
+CHEM-063,beta carotene,beta-carotene,beta-carotene,chemical,separator,hyphen_to_space,single,5280489,
+CHEM-064,β-carotene,beta-carotene,beta-carotene,chemical,synonym,orthographic_variant,single,5280489,Greek character in place of the spelled-out prefix.
+CHEM-065,2oxoglutaricacid,2-oxoglutaric acid,2-oxoglutaric acid,chemical,separator,separator_removed,single,51,
+CHEM-066,5 hydroxytryptamine,5-hydroxytryptamine,serotonin,chemical,separator,hyphen_to_space,single,5202,
+CHEM-067,adenosine-triphosphate,adenosine triphosphate,adenosine 5'-triphosphate,chemical,separator,space_to_hyphen,ambiguous,5957,
+CHEM-068,glucose6phosphate,glucose 6-phosphate,D-glucose 6-phosphate,chemical,separator,separator_removed,ambiguous,439958;99058,
+CHEM-069,"N,N dimethylformamide","N,N-dimethylformamide","N,N-dimethylformamide",chemical,separator,hyphen_to_space,single,6228,
+CHEM-070,"1,25 dihydroxyvitamin D3","1,25-dihydroxyvitamin D3",calcitriol,chemical,separator,hyphen_to_space,single,5280453,
+CHEM-071,sodium-chloride,sodium chloride,sodium chloride,chemical,separator,space_to_hyphen,single,5234,
+CHEM-072,acetyl CoA,acetyl-CoA,acetyl-CoA,chemical,separator,hyphen_to_space,single,444493,
+CHEM-073,vitamin-C,vitamin C,L-ascorbic acid,chemical,separator,space_to_hyphen,single,54670067,
+CHEM-074,2-oxoglutarate,2-oxoglutaric acid,2-oxoglutaric acid,chemical,synonym,anion_form,single,51,
+CHEM-075,deoxy-ribose,deoxyribose,2-deoxy-D-ribose,chemical,separator,hyphen_inserted,ambiguous,5460005,
+CHEM-076,L glutamine,L-glutamine,L-glutamine,chemical,separator,hyphen_to_space,single,5961,Stereo descriptor detached from the stem.
+CHEM-077,tri methylamine,trimethylamine,trimethylamine,chemical,separator,space_inserted,single,1146,
+CHEM-078,p aminobenzoic acid,p-aminobenzoic acid,4-aminobenzoic acid,chemical,separator,hyphen_to_space,single,978,
+CHEM-079,3'5' cyclic AMP,"3',5'-cyclic AMP","3',5'-cyclic AMP",chemical,separator,punctuation_stripped,single,6076,
+CHEM-080,γ-aminobutyric acid,gamma-aminobutyric acid,gamma-aminobutyric acid,chemical,synonym,orthographic_variant,single,119,
+CHEM-081,vitamin C,L-ascorbic acid,L-ascorbic acid,chemical,synonym,trivial_name,single,54670067,
+CHEM-082,vitamin B1,thiamine,thiamine,chemical,synonym,trivial_name,single,1130,
+CHEM-083,vitamin B2,riboflavin,riboflavin,chemical,synonym,trivial_name,single,493570,
+CHEM-084,vitamin B3,nicotinic acid,nicotinic acid,chemical,synonym,trivial_name,ambiguous,938,Vitamin B3 covers both nicotinic acid and nicotinamide.
+CHEM-085,vitamin B6,pyridoxine,pyridoxine,chemical,synonym,trivial_name,ambiguous,1054,"Vitamin B6 covers pyridoxine, pyridoxal and pyridoxamine."
+CHEM-086,vitamin H,D-biotin,D-biotin,chemical,synonym,obsolete_name,single,171548,
+CHEM-087,vitamin B12,cyanocobalamin,cyanocobalamin,chemical,synonym,trivial_name,ambiguous,166596686,Several cobalamin forms share the vitamin B12 label.
+CHEM-088,paracetamol,acetaminophen,acetaminophen,chemical,synonym,regional_name,single,1983,INN vs USAN.
+CHEM-089,adrenaline,epinephrine,epinephrine,chemical,synonym,regional_name,single,5816,INN vs USAN.
+CHEM-090,noradrenaline,norepinephrine,norepinephrine,chemical,synonym,regional_name,single,439260,INN vs USAN.
+CHEM-091,dextrose,D-glucose,D-glucose,chemical,synonym,trivial_name,single,5793,
+CHEM-092,table salt,sodium chloride,sodium chloride,chemical,synonym,colloquial_name,single,5234,
+CHEM-093,baking soda,sodium bicarbonate,sodium bicarbonate,chemical,synonym,colloquial_name,single,516892,
+CHEM-094,caustic soda,sodium hydroxide,sodium hydroxide,chemical,synonym,colloquial_name,single,14798,
+CHEM-095,muriatic acid,hydrochloric acid,hydrochloric acid,chemical,synonym,obsolete_name,single,313,
+CHEM-096,wood alcohol,methanol,methanol,chemical,synonym,colloquial_name,single,887,
+CHEM-097,carbolic acid,phenol,phenol,chemical,synonym,obsolete_name,single,996,
+CHEM-098,oil of vitriol,sulfuric acid,sulfuric acid,chemical,synonym,obsolete_name,single,1118,
+CHEM-099,Epsom salt,magnesium sulfate,magnesium sulfate heptahydrate,chemical,synonym,colloquial_name,ambiguous,24843,Colloquial name denotes the heptahydrate specifically.
+CHEM-100,milk sugar,lactose,lactose,chemical,synonym,colloquial_name,single,6134,Alpha/beta anomer unspecified.
+CHEM-101,glycerin,glycerol,glycerol,chemical,synonym,trivial_name,single,753,
+CHEM-102,aspirin,acetylsalicylic acid,acetylsalicylic acid,chemical,synonym,brand_derived,single,2244,
+CHEM-103,laughing gas,nitrous oxide,nitrous oxide,chemical,synonym,colloquial_name,single,948,
+CHEM-104,quicksilver,mercury,mercury,chemical,synonym,obsolete_name,single,23931,
+CHEM-105,formalin,formalin,formaldehyde,chemical,synonym,near_synonym,single,712,"Formalin is an aqueous formaldehyde solution, not the pure compound. It will however be returned by the PubChem API as a synonym of formaldehyde"
+CHEM-106,ethyl alcohol,ethanol,ethanol,chemical,synonym,trivial_name,single,702,
+CHEM-107,"acid, ascorbic",L-ascorbic acid,L-ascorbic acid,chemical,word_order,index_inversion,single,54670067,Catalogue-style inversion.
+CHEM-108,"acid, folic",folic acid,folic acid,chemical,word_order,index_inversion,single,135398658,
+CHEM-109,"acid, acetic",acetic acid,acetic acid,chemical,word_order,index_inversion,single,176,
+CHEM-110,"chloride, sodium",sodium chloride,sodium chloride,chemical,word_order,index_inversion,single,5234,
+CHEM-111,"acid, hydrochloric",hydrochloric acid,hydrochloric acid,chemical,word_order,index_inversion,single,313,
+CHEM-112,"acid, L-glutamic",L-glutamic acid,L-glutamic acid,chemical,word_order,index_inversion,single,33032,
+CHEM-113,"5'-triphosphate, adenosine",adenosine 5'-triphosphate,adenosine 5'-triphosphate,chemical,word_order,index_inversion,single,5957,
+CHEM-114,"acid, palmitic",palmitic acid,palmitic acid,chemical,word_order,index_inversion,single,985,
+CHEM-115,"peroxide, hydrogen",hydrogen peroxide,hydrogen peroxide,chemical,word_order,index_inversion,single,784,
+CHEM-116,"acid, citric",citric acid,citric acid,chemical,word_order,index_inversion,single,311,
+CHEM-117,glucose,D-glucose,D-glucose,chemical,underspecification,stereo_qualifier_dropped,ambiguous,5793,
+CHEM-118,lactate,lactate,(S)-lactate,chemical,underspecification,stereo_qualifier_dropped,ambiguous,5460161,
+CHEM-119,adenosine monophosphate,adenosine 5'-monophosphate,adenosine 5'-monophosphate,chemical,underspecification,position_qualifier_dropped,ambiguous,6083,"2'-, 3'- and 5'-AMP are distinct compounds."
+CHEM-120,NAD,NAD+,NAD+,chemical,underspecification,redox_state_dropped,ambiguous,5892,NAD+ vs NADH.
+CHEM-121,cholesterol,cholesterol,cholesterol,chemical,unperturbed,unambiguous,single,5997,GSH vs GSSG.
+CHEM-122,inositol,myo-inositol,myo-inositol,chemical,underspecification,isomer_qualifier_dropped,ambiguous,892,Nine stereoisomers.
+CHEM-123,xylene,p-xylene,p-xylene,chemical,underspecification,isomer_qualifier_dropped,ambiguous,7809,"o-, m-, p- and mixed xylenes are four records."
+CHEM-124,vitamin D,vitamin D3,cholecalciferol,chemical,underspecification,form_qualifier_dropped,ambiguous,5280795,D2 (ergocalciferol) vs D3.
+CHEM-125,vitamin E,alpha-tocopherol,alpha-tocopherol,chemical,underspecification,form_qualifier_dropped,ambiguous,14985,Eight tocopherol/tocotrienol forms.
+CHEM-126,carnitine,L-carnitine,L-carnitine,chemical,underspecification,stereo_qualifier_dropped,ambiguous,10917,
+CHEM-127,glycerol,glycerol,glycerol,chemical,unperturbed,unambiguous,single,753,
+CHEM-128,retinoic acid,all-trans-retinoic acid,tretinoin,chemical,underspecification,isomer_qualifier_dropped,ambiguous,444795,
+CHEM-129,ribose,D-ribose,D-ribose,chemical,underspecification,stereo_qualifier_dropped,ambiguous,10975657,Short string; fuzzy matching unstable at this length.
+CHEM-130,tartaric acid,tartaric acid,L-tartaric acid,chemical,underspecification,stereo_qualifier_dropped,ambiguous,444305,
+CHEM-131,melatonin,melatonin,melatonin,chemical,unperturbed,unambiguous,single,896,Enantiomers differ pharmacologically; marketed form is racemic.
+CHEM-132,chloroform,chloroform,chloroform,chemical,unperturbed,unambiguous,single,6212,
+CHEM-133,cytosine,cytosine,cytosine,chemical,unperturbed,unambiguous,single,597,
+CHEM-134,cresol,p-cresol,p-cresol,chemical,underspecification,isomer_qualifier_dropped,ambiguous,2879,
+CHEM-135,menthol,(-)-menthol,(-)-menthol,chemical,underspecification,stereo_qualifier_dropped,ambiguous,16666,
+CHEM-136,galactosamine,D-galactosamine,D-galactosamine,chemical,underspecification,stereo_qualifier_dropped,ambiguous,24154,
+CHEM-137,Î²-carotene,β-carotene,beta-carotene,chemical,tool_artifact,encoding_mojibake,single,5280489,UTF-8 bytes decoded as Latin-1.
+CHEM-138,Î³-glutamylcysteine,γ-glutamylcysteine,gamma-glutamylcysteine,chemical,tool_artifact,encoding_mojibake,single,123938,UTF-8 bytes decoded as Latin-1.
+CHEM-139,adenosine 5′-triphosphate,adenosine 5'-triphosphate,adenosine 5'-triphosphate,chemical,tool_artifact,unicode_prime,single,5957,U+2032 prime instead of ASCII apostrophe.
+CHEM-140, glucose ,glucose,D-glucose,chemical,tool_artifact,whitespace_padding,ambiguous,5793,Leading and trailing spaces from a spreadsheet cell.
+CHEM-141,sodium  chloride,sodium chloride,sodium chloride,chemical,tool_artifact,whitespace_doubling,single,5234,Doubled internal space.
+CHEM-142,H₂O₂,H2O2,hydrogen peroxide,chemical,tool_artifact,unicode_subscript,single,784,Unicode subscripts from a PDF copy-paste.
+CHEM-143,"1,25-dihydroxyvitami","1,25-dihydroxyvitamin D3",calcitriol,chemical,tool_artifact,field_truncation,single,5280453,Fixed-width export truncation.
+CHEM-144,3-hydroxy-3-methylglutar,3-hydroxy-3-methylglutaryl-CoA,3-hydroxy-3-methylglutaryl-CoA,chemical,tool_artifact,field_truncation,single,91506,Fixed-width export truncation.
+CHEM-145,&gamma;-linolenic acid,γ-linolenic acid,gamma-linolenic acid,chemical,tool_artifact,html_entity_leak,single,5280933,Unrendered HTML entity from scraped text.
+CHEM-146,adenosine 5’-monophosphate,adenosine 5'-monophosphate,adenosine 5'-monophosphate,chemical,tool_artifact,smart_quote,single,6083,Word autocorrect replaced the prime with a curly quote.
+CHEM-147,boric acid,boric acid,boric acid,chemical,tool_artifact,nonbreaking_space,single,7628,U+00A0 instead of a normal space.
+CHEM-148,phospha-tidylcholine,phosphatidylcholine,,chemical,tool_artifact,pdf_hyphenation,none,,Line-break hyphen retained. Also a lipid class with no single CID.
+CHEM-149,N,,,chemical,tool_artifact,csv_field_split,none,,"Naive comma parsing split the name. Unrecoverable by design: score on abstention, not accuracy."
+CHEM-150,pyruvate*,pyruvate,pyruvate,chemical,tool_artifact,reference_marker,ambiguous,107735,Footnote marker carried over from a table.
+CHEM-151,D-glucose 9-phosphate,,,chemical,non_existent,impossible_locant,none,,
+CHEM-152,L-glucosamine 8-phosphate,,,chemical,non_existent,impossible_locant,none,,
+CHEM-153,hydroxyureine,,,chemical,non_existent,morpheme_blend,none,,
+CHEM-154,trimethylinositol,,,chemical,non_existent,plausible_derivative_chemical,none,,
+CHEM-155,gamma-tocotrienolic acid,,,chemical,non_existent,plausible_derivative_chemical,none,,
+CHEM-156,N-acetylthreonyl-CoA,,,chemical,non_existent,plausible_derivative_chemical,none,,
+CHEM-157,dimethylcarnitine sulfate,,,chemical,non_existent,plausible_derivative_chemical,none,,
+CHEM-158,pentahydroxyhexanoic anhydride,,,chemical,non_existent,plausible_derivative_chemical,none,,
+CHEM-159,amphetmine,amphetamine,amphetamine,chemical,typo,deletion,single,3007,
+CHEM-160,HEXANE,hexane,hexane,chemical,casing,all_caps,single,8058,
+CHEM-161,ibuprofin,ibuprofen,ibuprofen,chemical,typo,substitution,single,3672,
+CHEM-162,thallidomide,thalidomide,thalidomide,chemical,typo,doubled_letter,single,5426,
+GENE-001,TP35,TP53,TP53,gene,typo,transposition,single,HGNC:11998,
+GENE-002,EFGR,EGFR,EGFR,gene,typo,transposition,single,HGNC:3236,
+GENE-003,BRAC1,BRCA1,BRCA1,gene,typo,transposition,single,HGNC:1100,
+GENE-004,CFRT,CFTR,CFTR,gene,typo,transposition,single,HGNC:1884,
+GENE-005,KARS,KRAS,KRAS,gene,typo,transposition,ambiguous,HGNC:6407,KARS is also the previous HGNC symbol for KARS1. Genuinely ambiguous; expect confident errors.
+GENE-006,VEGAF,VEGFA,VEGFA,gene,typo,transposition,single,HGNC:12680,
+GENE-007,GAPHD,GAPDH,GAPDH,gene,typo,transposition,single,HGNC:4141,
+GENE-008,SMDA4,SMAD4,SMAD4,gene,typo,transposition,single,HGNC:6770,
+GENE-009,PETN,PTEN,PTEN,gene,typo,transposition,ambiguous,HGNC:9588,PETN is also a chemical (pentaerythritol tetranitrate). Cross-namespace trap.
+GENE-010,MTHRF,MTHFR,MTHFR,gene,typo,transposition,single,HGNC:7436,
+GENE-011,ACBT,ACTB,ACTB,gene,typo,transposition,single,HGNC:132,
+GENE-012,EBRB2,ERBB2,ERBB2,gene,typo,transposition,single,HGNC:3430,
+GENE-013,aplha-synuclein,alpha-synuclein,SNCA,gene,typo,transposition,single,HGNC:11138,
+GENE-014,hungtingtin,huntingtin,HTT,gene,typo,transposition,single,HGNC:4851,
+GENE-015,apolipoprotien E,apolipoprotein E,APOE,gene,typo,transposition,single,HGNC:613,
+GENE-016,tumor prot p53,tumor protein p53,TP53,gene,typo,deletion,single,HGNC:11998,
+GENE-017,interlukin 6,interleukin 6,IL6,gene,typo,deletion,single,HGNC:6018,
+GENE-018,insulin recptor,insulin receptor,INSR,gene,typo,deletion,single,HGNC:6091,
+GENE-019,glucocorticod receptor,glucocorticoid receptor,NR3C1,gene,typo,deletion,single,HGNC:7978,
+GENE-020,cyclooxigenase-2,cyclooxygenase-2,PTGS2,gene,typo,substitution,single,HGNC:9605,
+GENE-021,epidermal growth factor receptor,EGFR,EGFR,gene,abbreviation,expansion,single,HGNC:3236,
+GENE-022,tumor protein p53,TP53,TP53,gene,abbreviation,expansion,single,HGNC:11998,
+GENE-023,vascular endothelial growth factor A,VEGFA,VEGFA,gene,abbreviation,expansion,single,HGNC:12680,
+GENE-024,interleukin 6,IL6,IL6,gene,abbreviation,expansion,single,HGNC:6018,
+GENE-025,tumor necrosis factor,TNF,TNF,gene,abbreviation,expansion,single,HGNC:11892,
+GENE-026,cystic fibrosis transmembrane conductance regulator,CFTR,CFTR,gene,abbreviation,expansion,single,HGNC:1884,
+GENE-027,glyceraldehyde-3-phosphate dehydrogenase,GAPDH,GAPDH,gene,abbreviation,expansion,single,HGNC:4141,
+GENE-028,beta-2-microglobulin,B2M,B2M,gene,abbreviation,expansion,single,HGNC:914,
+GENE-029,hypoxanthine phosphoribosyltransferase 1,HPRT1,HPRT1,gene,abbreviation,expansion,single,HGNC:5157,
+GENE-030,estrogen receptor 1,ESR1,ESR1,gene,abbreviation,expansion,single,HGNC:3467,
+GENE-031,androgen receptor,AR,AR,gene,abbreviation,expansion,single,HGNC:644,
+GENE-032,amyloid beta precursor protein,APP,APP,gene,abbreviation,expansion,single,HGNC:620,
+GENE-033,superoxide dismutase 1,SOD1,SOD1,gene,abbreviation,expansion,single,HGNC:11179,
+GENE-034,catechol-O-methyltransferase,COMT,COMT,gene,abbreviation,expansion,single,HGNC:2228,
+GENE-035,brain derived neurotrophic factor,BDNF,BDNF,gene,abbreviation,expansion,single,HGNC:1033,
+GENE-036,angiotensin converting enzyme,ACE,ACE,gene,abbreviation,expansion,ambiguous,HGNC:2707,ACE vs ACE2 are distinct genes; the bare expansion is often used loosely.
+GENE-037,low density lipoprotein receptor,LDLR,LDLR,gene,abbreviation,expansion,single,HGNC:6547,
+GENE-038,proprotein convertase subtilisin/kexin type 9,PCSK9,PCSK9,gene,abbreviation,expansion,single,HGNC:20001,
+GENE-039,3-hydroxy-3-methylglutaryl-CoA reductase,HMGCR,HMGCR,gene,abbreviation,expansion,single,HGNC:5006,
+GENE-040,methylenetetrahydrofolate reductase,MTHFR,MTHFR,gene,abbreviation,expansion,single,HGNC:7436,
+GENE-041,matrix metallopeptidase 9,MMP9,MMP9,gene,abbreviation,expansion,single,HGNC:7176,
+GENE-042,signal transducer and activator of transcription 3,STAT3,STAT3,gene,abbreviation,expansion,single,HGNC:11364,
+GENE-043,tp53,TP53,TP53,gene,casing,all_lower,single,HGNC:11998,
+GENE-044,Tp53,TP53,TP53,gene,casing,species_convention,single,HGNC:11998,Title case is the mouse ortholog convention. Species policy must be declared.
+GENE-045,brca1,BRCA1,BRCA1,gene,casing,all_lower,single,HGNC:1100,
+GENE-046,Brca1,BRCA1,BRCA1,gene,casing,species_convention,ambiguous,HGNC:1100,Mouse convention.
+GENE-047,egfr,EGFR,EGFR,gene,casing,all_lower,single,HGNC:3236,
+GENE-048,Egfr,EGFR,EGFR,gene,casing,species_convention,ambiguous,HGNC:3236,Mouse convention.
+GENE-049,Actb,ACTB,ACTB,gene,casing,species_convention,ambiguous,HGNC:132,Mouse convention.
+GENE-050,il6,IL6,IL6,gene,casing,all_lower,single,HGNC:6018,
+GENE-051,Il6,IL6,IL6,gene,casing,species_convention,ambiguous,HGNC:6018,Mouse convention.
+GENE-052,cftr,CFTR,CFTR,gene,casing,all_lower,single,HGNC:1884,
+GENE-053,Cftr,CFTR,CFTR,gene,casing,species_convention,ambiguous,HGNC:1884,Mouse convention.
+GENE-054,c9orf72,C9orf72,C9orf72,gene,casing,all_lower,single,HGNC:28337,
+GENE-055,C9ORF72,C9orf72,C9orf72,gene,casing,all_caps,single,HGNC:28337,Very common but non-standard: HGNC keeps 'orf' lower case.
+GENE-056,Kras,KRAS,KRAS,gene,casing,species_convention,ambiguous,HGNC:6407,Mouse convention.
+GENE-057,mtor,MTOR,MTOR,gene,casing,all_lower,single,HGNC:3942,
+GENE-058,Myc,MYC,MYC,gene,casing,species_convention,ambiguous,HGNC:7553,Mouse convention.
+GENE-059,Gapdh,GAPDH,GAPDH,gene,casing,species_convention,ambiguous,HGNC:4141,Mouse convention.
+GENE-060,hla-drb1,HLA-DRB1,HLA-DRB1,gene,casing,all_lower,single,HGNC:4948,
+GENE-061,Vegfa,VEGFA,VEGFA,gene,casing,species_convention,ambiguous,HGNC:12680,Mouse convention.
+GENE-062,pten,PTEN,PTEN,gene,casing,all_lower,single,HGNC:9588,
+GENE-063,IL 6,IL6,IL6,gene,separator,space_inserted,single,HGNC:6018,
+GENE-064,IL-6,IL6,IL6,gene,separator,hyphen_inserted,single,HGNC:6018,
+GENE-065,HLA DRB1,HLA-DRB1,HLA-DRB1,gene,separator,hyphen_to_space,single,HGNC:4948,
+GENE-066,HLADRB1,HLA-DRB1,HLA-DRB1,gene,separator,separator_removed,single,HGNC:4948,
+GENE-067,C9orf-72,C9orf72,C9orf72,gene,separator,hyphen_inserted,single,HGNC:28337,
+GENE-068,CD-4,CD4,CD4,gene,separator,hyphen_inserted,single,HGNC:1678,
+GENE-069,p-53,p53,TP53,gene,separator,hyphen_inserted,single,HGNC:11998,Separator noise applied to an alias rather than the approved symbol.
+GENE-070,SLC2 A1,SLC2A1,SLC2A1,gene,separator,space_inserted,single,HGNC:11005,
+GENE-071,MT CO1,MT-CO1,MT-CO1,gene,separator,hyphen_to_space,single,HGNC:7419,
+GENE-072,MTCO1,MT-CO1,MT-CO1,gene,separator,separator_removed,single,HGNC:7419,
+GENE-073,HLA A,HLA-A,HLA-A,gene,separator,hyphen_to_space,single,HGNC:4931,
+GENE-074,IGF-1,IGF1,IGF1,gene,separator,hyphen_inserted,single,HGNC:5464,
+GENE-075,IL 1B,IL1B,IL1B,gene,separator,space_inserted,single,HGNC:5992,
+GENE-076,NAT-2,NAT2,NAT2,gene,separator,hyphen_inserted,single,HGNC:7646,
+GENE-077,CYP3 A4,CYP3A4,CYP3A4,gene,separator,space_inserted,single,HGNC:2637,
+GENE-078,TGFB 1,TGFB1,TGFB1,gene,separator,space_inserted,single,HGNC:11766,
+GENE-079,BRCA-1,BRCA1,BRCA1,gene,separator,hyphen_inserted,single,HGNC:1100,
+GENE-080,HIF1-A,HIF1A,HIF1A,gene,separator,hyphen_inserted,single,HGNC:4910,
+GENE-081,MAP2 K1,MAP2K1,MAP2K1,gene,separator,space_inserted,single,HGNC:6840,
+GENE-082,ERBB-2,ERBB2,ERBB2,gene,separator,hyphen_inserted,single,HGNC:3430,
+GENE-083,p53,TP53,TP53,gene,synonym,alias_symbol,single,HGNC:11998,
+GENE-084,HER2,ERBB2,ERBB2,gene,synonym,alias_symbol,single,HGNC:3430,
+GENE-085,IL8,CXCL8,CXCL8,gene,synonym,previous_symbol,single,HGNC:6025,HGNC renamed IL8 to CXCL8.
+GENE-086,MCP-1,CCL2,CCL2,gene,synonym,alias_symbol,single,HGNC:10618,
+GENE-087,RANTES,CCL5,CCL5,gene,synonym,alias_symbol,single,HGNC:10632,
+GENE-088,PD-1,PDCD1,PDCD1,gene,synonym,alias_symbol,single,HGNC:8760,
+GENE-089,PD-L1,CD274,CD274,gene,synonym,alias_symbol,single,HGNC:17635,
+GENE-090,CD20,MS4A1,MS4A1,gene,synonym,alias_symbol,single,HGNC:7315,
+GENE-091,VEGF,VEGFA,VEGFA,gene,synonym,previous_symbol,ambiguous,HGNC:12680,VEGF is also used loosely for the whole ligand family.
+GENE-092,GLUT1,SLC2A1,SLC2A1,gene,synonym,alias_symbol,single,HGNC:11005,
+GENE-093,SERT,SLC6A4,SLC6A4,gene,synonym,alias_symbol,single,HGNC:11050,
+GENE-094,MDR1,ABCB1,ABCB1,gene,synonym,previous_symbol,single,HGNC:40,
+GENE-095,COX-2,PTGS2,PTGS2,gene,synonym,alias_symbol,ambiguous,HGNC:9605,COX2 also denotes MT-CO2 (cytochrome c oxidase subunit II). Cross-family collision.
+GENE-096,FRAP1,MTOR,MTOR,gene,synonym,previous_symbol,single,HGNC:3942,
+GENE-097,CD152,CTLA4,CTLA4,gene,synonym,alias_symbol,single,HGNC:2505,
+GENE-098,PSA,KLK3,KLK3,gene,synonym,alias_symbol,single,HGNC:6364,
+GENE-099,CA-125,MUC16,MUC16,gene,synonym,alias_symbol,single,HGNC:15582,
+GENE-100,CEA,CEACAM5,CEACAM5,gene,synonym,alias_symbol,single,HGNC:1817,
+GENE-101,Ki-67,MKI67,MKI67,gene,synonym,alias_symbol,single,HGNC:7107,
+GENE-102,ERK2,MAPK1,MAPK1,gene,synonym,alias_symbol,single,HGNC:6871,ERK1=MAPK3 and ERK2=MAPK1: the numbering is inverted. Classic confident-error source.
+GENE-103,ERK1,MAPK3,MAPK3,gene,synonym,alias_symbol,single,HGNC:6877,See ERK2 note; paired item.
+GENE-104,Nrf2,NFE2L2,NFE2L2,gene,synonym,alias_symbol,single,HGNC:7782,
+GENE-105,hERG,KCNH2,KCNH2,gene,synonym,alias_symbol,single,HGNC:6251,
+GENE-106,haemoglobin beta,hemoglobin subunit beta,HBB,gene,synonym,orthographic_variant,single,HGNC:4827,"British spelling; a legitimate variant, not an error."
+GENE-107,TNF-alpha,tumor necrosis factor,TNF,gene,synonym,historical_name,single,HGNC:11892,TNFA was a previous symbol; 'alpha' is no longer part of the approved name.
+GENE-108,dystrophin,DMD,DMD,gene,synonym,protein_name,single,HGNC:2928,Protein name used for the gene; tests gene/product conflation.
+GENE-109,"receptor, epidermal growth factor",epidermal growth factor receptor,EGFR,gene,word_order,index_inversion,single,HGNC:3236,
+GENE-110,"protein p53, tumor",tumor protein p53,TP53,gene,word_order,index_inversion,single,HGNC:11998,
+GENE-111,"factor A, vascular endothelial growth",vascular endothelial growth factor A,VEGFA,gene,word_order,index_inversion,single,HGNC:12680,
+GENE-112,"necrosis factor, tumor",tumor necrosis factor,TNF,gene,word_order,index_inversion,single,HGNC:11892,
+GENE-113,"receptor, androgen",androgen receptor,AR,gene,word_order,index_inversion,single,HGNC:644,
+GENE-114,"receptor 1, estrogen",estrogen receptor 1,ESR1,gene,word_order,index_inversion,single,HGNC:3467,
+GENE-115,"dismutase 1, superoxide",superoxide dismutase 1,SOD1,gene,word_order,index_inversion,single,HGNC:11179,
+GENE-116,"reductase, methylenetetrahydrofolate",methylenetetrahydrofolate reductase,MTHFR,gene,word_order,index_inversion,single,HGNC:7436,
+GENE-117,"receptor, low density lipoprotein",low density lipoprotein receptor,LDLR,gene,word_order,index_inversion,single,HGNC:6547,
+GENE-118,"enzyme, angiotensin converting",angiotensin converting enzyme,ACE,gene,word_order,index_inversion,ambiguous,HGNC:2707,
+GENE-119,"receptor, insulin",insulin receptor,INSR,gene,word_order,index_inversion,single,HGNC:6091,
+GENE-120,"factor, brain derived neurotrophic",brain derived neurotrophic factor,BDNF,gene,word_order,index_inversion,single,HGNC:1033,
+GENE-121,"precursor protein, amyloid beta",amyloid beta precursor protein,APP,gene,word_order,index_inversion,single,HGNC:620,
+GENE-122,"metallopeptidase 9, matrix",matrix metallopeptidase 9,MMP9,gene,word_order,index_inversion,single,HGNC:7176,
+GENE-123,"kinase 1, mitogen-activated protein",mitogen-activated protein kinase 1,MAPK1,gene,word_order,index_inversion,single,HGNC:6871,
+GENE-124,"activator of transcription 3, signal transducer and",signal transducer and activator of transcription 3,STAT3,gene,word_order,index_inversion,single,HGNC:11364,
+GENE-125,"regulator, cystic fibrosis transmembrane conductance",cystic fibrosis transmembrane conductance regulator,CFTR,gene,word_order,index_inversion,single,HGNC:1884,
+GENE-126,BRCA1 gene,BRCA1,BRCA1,gene,tool_artifact,appositive_added,single,HGNC:1100,
+GENE-127,KRAS oncogene,KRAS,KRAS,gene,tool_artifact,appositive_added,single,HGNC:6407,
+GENE-128,insulin-like growth factors,insulin-like growth factor,IGF1,gene,tool_artifact,plural_inflection,ambiguous,HGNC:5464,Plural covers IGF1 and IGF2.
+GENE-129,ERK,MAPK1,MAPK1,gene,underspecification,family_member_unspecified,ambiguous,HGNC:6871,ERK1 (MAPK3) vs ERK2 (MAPK1).
+GENE-130,p38,MAPK14,MAPK14,gene,underspecification,family_member_unspecified,ambiguous,HGNC:6876,p38 alpha/beta/gamma/delta.
+GENE-131,AMPK,PRKAA1,PRKAA1,gene,underspecification,complex_subunit_unspecified,ambiguous,HGNC:9376,Heterotrimeric complex; seven subunit genes. Abstention probe.
+GENE-132,NF-kB,RELA,RELA,gene,underspecification,complex_subunit_unspecified,ambiguous,HGNC:9955,Dimeric transcription factor family. Abstention probe.
+GENE-133,PKA,PRKACA,PRKACA,gene,underspecification,complex_subunit_unspecified,ambiguous,HGNC:9380,Holoenzyme of catalytic and regulatory subunits. Abstention probe.
+GENE-134,PI3K,PIK3CA,PIK3CA,gene,underspecification,complex_subunit_unspecified,ambiguous,HGNC:8975,Catalytic plus regulatory subunit. Abstention probe.
+GENE-135,collagen,COL1A1,COL1A1,gene,underspecification,family_member_unspecified,ambiguous,HGNC:2197,Over 40 collagen genes. Abstention probe.
+GENE-136,actin,ACTB,ACTB,gene,underspecification,family_member_unspecified,ambiguous,HGNC:132,Six human actin genes.
+GENE-137,tubulin,TUBB,TUBB,gene,underspecification,family_member_unspecified,ambiguous,HGNC:20778,Large alpha/beta/gamma family. Abstention probe.
+GENE-138,TGF-beta,TGFB1,TGFB1,gene,underspecification,family_member_unspecified,ambiguous,HGNC:11766,TGFB1/2/3.
+GENE-139,cytochrome P450,CYP3A4,CYP3A4,gene,underspecification,family_unspecified,ambiguous,HGNC:2637,57 human CYP genes. Abstention probe.
+GENE-140,HLA-DR,HLA-DRB1,HLA-DRB1,gene,underspecification,locus_unspecified,ambiguous,HGNC:4948,DR comprises DRA plus DRB1/3/4/5.
+GENE-141,1-Mar,MARCH1,MARCHF1,gene,tool_artifact,excel_date_coercion,single,HGNC:26077,HGNC renamed MARCH1 to MARCHF1 in 2020 because of this failure.
+GENE-142,2-Sep,SEPT2,SEPTIN2,gene,tool_artifact,excel_date_coercion,single,HGNC:7729,HGNC renamed SEPT2 to SEPTIN2.
+GENE-143,1-Dec,DEC1,DELEC1,gene,tool_artifact,excel_date_coercion,single,HGNC:23658,HGNC renamed DEC1 to DELEC1.
+GENE-144,9-Sep,SEPT9,SEPTIN9,gene,tool_artifact,excel_date_coercion,single,HGNC:7323,
+GENE-145,5-Mar,MARCH5,MARCHF5,gene,tool_artifact,excel_date_coercion,single,HGNC:26025,
+GENE-146,43891,,,gene,tool_artifact,excel_serial_date,none,,Date serial for 2020-03-01 after re-formatting. Unrecoverable by design: score on abstention.
+GENE-147,NF-ÎºB,NF-kappa-B,RELA,gene,tool_artifact,encoding_mojibake,ambiguous,HGNC:9955,Mojibake plus a complex-level name. Abstention probe.
+GENE-148,TNFÎ±,TNF,TNF,gene,tool_artifact,encoding_mojibake,single,HGNC:11892,
+GENE-149,TP53 ,TP53,TP53,gene,tool_artifact,whitespace_padding,single,HGNC:11998,Trailing space from a spreadsheet cell.
+GENE-150,C9orf7,C9orf72,C9orf72,gene,tool_artifact,field_truncation,single,HGNC:28337,Fixed-width truncation drops the final digit.
+GENE-151,BRCA4,,,gene,non_existent,family_extension,none,,
+GENE-152,TP55,,,gene,non_existent,family_extension,none,,
+GENE-153,CDK94,,,gene,non_existent,family_extension,none,,
+GENE-154,MAPK47,,,gene,non_existent,family_extension,none,,
+GENE-155,IL73,,,gene,non_existent,family_extension,none,,
+GENE-156,SLC6A99,,,gene,non_existent,family_extension,none,,
+GENE-157,CYP3A88,,,gene,non_existent,family_extension,none,,
