@@ -1,0 +1,163 @@
+id,canonical_name,input,n_candidates,noise_type,id_status,accepted_id,returned_id
+CHEM-001,D-glucose,glucosse,0,typo,ambiguous,5793,
+CHEM-002,urea,ureaa,0,typo,single,1176,
+CHEM-003,hydroxyurea,hydroxyureaa,0,typo,single,3657,
+CHEM-004,cytosine,cytossine,0,typo,single,597,
+CHEM-005,spermine,sperrmine,0,typo,single,1103,
+CHEM-006,melatonin,melattonin,0,typo,single,896,
+CHEM-007,D-mannitol,mannnitol,0,typo,ambiguous,6251,
+CHEM-008,xanthine,xanhtine,0,typo,single,1188,
+CHEM-009,L-cysteine,cystiene,0,typo,ambiguous,5862,
+CHEM-010,L-aspartic acid,aspratic acid,0,typo,ambiguous,5960,
+CHEM-011,butanoic acid,butryic acid,0,typo,single,264,
+CHEM-012,glutathione,glutathoine,0,typo,single,124886,
+CHEM-013,chloroform,chlorofrom,0,typo,single,6212,
+CHEM-014,"(6R)-5,6,7,8-tetrahydrobiopterin",tetrahydrobiooterin,0,typo,single,135409384,
+CHEM-015,L-methionine,methiunine,0,typo,ambiguous,6137,
+CHEM-016,2-deoxy-D-ribose,deoxyrybose,0,typo,ambiguous,5460005,
+CHEM-017,riboflavin,riboflvin,0,typo,single,493570,
+CHEM-018,L-phenylalanine,phenyalalanine,0,typo,ambiguous,6140,
+CHEM-019,hypoxanthine,hypoxnthine,0,typo,single,135398638,
+CHEM-020,pyridoxine,pyrdoxine,0,typo,single,1054,
+CHEM-021,cholesterol,cholestrol,1,typo,single,5997,5997
+CHEM-022,acetic acid,asetic acid,0,typo,single,176,
+CHEM-023,adenosine 5'-triphosphate,ATP,1,abbreviation,single,5957,5957
+CHEM-024,adenosine 5'-diphosphate,ADP,1,abbreviation,single,6022,6022
+CHEM-025,NADPH,NADPH,1,unperturbed,single,5884,5884
+CHEM-026,flavin adenine dinucleotide,FAD,4,abbreviation,ambiguous,643975,
+CHEM-027,gamma-aminobutyric acid,GABA,1,abbreviation,single,119,119
+CHEM-028,docosahexaenoic acid,DHA,1,abbreviation,ambiguous,445580,15608515
+CHEM-029,eicosapentaenoic acid,EPA,1,abbreviation,single,5282847,446284
+CHEM-030,phosphoenolpyruvate,PEP,1,abbreviation,single,1005,1005
+CHEM-031,D-glucose 6-phosphate,G6P,1,abbreviation,ambiguous,439958;99058,439284
+CHEM-032,acetyl-CoA,Acetyl-CoA,1,abbreviation,single,444493,444493
+CHEM-033,dimethyl sulfoxide,DMSO,1,abbreviation,single,679,679
+CHEM-034,ethylenediaminetetraacetic acid,EDTA,1,abbreviation,single,6049,6049
+CHEM-035,sodium dodecyl sulfate,SDS,0,abbreviation,single,3423265,
+CHEM-036,dithiothreitol,DTT,4,abbreviation,single,439196,
+CHEM-037,phenylmethylsulfonyl fluoride,PMSF,1,abbreviation,single,4784,4784
+CHEM-038,HEPES,HEPES,1,unperturbed,single,23831,23831
+CHEM-039,tromethamine,Tris,1,abbreviation,single,6503,6503
+CHEM-040,phosphate-buffered saline,PBS,1,abbreviation,single,24978514,14819
+CHEM-041,trichloroacetic acid,TCA,1,abbreviation,ambiguous,6421,6421
+CHEM-042,serotonin,5-HT,1,abbreviation,single,5202,5202
+CHEM-043,N-acetyl-L-cysteine,NAC,0,abbreviation,ambiguous,12035,
+CHEM-044,"3',5'-cyclic AMP",cAMP,1,abbreviation,single,6076,6076
+CHEM-045,D-fructose,FRUCTOSE,1,casing,ambiguous,2723872,2723872
+CHEM-046,adenosine 5'-triphosphate,Adenosine Triphosphate,1,casing,ambiguous,5957,5957
+CHEM-047,dimethyl sulfoxide,dmso,1,casing,single,679,679
+CHEM-048,"3',5'-cyclic AMP",CAMP,1,casing,ambiguous,6076,6076
+CHEM-049,NADH,nadh,1,casing,single,439153,439153
+CHEM-050,levodopa,l-dopa,1,casing,single,6047,6047
+CHEM-051,D-glucose,d-glucose,1,casing,single,5793,5793
+CHEM-052,L-ascorbic acid,VITAMIN C,1,casing,single,54670067,54670067
+CHEM-053,sodium chloride,Sodium Chloride,1,casing,single,5234,5234
+CHEM-054,hydrochloric acid,hcl,1,casing,single,313,313
+CHEM-055,sodium hydroxide,NAOH,1,casing,single,14798,14798
+CHEM-056,carbon dioxide,co2,1,casing,single,280,280
+CHEM-057,magnesium sulfate,mgso4,1,casing,single,24083,24083
+CHEM-058,ethanol,ETHANOL,1,casing,single,702,702
+CHEM-059,hydrogen peroxide,h2o2,1,casing,single,784,784
+CHEM-060,2-oxoglutaric acid,Alpha-ketoglutarate,1,casing,single,51,164533
+CHEM-061,D-fructose 6-phosphate,fructose 6 phosphate,0,separator,ambiguous,439160,
+CHEM-062,N-acetyl-L-cysteine,N acetylcysteine,1,separator,ambiguous,12035,12035
+CHEM-063,beta-carotene,beta carotene,1,separator,single,5280489,5280489
+CHEM-064,beta-carotene,β-carotene,0,synonym,single,5280489,
+CHEM-065,2-oxoglutaric acid,2oxoglutaricacid,0,separator,single,51,
+CHEM-066,serotonin,5 hydroxytryptamine,1,separator,single,5202,5202
+CHEM-067,adenosine 5'-triphosphate,adenosine-triphosphate,1,separator,ambiguous,5957,5957
+CHEM-068,D-glucose 6-phosphate,glucose6phosphate,0,separator,ambiguous,439958;99058,
+CHEM-069,"N,N-dimethylformamide","N,N dimethylformamide",1,separator,single,6228,6228
+CHEM-070,calcitriol,"1,25 dihydroxyvitamin D3",1,separator,single,5280453,5280453
+CHEM-071,sodium chloride,sodium-chloride,1,separator,single,5234,5234
+CHEM-072,acetyl-CoA,acetyl CoA,1,separator,single,444493,444493
+CHEM-073,L-ascorbic acid,vitamin-C,1,separator,single,54670067,54670067
+CHEM-074,2-oxoglutaric acid,2-oxoglutarate,1,synonym,single,51,51
+CHEM-075,2-deoxy-D-ribose,deoxy-ribose,0,separator,ambiguous,5460005,
+CHEM-076,L-glutamine,L glutamine,1,separator,single,5961,5961
+CHEM-077,trimethylamine,tri methylamine,0,separator,single,1146,
+CHEM-078,4-aminobenzoic acid,p aminobenzoic acid,1,separator,single,978,978
+CHEM-079,"3',5'-cyclic AMP",3'5' cyclic AMP,0,separator,single,6076,
+CHEM-080,gamma-aminobutyric acid,γ-aminobutyric acid,0,synonym,single,119,
+CHEM-081,L-ascorbic acid,vitamin C,1,synonym,single,54670067,54670067
+CHEM-082,thiamine,vitamin B1,1,synonym,single,1130,1130
+CHEM-083,riboflavin,vitamin B2,1,synonym,single,493570,493570
+CHEM-084,nicotinic acid,vitamin B3,1,synonym,ambiguous,938,938
+CHEM-085,pyridoxine,vitamin B6,1,synonym,ambiguous,1054,104817
+CHEM-086,D-biotin,vitamin H,1,synonym,single,171548,171548
+CHEM-087,cyanocobalamin,vitamin B12,1,synonym,ambiguous,166596686,165339223
+CHEM-088,acetaminophen,paracetamol,1,synonym,single,1983,1983
+CHEM-089,epinephrine,adrenaline,1,synonym,single,5816,5816
+CHEM-090,norepinephrine,noradrenaline,1,synonym,single,439260,439260
+CHEM-091,D-glucose,dextrose,1,synonym,single,5793,5793
+CHEM-092,sodium chloride,table salt,1,synonym,single,5234,5234
+CHEM-093,sodium bicarbonate,baking soda,1,synonym,single,516892,516892
+CHEM-094,sodium hydroxide,caustic soda,1,synonym,single,14798,14798
+CHEM-095,hydrochloric acid,muriatic acid,1,synonym,single,313,313
+CHEM-096,methanol,wood alcohol,1,synonym,single,887,887
+CHEM-097,phenol,carbolic acid,1,synonym,single,996,996
+CHEM-098,sulfuric acid,oil of vitriol,0,synonym,single,1118,
+CHEM-099,magnesium sulfate heptahydrate,Epsom salt,1,synonym,ambiguous,24843,24843
+CHEM-100,lactose,milk sugar,1,synonym,single,6134,6134
+CHEM-101,glycerol,glycerin,1,synonym,single,753,753
+CHEM-102,acetylsalicylic acid,aspirin,1,synonym,single,2244,2244
+CHEM-103,nitrous oxide,laughing gas,1,synonym,single,948,948
+CHEM-104,mercury,quicksilver,1,synonym,single,23931,23931
+CHEM-105,formaldehyde,formalin,1,synonym,single,712,712
+CHEM-106,ethanol,ethyl alcohol,1,synonym,single,702,702
+CHEM-107,L-ascorbic acid,"acid, ascorbic",1,word_order,single,54670067,54670067
+CHEM-108,folic acid,"acid, folic",0,word_order,single,135398658,
+CHEM-109,acetic acid,"acid, acetic",0,word_order,single,176,
+CHEM-110,sodium chloride,"chloride, sodium",0,word_order,single,5234,
+CHEM-111,hydrochloric acid,"acid, hydrochloric",1,word_order,single,313,313
+CHEM-112,L-glutamic acid,"acid, L-glutamic",0,word_order,single,33032,
+CHEM-113,adenosine 5'-triphosphate,"5'-triphosphate, adenosine",0,word_order,single,5957,
+CHEM-114,palmitic acid,"acid, palmitic",1,word_order,single,985,985
+CHEM-115,hydrogen peroxide,"peroxide, hydrogen",1,word_order,single,784,784
+CHEM-116,citric acid,"acid, citric",0,word_order,single,311,
+CHEM-117,D-glucose,glucose,1,underspecification,ambiguous,5793,5793
+CHEM-118,(S)-lactate,lactate,1,underspecification,ambiguous,5460161,91435
+CHEM-119,adenosine 5'-monophosphate,adenosine monophosphate,1,underspecification,ambiguous,6083,6083
+CHEM-120,NAD+,NAD,1,underspecification,ambiguous,5892,5892
+CHEM-121,cholesterol,cholesterol,1,unperturbed,single,5997,5997
+CHEM-122,myo-inositol,inositol,1,underspecification,ambiguous,892,892
+CHEM-123,p-xylene,xylene,0,underspecification,ambiguous,7809,
+CHEM-124,cholecalciferol,vitamin D,0,underspecification,ambiguous,5280795,
+CHEM-125,alpha-tocopherol,vitamin E,0,underspecification,ambiguous,14985,
+CHEM-126,L-carnitine,carnitine,1,underspecification,ambiguous,10917,288
+CHEM-127,glycerol,glycerol,1,unperturbed,single,753,753
+CHEM-128,tretinoin,retinoic acid,1,underspecification,ambiguous,444795,444795
+CHEM-129,D-ribose,ribose,1,underspecification,ambiguous,10975657,10975657
+CHEM-130,L-tartaric acid,tartaric acid,1,underspecification,ambiguous,444305,444305
+CHEM-131,melatonin,melatonin,1,unperturbed,single,896,896
+CHEM-132,chloroform,chloroform,1,unperturbed,single,6212,6212
+CHEM-133,cytosine,cytosine,1,unperturbed,single,597,597
+CHEM-134,p-cresol,cresol,0,underspecification,ambiguous,2879,
+CHEM-135,(-)-menthol,menthol,1,underspecification,ambiguous,16666,1254
+CHEM-136,D-galactosamine,galactosamine,1,underspecification,ambiguous,24154,24154
+CHEM-137,beta-carotene,Î²-carotene,0,tool_artifact,single,5280489,
+CHEM-138,gamma-glutamylcysteine,Î³-glutamylcysteine,0,tool_artifact,single,123938,
+CHEM-139,adenosine 5'-triphosphate,adenosine 5′-triphosphate,0,tool_artifact,single,5957,
+CHEM-140,D-glucose, glucose ,0,tool_artifact,ambiguous,5793,
+CHEM-141,sodium chloride,sodium  chloride,0,tool_artifact,single,5234,
+CHEM-142,hydrogen peroxide,H₂O₂,0,tool_artifact,single,784,
+CHEM-143,calcitriol,"1,25-dihydroxyvitami",0,tool_artifact,single,5280453,
+CHEM-144,3-hydroxy-3-methylglutaryl-CoA,3-hydroxy-3-methylglutar,0,tool_artifact,single,91506,
+CHEM-145,gamma-linolenic acid,&gamma;-linolenic acid,0,tool_artifact,single,5280933,
+CHEM-146,adenosine 5'-monophosphate,adenosine 5’-monophosphate,0,tool_artifact,single,6083,
+CHEM-147,boric acid,boric acid,0,tool_artifact,single,7628,
+CHEM-148,,phospha-tidylcholine,0,tool_artifact,none,,
+CHEM-149,,N,1,tool_artifact,none,,947
+CHEM-150,pyruvate,pyruvate*,0,tool_artifact,ambiguous,107735,
+CHEM-151,,D-glucose 9-phosphate,0,non_existent,none,,
+CHEM-152,,L-glucosamine 8-phosphate,0,non_existent,none,,
+CHEM-153,,hydroxyureine,0,non_existent,none,,
+CHEM-154,,trimethylinositol,0,non_existent,none,,
+CHEM-155,,gamma-tocotrienolic acid,0,non_existent,none,,
+CHEM-156,,N-acetylthreonyl-CoA,0,non_existent,none,,
+CHEM-157,,dimethylcarnitine sulfate,0,non_existent,none,,
+CHEM-158,,pentahydroxyhexanoic anhydride,0,non_existent,none,,
+CHEM-159,amphetamine,amphetmine,0,typo,single,3007,
+CHEM-160,hexane,HEXANE,1,casing,single,8058,8058
+CHEM-161,ibuprofen,ibuprofin,0,typo,single,3672,
+CHEM-162,thalidomide,thallidomide,0,typo,single,5426,
