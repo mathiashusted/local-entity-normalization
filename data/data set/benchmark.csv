@@ -27,7 +27,7 @@ CHEM-025,NADPH,NADPH,NADPH,chemical,unperturbed,unambiguous,single,5884,
 CHEM-026,FAD,flavin adenine dinucleotide,flavin adenine dinucleotide,chemical,abbreviation,acronym,ambiguous,643975,Oxidised FAD vs reduced FADH2.
 CHEM-027,GABA,gamma-aminobutyric acid,gamma-aminobutyric acid,chemical,abbreviation,acronym,single,119,
 CHEM-028,DHA,docosahexaenoic acid,docosahexaenoic acid,chemical,abbreviation,acronym,ambiguous,445580,DHA also denotes dehydroascorbic acid and dihydroxyacetone.
-CHEM-029,EPA,eicosapentaenoic acid,eicosapentaenoic acid,chemical,abbreviation,acronym,single,5282847,
+CHEM-029,EPA,eicosapentaenoic acid,eicosapentaenoic acid,chemical,abbreviation,acronym,ambiguous,5282847,ID 446284 returned by API
 CHEM-030,PEP,phosphoenolpyruvate,phosphoenolpyruvate,chemical,abbreviation,acronym,single,1005,
 CHEM-031,G6P,glucose 6-phosphate,D-glucose 6-phosphate,chemical,abbreviation,acronym,ambiguous,439958;99058,
 CHEM-032,Acetyl-CoA,acetyl coenzyme A,acetyl-CoA,chemical,abbreviation,acronym,single,444493,
@@ -38,7 +38,7 @@ CHEM-036,DTT,dithiothreitol,dithiothreitol,chemical,abbreviation,acronym,single,
 CHEM-037,PMSF,phenylmethylsulfonyl fluoride,phenylmethylsulfonyl fluoride,chemical,abbreviation,acronym,single,4784,
 CHEM-038,HEPES,HEPES,HEPES,chemical,unperturbed,unambiguous,single,23831,
 CHEM-039,Tris,tris(hydroxymethyl)aminomethane,tromethamine,chemical,abbreviation,clipped,single,6503,
-CHEM-040,PBS,phosphate-buffered saline,phosphate-buffered saline,chemical,abbreviation,acronym,single,24978514,"Buffer mixture, not a compound. API will return CID 24978514, which is accepted"
+CHEM-040,PBS,phosphate-buffered saline,phosphate-buffered saline,chemical,abbreviation,acronym,ambiguous,24978514,"Buffer mixture, not a compound. API will return CID 14819, which is a synonym of lead sulfide (chemical formula)"
 CHEM-041,TCA,trichloroacetic acid,trichloroacetic acid,chemical,abbreviation,acronym,ambiguous,6421,Also expands to 'tricarboxylic acid cycle'. Context-dependent.
 CHEM-042,5-HT,5-hydroxytryptamine,serotonin,chemical,abbreviation,acronym,single,5202,
 CHEM-043,NAC,N-acetylcysteine,N-acetyl-L-cysteine,chemical,abbreviation,acronym,ambiguous,12035,
@@ -58,7 +58,7 @@ CHEM-056,co2,CO2,carbon dioxide,chemical,casing,all_lower,single,280,
 CHEM-057,mgso4,MgSO4,magnesium sulfate,chemical,casing,all_lower,single,24083,
 CHEM-058,ETHANOL,ethanol,ethanol,chemical,casing,all_caps,single,702,
 CHEM-059,h2o2,H2O2,hydrogen peroxide,chemical,casing,all_lower,single,784,
-CHEM-060,Alpha-ketoglutarate,alpha-ketoglutarate,2-oxoglutaric acid,chemical,casing,title_case,single,51,
+CHEM-060,Alpha-ketoglutarate,alpha-ketoglutarate,2-oxoglutaric acid,chemical,casing,title_case,ambiguous,51,Gold names conjugate-base record
 CHEM-061,fructose 6 phosphate,fructose 6-phosphate,D-fructose 6-phosphate,chemical,separator,hyphen_to_space,ambiguous,439160,
 CHEM-062,N acetylcysteine,N-acetylcysteine,N-acetyl-L-cysteine,chemical,separator,hyphen_to_space,ambiguous,12035,
 CHEM-063,beta carotene,beta-carotene,beta-carotene,chemical,separator,hyphen_to_space,single,5280489,
@@ -116,7 +116,7 @@ CHEM-114,"acid, palmitic",palmitic acid,palmitic acid,chemical,word_order,index_
 CHEM-115,"peroxide, hydrogen",hydrogen peroxide,hydrogen peroxide,chemical,word_order,index_inversion,single,784,
 CHEM-116,"acid, citric",citric acid,citric acid,chemical,word_order,index_inversion,single,311,
 CHEM-117,glucose,D-glucose,D-glucose,chemical,underspecification,stereo_qualifier_dropped,ambiguous,5793,
-CHEM-118,lactate,lactate,(S)-lactate,chemical,underspecification,stereo_qualifier_dropped,ambiguous,5460161,
+CHEM-118,lactate,(S)-lactate,(S)-lactate,chemical,underspecification,stereo_qualifier_dropped,ambiguous,5460161,
 CHEM-119,adenosine monophosphate,adenosine 5'-monophosphate,adenosine 5'-monophosphate,chemical,underspecification,position_qualifier_dropped,ambiguous,6083,"2'-, 3'- and 5'-AMP are distinct compounds."
 CHEM-120,NAD,NAD+,NAD+,chemical,underspecification,redox_state_dropped,ambiguous,5892,NAD+ vs NADH.
 CHEM-121,cholesterol,cholesterol,cholesterol,chemical,unperturbed,unambiguous,single,5997,GSH vs GSSG.
@@ -128,7 +128,7 @@ CHEM-126,carnitine,L-carnitine,L-carnitine,chemical,underspecification,stereo_qu
 CHEM-127,glycerol,glycerol,glycerol,chemical,unperturbed,unambiguous,single,753,
 CHEM-128,retinoic acid,all-trans-retinoic acid,tretinoin,chemical,underspecification,isomer_qualifier_dropped,ambiguous,444795,
 CHEM-129,ribose,D-ribose,D-ribose,chemical,underspecification,stereo_qualifier_dropped,ambiguous,10975657,Short string; fuzzy matching unstable at this length.
-CHEM-130,tartaric acid,tartaric acid,L-tartaric acid,chemical,underspecification,stereo_qualifier_dropped,ambiguous,444305,
+CHEM-130,tartaric acid,L-tartaric acid,L-tartaric acid,chemical,underspecification,stereo_qualifier_dropped,ambiguous,444305,
 CHEM-131,melatonin,melatonin,melatonin,chemical,unperturbed,unambiguous,single,896,Enantiomers differ pharmacologically; marketed form is racemic.
 CHEM-132,chloroform,chloroform,chloroform,chemical,unperturbed,unambiguous,single,6212,
 CHEM-133,cytosine,cytosine,cytosine,chemical,unperturbed,unambiguous,single,597,
@@ -310,11 +310,11 @@ GENE-146,43891,,,gene,tool_artifact,excel_serial_date,none,,Date serial for 2020
 GENE-147,NF-ÎºB,NF-kappa-B,RELA,gene,tool_artifact,encoding_mojibake,ambiguous,HGNC:9955,Mojibake plus a complex-level name. Abstention probe.
 GENE-148,TNFÎ±,TNF,TNF,gene,tool_artifact,encoding_mojibake,single,HGNC:11892,
 GENE-149,TP53 ,TP53,TP53,gene,tool_artifact,whitespace_padding,single,HGNC:11998,Trailing space from a spreadsheet cell.
-GENE-150,C9orf7,C9orf72,C9orf72,gene,tool_artifact,field_truncation,single,HGNC:28337,Fixed-width truncation drops the final digit.
+GENE-150,C9orf7,C9orf72,C9orf72,gene,tool_artifact,field_truncation,ambiguous,HGNC:28337,Fixed-width truncation drops the final digit. That produces the previous symbol of HGNC:1365
 GENE-151,BRCA4,,,gene,non_existent,family_extension,none,,
-GENE-152,TP55,,,gene,non_existent,family_extension,none,,
 GENE-153,CDK94,,,gene,non_existent,family_extension,none,,
 GENE-154,MAPK47,,,gene,non_existent,family_extension,none,,
 GENE-155,IL73,,,gene,non_existent,family_extension,none,,
 GENE-156,SLC6A99,,,gene,non_existent,family_extension,none,,
 GENE-157,CYP3A88,,,gene,non_existent,family_extension,none,,
+GENE-158,TP83,,,gene,non_existent,family_extension,none,,Replaced GENE-152 as it was an actual synonym of CD-27
