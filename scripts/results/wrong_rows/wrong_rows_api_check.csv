@@ -1,0 +1,34 @@
+input_name,entity_type,pubchem_id,hgnc_id,uniprot_id,ncbi_gene_id
+DHA,chemical,15608515.0,,,
+EPA,chemical,446284.0,,,
+EPA,chemical,446284.0,,,
+G6P,chemical,439284.0,,,
+G6P,chemical,439284.0,,,
+PBS,chemical,14819.0,,,
+PBS,chemical,14819.0,,,
+Alpha-ketoglutarate,chemical,164533.0,,,
+Alpha-ketoglutarate,chemical,164533.0,,,
+vitamin B6,chemical,104817.0,,,
+vitamin B6,chemical,104817.0,,,
+vitamin B12,chemical,165339223.0,,,
+vitamin B12,chemical,165339223.0,,,
+vitamin B12,chemical,165339223.0,,,
+lactate,chemical,91435.0,,,
+lactate,chemical,91435.0,,,
+lactate,chemical,91435.0,,,
+carnitine,chemical,288.0,,,
+menthol,chemical,1254.0,,,
+menthol,chemical,1254.0,,,
+N,chemical,947.0,,,
+N,chemical,947.0,,,
+KARS,gene,,HGNC:6215,Q15046,3735
+KARS,gene,,HGNC:6215,Q15046,3735
+COX-2,gene,,HGNC:9594,P43116,5732
+COX-2,gene,,HGNC:9594,P43116,5732
+ERK,gene,,HGNC:3393,P29323,2048
+ERK,gene,,HGNC:3393,P29323,2048
+AMPK,gene,,HGNC:9377,P54646,5563
+AMPK,gene,,HGNC:9377,P54646,5563
+C9orf7,gene,,HGNC:1365,Q9UGQ2,11094
+C9orf7,gene,,HGNC:1365,Q9UGQ2,11094
+TP55,gene,,HGNC:11922,P26842,939

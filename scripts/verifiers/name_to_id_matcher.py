@@ -27,9 +27,13 @@ def get_chemical_id(name):
 # Resolve the gene symbol using the public HGNC REST API (the naming authority for
 # human gene symbols), which also contains the UniProt accession and NCBI Gene ID.
 def get_gene_hgnc(name):
-    url = f"https://rest.genenames.org/fetch/symbol/{quote(name, safe='')}"
-    result = fetch_json(url, headers={"Accept": "application/json"})
-    docs = result.get("response", {}).get("docs", [])
+    # Try the approved symbol first, then fall back to previous symbols and aliases
+    for field in ["symbol", "prev_symbol", "alias_symbol"]:
+        url = f"https://rest.genenames.org/fetch/{field}/{quote(name, safe='')}"
+        result = fetch_json(url, headers={"Accept": "application/json"})
+        docs = result.get("response", {}).get("docs", [])
+        if docs:
+            break
     if not docs:
         return None
     doc = docs[0]
@@ -57,7 +61,7 @@ pubchem_ids = []
 hgnc_ids = []
 uniprot_ids = []
 ncbi_gene_ids = []
-for name, entity_type in zip(data["canonical_name"], data["entity_type"]):
+for name, entity_type in zip(data["input_benchmark"], data["entity_type"]):
     entry = ENTITY_TYPE_COLUMNS.get(entity_type)
     if entry is None:
         unresolved_count += 1
@@ -85,7 +89,7 @@ for name, entity_type in zip(data["canonical_name"], data["entity_type"]):
 print(f"Finished resolving. Unresolved entities: {unresolved_count}")
 
 output_data = {
-    'input_name': data["canonical_name"],
+    'input_name': data["input_benchmark"],
     'entity_type': data["entity_type"],
     'pubchem_id': pubchem_ids,
     'hgnc_id': hgnc_ids,

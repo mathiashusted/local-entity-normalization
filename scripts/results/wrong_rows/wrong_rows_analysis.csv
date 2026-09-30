@@ -1,0 +1,35 @@
+,id,case,tier,input_benchmark,entity_type,noise_type,id_status,matched_field,returned_id,accepted_id,outcome,manual_check_notes,api_name_lookup_returns_same_result
+827,CHEM-028,b,synonym,DHA,chemical,abbreviation,ambiguous,,15608515,445580,wrong_entity,Unrelated chemical with same abbreviation,TRUE
+190,CHEM-029,a,synonym,EPA,chemical,abbreviation,single,,446284,5282847,wrong_entity,Unrelated chemical with same abbreviation,TRUE
+828,CHEM-029,b,synonym,EPA,chemical,abbreviation,single,,446284,5282847,wrong_entity,Unrelated chemical with same abbreviation,TRUE
+192,CHEM-031,a,synonym,G6P,chemical,abbreviation,ambiguous,,439284,439958;99058,wrong_entity,Returned alpha-G6P (cyclic) instead of the (gold) general D-G6P,TRUE
+830,CHEM-031,b,synonym,G6P,chemical,abbreviation,ambiguous,,439284,439958;99058,wrong_entity,Returned alpha-G6P (cyclic) instead of the (gold) general D-G6P,TRUE
+201,CHEM-040,a,synonym,PBS,chemical,abbreviation,single,,14819,24978514,wrong_entity,Returned PbS. PubChem interepreted the input as chemical formula,TRUE
+839,CHEM-040,b,synonym,PBS,chemical,abbreviation,single,,14819,24978514,wrong_entity,Returned PbS. PubChem interepreted the input as chemical formula,TRUE
+697,CHEM-060,b,canonical,Alpha-ketoglutarate,chemical,casing,single,,164533,51,wrong_entity,Correctly returned the conjugate-base record. Gold is false,TRUE
+859,CHEM-060,b,synonym,Alpha-ketoglutarate,chemical,casing,single,,164533,51,wrong_entity,Correctly returned the conjugate-base record. Gold is false,TRUE
+722,CHEM-085,b,canonical,vitamin B6,chemical,synonym,ambiguous,,104817,1054,wrong_entity,"Return ID is Vitamin B6, gold is pyridoxine. Investigate ambi",TRUE
+884,CHEM-085,b,synonym,vitamin B6,chemical,synonym,ambiguous,,104817,1054,wrong_entity,"Return ID is Vitamin B6, gold is pyridoxine. Investigate ambi",TRUE
+724,CHEM-087,b,canonical,vitamin B12,chemical,synonym,ambiguous,,165339223,166596686,wrong_entity,"Return ID is Vitamin B12, gold is cyanocobalamin. Investigate ambi",TRUE
+248,CHEM-087,a,synonym,vitamin B12,chemical,synonym,ambiguous,,165339223,166596686,wrong_entity,"Return ID is Vitamin B12, gold is cyanocobalamin. Investigate ambi",TRUE
+886,CHEM-087,b,synonym,vitamin B12,chemical,synonym,ambiguous,,165339223,166596686,wrong_entity,"Return ID is Vitamin B12, gold is cyanocobalamin. Investigate ambi",TRUE
+755,CHEM-118,b,canonical,lactate,chemical,underspecification,ambiguous,,91435,5460161,wrong_entity,"Return ID is Lactate, gold is (S)-Lactate. Investigate ",TRUE
+279,CHEM-118,a,synonym,lactate,chemical,underspecification,ambiguous,,91435,5460161,wrong_entity,"Return ID is Lactate, gold is (S)-Lactate. Investigate ",TRUE
+917,CHEM-118,b,synonym,lactate,chemical,underspecification,ambiguous,,91435,5460161,wrong_entity,"Return ID is Lactate, gold is (S)-Lactate. Investigate ",TRUE
+925,CHEM-126,b,synonym,carnitine,chemical,underspecification,ambiguous,,288,10917,wrong_entity,"Return ID is DL-Carnitine, gold is (-)-Carnitine. Investigate",TRUE
+772,CHEM-135,b,canonical,menthol,chemical,underspecification,ambiguous,,1254,16666,wrong_entity,"Return ID is Menthol, gold is (-)-Menthol. Investigate",TRUE
+934,CHEM-135,b,synonym,menthol,chemical,underspecification,ambiguous,,1254,16666,wrong_entity,"Return ID is Menthol, gold is (-)-Menthol. Investigate",TRUE
+310,CHEM-149,a,synonym,N,chemical,tool_artifact,none,,947,,returned_on_none,Returned Nitrogen. PubChem interepreted the input as chemical formula,TRUE
+948,CHEM-149,b,synonym,N,chemical,tool_artifact,none,,947,,returned_on_none,Returned Nitrogen. PubChem interepreted the input as chemical formula,TRUE
+485,GENE-005,a,synonym,KARS,gene,typo,ambiguous,prev_symbol,HGNC:6215,HGNC:6407,wrong_entity,"Returned KARS, gold is KRAS. Since KRAS is a typo of KARS, this is to be accepted",TRUE
+1123,GENE-005,b,synonym,KARS,gene,typo,ambiguous,prev_symbol,HGNC:6215,HGNC:6407,wrong_entity,"Returned KARS, gold is KRAS. Since KRAS is a typo of KARS, this is to be accepted",TRUE
+575,GENE-095,a,synonym,COX-2,gene,synonym,ambiguous,alias_symbol,HGNC:9594,HGNC:9605,wrong_entity,Returned ID is for the PTGER2 receptor gene. Gold seems to be correct,TRUE
+1213,GENE-095,b,synonym,COX-2,gene,synonym,ambiguous,alias_symbol,HGNC:9594,HGNC:9605,wrong_entity,Returned ID is for the PTGER2 receptor gene. Gold seems to be correct,TRUE
+609,GENE-129,a,synonym,ERK,gene,underspecification,ambiguous,prev_symbol,HGNC:3393,HGNC:6871,wrong_entity,Previous symbol,TRUE
+1247,GENE-129,b,synonym,ERK,gene,underspecification,ambiguous,prev_symbol,HGNC:3393,HGNC:6871,wrong_entity,Previous symbol,TRUE
+611,GENE-131,a,synonym,AMPK,gene,underspecification,ambiguous,alias_symbol,HGNC:9377,HGNC:9376,wrong_entity,Different sub-unit than gold.,TRUE
+1249,GENE-131,b,synonym,AMPK,gene,underspecification,ambiguous,alias_symbol,HGNC:9377,HGNC:9376,wrong_entity,Different sub-unit than gold.,TRUE
+630,GENE-150,a,synonym,C9orf7,gene,tool_artifact,single,prev_symbol,HGNC:1365,HGNC:28337,wrong_entity,Previous symbol,TRUE
+1268,GENE-150,b,synonym,C9orf7,gene,tool_artifact,single,prev_symbol,HGNC:1365,HGNC:28337,wrong_entity,Previous symbol,TRUE
+1270,GENE-152,b,synonym,TP55,gene,non_existent,none,alias_symbol,HGNC:11922,,returned_on_none,Returned ID is for CD27. TP55 is a previous name for CD27,TRUE
+,,,,,,,,,,,,,TRUE

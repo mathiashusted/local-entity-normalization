@@ -27,7 +27,7 @@ CHEM-025,NADPH,NADPH,1,unperturbed,single,5884,5884
 CHEM-026,flavin adenine dinucleotide,FAD,4,abbreviation,ambiguous,643975,
 CHEM-027,gamma-aminobutyric acid,GABA,1,abbreviation,single,119,119
 CHEM-028,docosahexaenoic acid,DHA,1,abbreviation,ambiguous,445580,15608515
-CHEM-029,eicosapentaenoic acid,EPA,1,abbreviation,single,5282847,446284
+CHEM-029,eicosapentaenoic acid,EPA,1,abbreviation,ambiguous,5282847,446284
 CHEM-030,phosphoenolpyruvate,PEP,1,abbreviation,single,1005,1005
 CHEM-031,D-glucose 6-phosphate,G6P,1,abbreviation,ambiguous,439958;99058,439284
 CHEM-032,acetyl-CoA,Acetyl-CoA,1,abbreviation,single,444493,444493
@@ -38,7 +38,7 @@ CHEM-036,dithiothreitol,DTT,4,abbreviation,single,439196,
 CHEM-037,phenylmethylsulfonyl fluoride,PMSF,1,abbreviation,single,4784,4784
 CHEM-038,HEPES,HEPES,1,unperturbed,single,23831,23831
 CHEM-039,tromethamine,Tris,1,abbreviation,single,6503,6503
-CHEM-040,phosphate-buffered saline,PBS,1,abbreviation,single,24978514,14819
+CHEM-040,phosphate-buffered saline,PBS,1,abbreviation,ambiguous,24978514,14819
 CHEM-041,trichloroacetic acid,TCA,1,abbreviation,ambiguous,6421,6421
 CHEM-042,serotonin,5-HT,1,abbreviation,single,5202,5202
 CHEM-043,N-acetyl-L-cysteine,NAC,0,abbreviation,ambiguous,12035,
@@ -58,7 +58,7 @@ CHEM-056,carbon dioxide,co2,1,casing,single,280,280
 CHEM-057,magnesium sulfate,mgso4,1,casing,single,24083,24083
 CHEM-058,ethanol,ETHANOL,1,casing,single,702,702
 CHEM-059,hydrogen peroxide,h2o2,1,casing,single,784,784
-CHEM-060,2-oxoglutaric acid,Alpha-ketoglutarate,1,casing,single,51,164533
+CHEM-060,2-oxoglutaric acid,Alpha-ketoglutarate,1,casing,ambiguous,51,164533
 CHEM-061,D-fructose 6-phosphate,fructose 6 phosphate,0,separator,ambiguous,439160,
 CHEM-062,N-acetyl-L-cysteine,N acetylcysteine,1,separator,ambiguous,12035,12035
 CHEM-063,beta-carotene,beta carotene,1,separator,single,5280489,5280489
