@@ -27,14 +27,14 @@ CHEM-025,NADPH,NADPH,NADPH,chemical,unperturbed,unambiguous,single,5884,
 CHEM-026,FAD,flavin adenine dinucleotide,flavin adenine dinucleotide,chemical,abbreviation,acronym,ambiguous,643975,Oxidised FAD vs reduced FADH2.
 CHEM-027,GABA,gamma-aminobutyric acid,gamma-aminobutyric acid,chemical,abbreviation,acronym,single,119,
 CHEM-028,DHA,docosahexaenoic acid,docosahexaenoic acid,chemical,abbreviation,acronym,ambiguous,445580,DHA also denotes dehydroascorbic acid and dihydroxyacetone.
-CHEM-029,EPA,eicosapentaenoic acid,eicosapentaenoic acid,chemical,abbreviation,acronym,ambiguous,5282847,ID 446284 returned by API
+CHEM-029,EPA,eicosapentaenoic acid,eicosapentaenoic acid,chemical,abbreviation,acronym,ambiguous,5282847,"ID 446284 returned by PUG API, no independent entry in ChEBI found"
 CHEM-030,PEP,phosphoenolpyruvate,phosphoenolpyruvate,chemical,abbreviation,acronym,single,1005,
 CHEM-031,G6P,glucose 6-phosphate,D-glucose 6-phosphate,chemical,abbreviation,acronym,ambiguous,439958;99058,
 CHEM-032,Acetyl-CoA,acetyl coenzyme A,acetyl-CoA,chemical,abbreviation,acronym,single,444493,
 CHEM-033,DMSO,dimethyl sulfoxide,dimethyl sulfoxide,chemical,abbreviation,acronym,single,679,
 CHEM-034,EDTA,ethylenediaminetetraacetic acid,ethylenediaminetetraacetic acid,chemical,abbreviation,acronym,single,6049,
 CHEM-035,SDS,sodium dodecyl sulfate,sodium dodecyl sulfate,chemical,abbreviation,acronym,single,3423265,
-CHEM-036,DTT,dithiothreitol,dithiothreitol,chemical,abbreviation,acronym,single,439196,
+CHEM-036,DTT,dithiothreitol,dithiothreitol,chemical,abbreviation,acronym,ambiguous,439196,"The input ""DTT"" is ambiguous as a PubChem search returns 4 different IDs."
 CHEM-037,PMSF,phenylmethylsulfonyl fluoride,phenylmethylsulfonyl fluoride,chemical,abbreviation,acronym,single,4784,
 CHEM-038,HEPES,HEPES,HEPES,chemical,unperturbed,unambiguous,single,23831,
 CHEM-039,Tris,tris(hydroxymethyl)aminomethane,tromethamine,chemical,abbreviation,clipped,single,6503,
@@ -98,12 +98,12 @@ CHEM-096,wood alcohol,methanol,methanol,chemical,synonym,colloquial_name,single,
 CHEM-097,carbolic acid,phenol,phenol,chemical,synonym,obsolete_name,single,996,
 CHEM-098,oil of vitriol,sulfuric acid,sulfuric acid,chemical,synonym,obsolete_name,single,1118,
 CHEM-099,Epsom salt,magnesium sulfate,magnesium sulfate heptahydrate,chemical,synonym,colloquial_name,ambiguous,24843,Colloquial name denotes the heptahydrate specifically.
-CHEM-100,milk sugar,lactose,lactose,chemical,synonym,colloquial_name,single,6134,Alpha/beta anomer unspecified.
+CHEM-100,milk sugar,lactose,lactose,chemical,synonym,colloquial_name,ambiguous,6134,Alpha/beta anomer unspecified.
 CHEM-101,glycerin,glycerol,glycerol,chemical,synonym,trivial_name,single,753,
 CHEM-102,aspirin,acetylsalicylic acid,acetylsalicylic acid,chemical,synonym,brand_derived,single,2244,
 CHEM-103,laughing gas,nitrous oxide,nitrous oxide,chemical,synonym,colloquial_name,single,948,
 CHEM-104,quicksilver,mercury,mercury,chemical,synonym,obsolete_name,single,23931,
-CHEM-105,formalin,formalin,formaldehyde,chemical,synonym,near_synonym,single,712,"Formalin is an aqueous formaldehyde solution, not the pure compound. It will however be returned by the PubChem API as a synonym of formaldehyde"
+CHEM-105,formalin,formaldehyde,formaldehyde,chemical,synonym,near_synonym,single,712,"Formalin is an aqueous formaldehyde solution, not the pure compound. It will however be returned by the PubChem API as a synonym of formaldehyde"
 CHEM-106,ethyl alcohol,ethanol,ethanol,chemical,synonym,trivial_name,single,702,
 CHEM-107,"acid, ascorbic",L-ascorbic acid,L-ascorbic acid,chemical,word_order,index_inversion,single,54670067,Catalogue-style inversion.
 CHEM-108,"acid, folic",folic acid,folic acid,chemical,word_order,index_inversion,single,135398658,
@@ -120,7 +120,7 @@ CHEM-118,lactate,(S)-lactate,(S)-lactate,chemical,underspecification,stereo_qual
 CHEM-119,adenosine monophosphate,adenosine 5'-monophosphate,adenosine 5'-monophosphate,chemical,underspecification,position_qualifier_dropped,ambiguous,6083,"2'-, 3'- and 5'-AMP are distinct compounds."
 CHEM-120,NAD,NAD+,NAD+,chemical,underspecification,redox_state_dropped,ambiguous,5892,NAD+ vs NADH.
 CHEM-121,cholesterol,cholesterol,cholesterol,chemical,unperturbed,unambiguous,single,5997,GSH vs GSSG.
-CHEM-122,inositol,myo-inositol,myo-inositol,chemical,underspecification,isomer_qualifier_dropped,ambiguous,892,Nine stereoisomers.
+CHEM-122,inositol,myo-inositol,myo-inositol,chemical,underspecification,isomer_qualifier_dropped,ambiguous,892,Nine stereoisomers. Record has no stereo-information
 CHEM-123,xylene,p-xylene,p-xylene,chemical,underspecification,isomer_qualifier_dropped,ambiguous,7809,"o-, m-, p- and mixed xylenes are four records."
 CHEM-124,vitamin D,vitamin D3,cholecalciferol,chemical,underspecification,form_qualifier_dropped,ambiguous,5280795,D2 (ergocalciferol) vs D3.
 CHEM-125,vitamin E,alpha-tocopherol,alpha-tocopherol,chemical,underspecification,form_qualifier_dropped,ambiguous,14985,Eight tocopherol/tocotrienol forms.

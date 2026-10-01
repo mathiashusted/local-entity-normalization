@@ -14,8 +14,8 @@ from urllib.parse import quote
 
 
 def main():
-    benchmark_data = pd.read_csv("benchmark/benchmark.csv", dtype=str)
-    control_data = pd.read_csv("benchmark/control.csv", dtype=str)
+    benchmark_data = pd.read_csv("benchmark/benchmark.csv", dtype=str, keep_default_na=False)
+    control_data = pd.read_csv("benchmark/control.csv", dtype=str, keep_default_na=False)
 
     assert "canonical_name" in benchmark_data.columns and "canonical_name" in control_data.columns
 
@@ -24,7 +24,7 @@ def main():
     empty_name_cols = 0
 
     for id, canonical_name, accepted_id in zip(benchmark_data["id"], benchmark_data["canonical_name"], benchmark_data["accepted_id"]):
-        if pd.isna(canonical_name):
+        if canonical_name == "":
             empty_name_cols += 1
             continue
         control_id = control_ids.get(canonical_name)
@@ -38,7 +38,7 @@ def main():
     not_found = 0
 
     for id, canonical_name in zip(control_data["id"], control_data["canonical_name"]):
-        assert not pd.isna(canonical_name) # The control.csv file must have all name columns filled in
+        assert not canonical_name == "" # The control.csv file must have all name columns filled in
 
         matches = benchmark_data[benchmark_data["canonical_name"] == canonical_name]
         if matches.empty:
