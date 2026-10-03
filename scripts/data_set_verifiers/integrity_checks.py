@@ -1,11 +1,8 @@
-# Integrity checks for benchmark.csv and control.csv (ruleset §8)
-#
-# Provenance
-# Tool: Claude Opus 5.5 (Anthropic), 01.10.2026
-# Prompt: "Write the new script. Make it only check the absolutely necessary. Do not check anything
-#          that the cross verifier already has. Only add your stuff in a new script."
+# This file was written by Claude Opus 5.5 (Anthropic), 01.10.2026
+# Prompt: "Write a script that checks the remaining items that have not been checked in the previous scripts
+#          according to ruleset.md. Add only necessary items that I might have forgotten."
 # Inputs: Ruleset.md (chapter: integrity constraints), cross_verifier.py (author's own script),
-#         benchmark.csv, control.csv
+#         benchmark.csv, control.csv, name_to_id_matcher.py, resolution_auditor.py
 #
 # Purpose
 # During manual editing, two rows were emptied instead of deleted: one benchmark row (GENE-152) and
@@ -18,6 +15,7 @@
 #   - a row has an empty canonical name and an empty accepted ID if and only if it has no
 #     recoverable target, i.e. id_status = "none" (constraint 4).
 # The script lists every violation with its row id and stops with an error if any are found.
+# It will serve as a final check before control.csv and benchmark.csv are frozen again for B2
 #
 # Testing and result
 # Tested on the two damaged file versions described above: it reported both emptied rows.

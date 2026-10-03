@@ -1,0 +1,158 @@
+id,canonical_name,input,n_candidates,noise_type,id_status,accepted_id,returned_id,score,matched_field,matched_string,candidate_ids
+GENE-001,TP53,TP35,4,typo,single,HGNC:11998,,85.71428571428572,alias_symbol,p35,HGNC:3624|HGNC:5969|HGNC:21444|HGNC:1775
+GENE-002,EGFR,EFGR,1,typo,single,HGNC:3236,HGNC:3697,85.71428571428572,symbol,fgr,HGNC:3697
+GENE-003,BRCA1,BRAC1,2,typo,single,HGNC:1100,,88.88888888888889,symbol|alias_symbol,rac1,HGNC:9801|HGNC:10044
+GENE-004,CFTR,CFRT,2,typo,single,HGNC:1884,,85.71428571428572,alias_symbol,crt,HGNC:11055|HGNC:1455
+GENE-005,KRAS,KARS,1,typo,ambiguous,HGNC:6407,HGNC:6215,100.0,prev_symbol,kars,HGNC:6215
+GENE-006,VEGFA,VEGAF,2,typo,single,HGNC:12680,,88.88888888888889,prev_symbol|alias_symbol,vegf|vgaf,HGNC:12680|HGNC:18668
+GENE-007,GAPDH,GAPHD,1,typo,single,HGNC:4141,HGNC:4141,88.88888888888889,prev_symbol,gapd,HGNC:4141
+GENE-008,SMAD4,SMDA4,1,typo,single,HGNC:6770,HGNC:54496,88.88888888888889,alias_symbol,sma4,HGNC:54496
+GENE-009,PTEN,PETN,3,typo,ambiguous,HGNC:9588,,85.71428571428572,symbol|alias_symbol,ptn|pen,HGNC:9630|HGNC:17301|HGNC:29676
+GENE-010,MTHFR,MTHRF,9,typo,single,HGNC:7436,,80.0,symbol|prev_symbol|alias_symbol,mthfr|mthfs|mtrf1|mtrfr|mthpr|mtohr|mterf|mthfc|mthfd|mtrrf,HGNC:7436|HGNC:7437|HGNC:7469|HGNC:26784|HGNC:7438|HGNC:7465|HGNC:21463|HGNC:7432|HGNC:7234
+GENE-011,ACTB,ACBT,5,typo,single,HGNC:132,,85.71428571428572,alias_symbol,act|cbt,HGNC:24157|HGNC:17371|HGNC:37096|HGNC:16|HGNC:1012
+GENE-012,ERBB2,EBRB2,1,typo,single,HGNC:3430,HGNC:6493,88.88888888888889,prev_symbol,ebr2,HGNC:6493
+GENE-013,SNCA,aplha-synuclein,1,typo,single,HGNC:11138,HGNC:11138,93.33333333333333,alias_name,alpha-synuclein,HGNC:11138
+GENE-014,HTT,hungtingtin,1,typo,single,HGNC:4851,HGNC:4851,95.23809523809523,name,huntingtin,HGNC:4851
+GENE-015,APOE,apolipoprotien E,1,typo,single,HGNC:613,HGNC:613,93.75,name,apolipoprotein e,HGNC:613
+GENE-016,TP53,tumor prot p53,1,typo,single,HGNC:11998,HGNC:11998,90.32258064516128,name,tumor protein p53,HGNC:11998
+GENE-017,IL6,interlukin 6,1,typo,single,HGNC:6018,HGNC:6018,96.0,name,interleukin 6,HGNC:6018
+GENE-018,INSR,insulin recptor,1,typo,single,HGNC:6091,HGNC:6091,96.7741935483871,name,insulin receptor,HGNC:6091
+GENE-019,NR3C1,glucocorticod receptor,1,typo,single,HGNC:7978,HGNC:7978,97.77777777777777,prev_name,glucocorticoid receptor,HGNC:7978
+GENE-020,PTGS2,cyclooxigenase-2,2,typo,single,HGNC:9605,,87.5,alias_name,cyclooxygenase-1|cyclooxygenase 2,HGNC:9604|HGNC:9605
+GENE-021,EGFR,epidermal growth factor receptor,1,abbreviation,single,HGNC:3236,HGNC:3236,100.0,name,epidermal growth factor receptor,HGNC:3236
+GENE-022,TP53,tumor protein p53,1,abbreviation,single,HGNC:11998,HGNC:11998,100.0,name,tumor protein p53,HGNC:11998
+GENE-023,VEGFA,vascular endothelial growth factor A,1,abbreviation,single,HGNC:12680,HGNC:12680,100.0,name,vascular endothelial growth factor a,HGNC:12680
+GENE-024,IL6,interleukin 6,1,abbreviation,single,HGNC:6018,HGNC:6018,100.0,name,interleukin 6,HGNC:6018
+GENE-025,TNF,tumor necrosis factor,1,abbreviation,single,HGNC:11892,HGNC:11892,100.0,name,tumor necrosis factor,HGNC:11892
+GENE-026,CFTR,cystic fibrosis transmembrane conductance regulator,3,abbreviation,single,HGNC:1884,,88.69565217391305,prev_name,cystic fibrosis transmembrane conductance regulator pseudogene 1|cystic fibrosis transmembrane conductance regulator pseudogene 2|cystic fibrosis transmembrane conductance regulator pseudogene 3,HGNC:16182|HGNC:51351|HGNC:51352
+GENE-027,GAPDH,glyceraldehyde-3-phosphate dehydrogenase,1,abbreviation,single,HGNC:4141,HGNC:4141,100.0,name,glyceraldehyde-3-phosphate dehydrogenase,HGNC:4141
+GENE-028,B2M,beta-2-microglobulin,1,abbreviation,single,HGNC:914,HGNC:914,100.0,name,beta-2-microglobulin,HGNC:914
+GENE-029,HPRT1,hypoxanthine phosphoribosyltransferase 1,1,abbreviation,single,HGNC:5157,HGNC:5157,100.0,name,hypoxanthine phosphoribosyltransferase 1,HGNC:5157
+GENE-030,ESR1,estrogen receptor 1,1,abbreviation,single,HGNC:3467,HGNC:3467,100.0,name,estrogen receptor 1,HGNC:3467
+GENE-031,AR,androgen receptor,1,abbreviation,single,HGNC:644,HGNC:644,100.0,name,androgen receptor,HGNC:644
+GENE-032,APP,amyloid beta precursor protein,1,abbreviation,single,HGNC:620,HGNC:620,100.0,name,amyloid beta precursor protein,HGNC:620
+GENE-033,SOD1,superoxide dismutase 1,1,abbreviation,single,HGNC:11179,HGNC:11179,100.0,name,superoxide dismutase 1,HGNC:11179
+GENE-034,COMT,catechol-O-methyltransferase,1,abbreviation,single,HGNC:2228,HGNC:2228,100.0,name,catechol-o-methyltransferase,HGNC:2228
+GENE-035,BDNF,brain derived neurotrophic factor,1,abbreviation,single,HGNC:1033,HGNC:1033,100.0,name,brain derived neurotrophic factor,HGNC:1033
+GENE-036,ACE,angiotensin converting enzyme,2,abbreviation,ambiguous,HGNC:2707,,96.66666666666667,name,angiotensin i converting enzyme|angiotensin converting enzyme 2,HGNC:2707|HGNC:13557
+GENE-037,LDLR,low density lipoprotein receptor,1,abbreviation,single,HGNC:6547,HGNC:6547,100.0,name,low density lipoprotein receptor,HGNC:6547
+GENE-038,PCSK9,proprotein convertase subtilisin/kexin type 9,1,abbreviation,single,HGNC:20001,HGNC:20001,100.0,name,proprotein convertase subtilisin/kexin type 9,HGNC:20001
+GENE-039,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,1,abbreviation,single,HGNC:5006,HGNC:5006,100.0,name,3-hydroxy-3-methylglutaryl-coa reductase,HGNC:5006
+GENE-040,MTHFR,methylenetetrahydrofolate reductase,1,abbreviation,single,HGNC:7436,HGNC:7436,100.0,name,methylenetetrahydrofolate reductase,HGNC:7436
+GENE-041,MMP9,matrix metallopeptidase 9,1,abbreviation,single,HGNC:7176,HGNC:7176,100.0,name,matrix metallopeptidase 9,HGNC:7176
+GENE-042,STAT3,signal transducer and activator of transcription 3,1,abbreviation,single,HGNC:11364,HGNC:11364,100.0,name,signal transducer and activator of transcription 3,HGNC:11364
+GENE-043,TP53,tp53,1,casing,single,HGNC:11998,HGNC:11998,100.0,symbol,tp53,HGNC:11998
+GENE-044,TP53,Tp53,1,casing,single,HGNC:11998,HGNC:11998,100.0,symbol,tp53,HGNC:11998
+GENE-045,BRCA1,brca1,1,casing,single,HGNC:1100,HGNC:1100,100.0,symbol,brca1,HGNC:1100
+GENE-046,BRCA1,Brca1,1,casing,ambiguous,HGNC:1100,HGNC:1100,100.0,symbol,brca1,HGNC:1100
+GENE-047,EGFR,egfr,1,casing,single,HGNC:3236,HGNC:3236,100.0,symbol,egfr,HGNC:3236
+GENE-048,EGFR,Egfr,1,casing,ambiguous,HGNC:3236,HGNC:3236,100.0,symbol,egfr,HGNC:3236
+GENE-049,ACTB,Actb,1,casing,ambiguous,HGNC:132,HGNC:132,100.0,symbol,actb,HGNC:132
+GENE-050,IL6,il6,1,casing,single,HGNC:6018,HGNC:6018,100.0,symbol,il6,HGNC:6018
+GENE-051,IL6,Il6,1,casing,ambiguous,HGNC:6018,HGNC:6018,100.0,symbol,il6,HGNC:6018
+GENE-052,CFTR,cftr,1,casing,single,HGNC:1884,HGNC:1884,100.0,symbol,cftr,HGNC:1884
+GENE-053,CFTR,Cftr,1,casing,ambiguous,HGNC:1884,HGNC:1884,100.0,symbol,cftr,HGNC:1884
+GENE-054,C9orf72,c9orf72,1,casing,single,HGNC:28337,HGNC:28337,100.0,symbol,c9orf72,HGNC:28337
+GENE-055,C9orf72,C9ORF72,1,casing,single,HGNC:28337,HGNC:28337,100.0,symbol,c9orf72,HGNC:28337
+GENE-056,KRAS,Kras,1,casing,ambiguous,HGNC:6407,HGNC:6407,100.0,symbol,kras,HGNC:6407
+GENE-057,MTOR,mtor,1,casing,single,HGNC:3942,HGNC:3942,100.0,symbol|alias_symbol,mtor,HGNC:3942
+GENE-058,MYC,Myc,1,casing,ambiguous,HGNC:7553,HGNC:7553,100.0,symbol,myc,HGNC:7553
+GENE-059,GAPDH,Gapdh,1,casing,ambiguous,HGNC:4141,HGNC:4141,100.0,symbol,gapdh,HGNC:4141
+GENE-060,HLA-DRB1,hla-drb1,1,casing,single,HGNC:4948,HGNC:4948,100.0,symbol,hla-drb1,HGNC:4948
+GENE-061,VEGFA,Vegfa,1,casing,ambiguous,HGNC:12680,HGNC:12680,100.0,symbol,vegfa,HGNC:12680
+GENE-062,PTEN,pten,1,casing,single,HGNC:9588,HGNC:9588,100.0,symbol,pten,HGNC:9588
+GENE-063,IL6,IL 6,1,separator,single,HGNC:6018,HGNC:6018,85.71428571428572,symbol,il6,HGNC:6018
+GENE-064,IL6,IL-6,1,separator,single,HGNC:6018,HGNC:6018,100.0,alias_symbol,il-6,HGNC:6018
+GENE-065,HLA-DRB1,HLA DRB1,1,separator,single,HGNC:4948,HGNC:4948,87.5,symbol,hla-drb1,HGNC:4948
+GENE-066,HLA-DRB1,HLADRB1,1,separator,single,HGNC:4948,HGNC:4948,93.33333333333333,symbol,hla-drb1,HGNC:4948
+GENE-067,C9orf72,C9orf-72,1,separator,single,HGNC:28337,HGNC:28337,93.33333333333333,symbol,c9orf72,HGNC:28337
+GENE-068,CD4,CD-4,1,separator,single,HGNC:1678,HGNC:1510,88.88888888888889,alias_symbol,ced-4,HGNC:1510
+GENE-069,TP53,p-53,1,separator,single,HGNC:11998,HGNC:5472,88.88888888888889,alias_symbol,bp-53,HGNC:5472
+GENE-070,SLC2A1,SLC2 A1,1,separator,single,HGNC:11005,HGNC:11005,92.3076923076923,symbol,slc2a1,HGNC:11005
+GENE-071,MT-CO1,MT CO1,1,separator,single,HGNC:7419,HGNC:7419,90.9090909090909,prev_symbol,mtco1,HGNC:7419
+GENE-072,MT-CO1,MTCO1,1,separator,single,HGNC:7419,HGNC:7419,100.0,prev_symbol,mtco1,HGNC:7419
+GENE-073,HLA-A,HLA A,1,separator,single,HGNC:4931,HGNC:4931,80.0,symbol,hla-a,HGNC:4931
+GENE-074,IGF1,IGF-1,1,separator,single,HGNC:5464,HGNC:5464,88.88888888888889,symbol,igf1,HGNC:5464
+GENE-075,IL1B,IL 1B,1,separator,single,HGNC:5992,HGNC:5992,88.88888888888889,symbol,il1b,HGNC:5992
+GENE-076,NAT2,NAT-2,2,separator,single,HGNC:7646,,88.88888888888889,symbol|alias_symbol,nat2,HGNC:7646|HGNC:13447
+GENE-077,CYP3A4,CYP3 A4,1,separator,single,HGNC:2637,HGNC:2637,92.3076923076923,symbol,cyp3a4,HGNC:2637
+GENE-078,TGFB1,TGFB 1,1,separator,single,HGNC:11766,HGNC:11766,90.9090909090909,symbol,tgfb1,HGNC:11766
+GENE-079,BRCA1,BRCA-1,2,separator,single,HGNC:1100,,90.9090909090909,symbol|alias_symbol,brca1|bca-1,HGNC:1100|HGNC:10639
+GENE-080,HIF1A,HIF1-A,1,separator,single,HGNC:4910,HGNC:4910,90.9090909090909,symbol,hif1a,HGNC:4910
+GENE-081,MAP2K1,MAP2 K1,1,separator,single,HGNC:6840,HGNC:6840,92.3076923076923,symbol,map2k1,HGNC:6840
+GENE-082,ERBB2,ERBB-2,1,separator,single,HGNC:3430,HGNC:3430,90.9090909090909,symbol,erbb2,HGNC:3430
+GENE-083,TP53,p53,1,synonym,single,HGNC:11998,HGNC:11998,100.0,alias_symbol,p53,HGNC:11998
+GENE-084,ERBB2,HER2,1,synonym,single,HGNC:3430,HGNC:3430,100.0,alias_symbol,her2,HGNC:3430
+GENE-085,CXCL8,IL8,1,synonym,single,HGNC:6025,HGNC:6025,100.0,prev_symbol,il8,HGNC:6025
+GENE-086,CCL2,MCP-1,1,synonym,single,HGNC:10618,HGNC:10618,100.0,alias_symbol,mcp-1,HGNC:10618
+GENE-087,CCL5,RANTES,1,synonym,single,HGNC:10632,HGNC:10632,100.0,alias_symbol,rantes,HGNC:10632
+GENE-088,PDCD1,PD-1,1,synonym,single,HGNC:8760,HGNC:8760,100.0,alias_symbol,pd-1,HGNC:8760
+GENE-089,CD274,PD-L1,1,synonym,single,HGNC:17635,HGNC:17635,100.0,alias_symbol,pd-l1,HGNC:17635
+GENE-090,MS4A1,CD20,1,synonym,single,HGNC:7315,HGNC:7315,100.0,prev_symbol,cd20,HGNC:7315
+GENE-091,VEGFA,VEGF,1,synonym,ambiguous,HGNC:12680,HGNC:12680,100.0,prev_symbol,vegf,HGNC:12680
+GENE-092,SLC2A1,GLUT1,1,synonym,single,HGNC:11005,HGNC:11005,100.0,prev_symbol,glut1,HGNC:11005
+GENE-093,SLC6A4,SERT,2,synonym,single,HGNC:11050,,88.88888888888889,prev_symbol|alias_symbol,spert|sert1,HGNC:30720|HGNC:11050
+GENE-094,ABCB1,MDR1,2,synonym,single,HGNC:40,,100.0,prev_symbol|alias_symbol,mdr1,HGNC:40|HGNC:21710
+GENE-095,PTGS2,COX-2,1,synonym,ambiguous,HGNC:9605,HGNC:9594,100.0,alias_symbol,cox-2,HGNC:9594
+GENE-096,MTOR,FRAP1,1,synonym,single,HGNC:3942,HGNC:3942,100.0,prev_symbol,frap1,HGNC:3942
+GENE-097,CTLA4,CD152,1,synonym,single,HGNC:2505,HGNC:2505,100.0,alias_symbol,cd152,HGNC:2505
+GENE-098,KLK3,PSA,3,synonym,single,HGNC:6364,,100.0,alias_symbol,psa,HGNC:6364|HGNC:7900|HGNC:19129
+GENE-099,MUC16,CA-125,1,synonym,single,HGNC:15582,HGNC:15582,100.0,alias_symbol,ca-125,HGNC:15582
+GENE-100,CEACAM5,CEA,3,synonym,single,HGNC:1817,,100.0,prev_symbol|alias_symbol,cea,HGNC:1817|HGNC:9519|HGNC:1819
+GENE-101,MKI67,Ki-67,1,synonym,single,HGNC:7107,HGNC:7107,100.0,alias_symbol,ki-67,HGNC:7107
+GENE-102,MAPK1,ERK2,1,synonym,single,HGNC:6871,HGNC:6871,100.0,alias_symbol,erk2,HGNC:6871
+GENE-103,MAPK3,ERK1,1,synonym,single,HGNC:6877,HGNC:6877,100.0,alias_symbol,erk1,HGNC:6877
+GENE-104,NFE2L2,Nrf2,2,synonym,single,HGNC:7782,,100.0,alias_symbol,nrf2,HGNC:4071|HGNC:7782
+GENE-105,KCNH2,hERG,1,synonym,single,HGNC:6251,HGNC:6251,100.0,alias_symbol,herg,HGNC:6251
+GENE-106,HBB,haemoglobin beta,1,synonym,single,HGNC:4827,HGNC:4827,93.75,prev_name,"hemoglobin, beta",HGNC:4827
+GENE-107,TNF,TNF-alpha,1,synonym,single,HGNC:11892,HGNC:11892,100.0,alias_symbol,tnf-alpha,HGNC:11892
+GENE-108,DMD,dystrophin,1,synonym,single,HGNC:2928,HGNC:2928,100.0,name,dystrophin,HGNC:2928
+GENE-109,EGFR,"receptor, epidermal growth factor",1,word_order,single,HGNC:3236,HGNC:3229,83.33333333333334,alias_name,pro-epidermal growth factor,HGNC:3229
+GENE-110,TP53,"protein p53, tumor",1,word_order,single,HGNC:11998,HGNC:12854,68.96551724137932,alias_name,protein tau,HGNC:12854
+GENE-111,VEGFA,"factor A, vascular endothelial growth",1,word_order,single,HGNC:12680,HGNC:12680,76.05633802816901,prev_name,vascular endothelial growth factor,HGNC:12680
+GENE-112,TNF,"necrosis factor, tumor",1,word_order,single,HGNC:11892,HGNC:11892,69.76744186046511,name,tumor necrosis factor,HGNC:11892
+GENE-113,AR,"receptor, androgen",1,word_order,single,HGNC:644,HGNC:18006,66.66666666666667,alias_name,i-1 receptor candidate protein,HGNC:18006
+GENE-114,ESR1,"receptor 1, estrogen",1,word_order,single,HGNC:3467,HGNC:31754,64.15094339622642,name|prev_name,"toll like receptor 12, pseudogene|toll-like receptor 12, pseudogene",HGNC:31754
+GENE-115,SOD1,"dismutase 1, superoxide",1,word_order,single,HGNC:11179,HGNC:11179,59.25925925925925,prev_name,"superoxide dismutase 1, soluble",HGNC:11179
+GENE-116,MTHFR,"reductase, methylenetetrahydrofolate",1,word_order,single,HGNC:7436,HGNC:7436,70.4225352112676,name,methylenetetrahydrofolate reductase,HGNC:7436
+GENE-117,LDLR,"receptor, low density lipoprotein",1,word_order,single,HGNC:6547,HGNC:12698,74.28571428571429,name,very low density lipoprotein receptor,HGNC:12698
+GENE-118,ACE,"enzyme, angiotensin converting",2,word_order,ambiguous,HGNC:2707,,72.1311475409836,name,angiotensin i converting enzyme|angiotensin converting enzyme 2,HGNC:2707|HGNC:13557
+GENE-119,INSR,"receptor, insulin",1,word_order,single,HGNC:6091,HGNC:1230,64.0,name,cornulin,HGNC:1230
+GENE-120,BDNF,"factor, brain derived neurotrophic",1,word_order,single,HGNC:1033,HGNC:1033,77.61194029850746,name,brain derived neurotrophic factor,HGNC:1033
+GENE-121,APP,"precursor protein, amyloid beta",1,word_order,single,HGNC:620,HGNC:7372,60.71428571428572,prev_name,"microseminoprotein, beta-",HGNC:7372
+GENE-122,MMP9,"metallopeptidase 9, matrix",1,word_order,single,HGNC:7176,HGNC:29661,73.07692307692308,alias_name,zinc metallopeptidase oma1,HGNC:29661
+GENE-123,MAPK1,"kinase 1, mitogen-activated protein",7,word_order,single,HGNC:6871,,72.46376811594203,name,mitogen-activated protein kinase 1|mitogen-activated protein kinase 3|mitogen-activated protein kinase 4|mitogen-activated protein kinase 6|mitogen-activated protein kinase 7|mitogen-activated protein kinase 8|mitogen-activated protein kinase 9,HGNC:6871|HGNC:6877|HGNC:6878|HGNC:6879|HGNC:6880|HGNC:6881|HGNC:6886
+GENE-124,STAT3,"activator of transcription 3, signal transducer and",1,word_order,single,HGNC:11364,HGNC:39557,67.34693877551021,name,activator of basal transcription 1 pseudogene 1,HGNC:39557
+GENE-125,CFTR,"regulator, cystic fibrosis transmembrane conductance",3,word_order,single,HGNC:1884,,70.6896551724138,prev_name,cystic fibrosis transmembrane conductance regulator pseudogene 1|cystic fibrosis transmembrane conductance regulator pseudogene 2|cystic fibrosis transmembrane conductance regulator pseudogene 3,HGNC:16182|HGNC:51351|HGNC:51352
+GENE-126,BRCA1,BRCA1 gene,1,tool_artifact,single,HGNC:1100,HGNC:28470,71.42857142857143,name,brca1 pseudogene 1,HGNC:28470
+GENE-127,KRAS,KRAS oncogene,1,tool_artifact,single,HGNC:6407,HGNC:6899,84.61538461538461,prev_name,mas1 oncogene,HGNC:6899
+GENE-128,IGF1,insulin-like growth factors,1,tool_artifact,ambiguous,HGNC:5464,HGNC:5466,94.54545454545455,prev_name,insulin-like growth factor 2,HGNC:5466
+GENE-129,MAPK1,ERK,2,underspecification,ambiguous,HGNC:6871,,100.0,prev_symbol|alias_symbol,erk,HGNC:3393|HGNC:6871
+GENE-130,MAPK14,p38,3,underspecification,ambiguous,HGNC:6876,,100.0,alias_symbol,p38,HGNC:1189|HGNC:20609|HGNC:6876
+GENE-131,PRKAA1,AMPK,1,underspecification,ambiguous,HGNC:9376,HGNC:9377,100.0,alias_symbol,ampk,HGNC:9377
+GENE-132,RELA,NF-kB,2,underspecification,ambiguous,HGNC:9955,,90.9090909090909,alias_symbol,nf-kb1|nf-kb2,HGNC:7794|HGNC:7795
+GENE-133,PRKACA,PKA,7,underspecification,ambiguous,HGNC:9380,,85.71428571428572,symbol|prev_symbol|alias_symbol,pkia|phka|pkca|pkan|pmka|p9ka|pika,HGNC:9017|HGNC:8925|HGNC:9393|HGNC:15894|HGNC:9141|HGNC:10494|HGNC:26810
+GENE-134,PIK3CA,PI3K,1,underspecification,ambiguous,HGNC:8975,HGNC:8975,100.0,alias_symbol,pi3k,HGNC:8975
+GENE-135,COL1A1,collagen,2,underspecification,ambiguous,HGNC:2197,,84.21052631578947,alias_name,ab collagen|lc collagen,HGNC:2210|HGNC:2214
+GENE-136,ACTB,actin,1,underspecification,ambiguous,HGNC:132,HGNC:29938,90.9090909090909,symbol,cactin,HGNC:29938
+GENE-137,TUBB,tubulin,1,underspecification,ambiguous,HGNC:20778,HGNC:25118,76.92307692307692,symbol,otulin,HGNC:25118
+GENE-138,TGFB1,TGF-beta,1,underspecification,ambiguous,HGNC:11766,HGNC:11766,93.33333333333333,alias_symbol,tgfbeta,HGNC:11766
+GENE-139,CYP3A4,cytochrome P450,1,underspecification,ambiguous,HGNC:2637,HGNC:2570,82.75862068965517,prev_name,cytochrome b-5,HGNC:2570
+GENE-140,HLA-DRB1,HLA-DR,1,underspecification,ambiguous,HGNC:4948,HGNC:4947,92.3076923076923,symbol,hla-dra,HGNC:4947
+GENE-141,MARCHF1,1-Mar,1,tool_artifact,single,HGNC:26077,HGNC:6116,75.0,alias_symbol,mar,HGNC:6116
+GENE-142,SEPTIN2,2-Sep,3,tool_artifact,single,HGNC:7729,,75.0,alias_symbol,sep,HGNC:14668|HGNC:9103|HGNC:10751
+GENE-143,DELEC1,1-Dec,8,tool_artifact,single,HGNC:23658,,66.66666666666667,prev_symbol|alias_symbol,decr|dec1|1-8d|dec2|u1-c|dlec|deoc,HGNC:2753|HGNC:23658|HGNC:1046|HGNC:5413|HGNC:16617|HGNC:11157|HGNC:13258|HGNC:24269
+GENE-144,SEPTIN9,9-Sep,3,tool_artifact,single,HGNC:7323,,75.0,alias_symbol,sep,HGNC:14668|HGNC:9103|HGNC:10751
+GENE-145,MARCHF5,5-Mar,1,tool_artifact,single,HGNC:26025,HGNC:6116,75.0,alias_symbol,mar,HGNC:6116
+GENE-146,,43891,12,tool_artifact,none,,,61.53846153846154,alias_symbol,mgc43581|cr749391|flj34389|ba43p8.1|flj43869|mgc14381|mgc43894|mgc48915|flj43859|flj32891|mgc24381|flj38991,HGNC:21362|HGNC:44678|HGNC:26617|HGNC:21021|HGNC:8066|HGNC:28856|HGNC:32422|HGNC:28732|HGNC:38601|HGNC:23191|HGNC:14175|HGNC:26801
+GENE-147,RELA,NF-ÎºB,1,tool_artifact,ambiguous,HGNC:9955,HGNC:7805,72.72727272727273,alias_symbol,nf-yb,HGNC:7805
+GENE-148,TNF,TNFÎ±,1,tool_artifact,single,HGNC:11892,HGNC:11892,75.0,symbol,tnf,HGNC:11892
+GENE-149,TP53,TP53 ,1,tool_artifact,single,HGNC:11998,HGNC:11998,88.88888888888889,symbol,tp53,HGNC:11998
+GENE-150,C9orf72,C9orf7,1,tool_artifact,ambiguous,HGNC:28337,HGNC:1365,100.0,prev_symbol,c9orf7,HGNC:1365
+GENE-151,,BRCA4,1,non_existent,none,,HGNC:53420,83.33333333333334,alias_symbol,brcat54,HGNC:53420
+GENE-153,,CDK94,3,non_existent,none,,,88.88888888888889,symbol|prev_symbol,cdk4|cdk9|cd94,HGNC:1773|HGNC:1780|HGNC:6378
+GENE-154,,MAPK47,2,non_existent,none,,,90.9090909090909,symbol,mapk4|mapk7,HGNC:6878|HGNC:6880
+GENE-155,,IL73,2,non_existent,none,,,85.71428571428572,symbol,il3|il7,HGNC:6011|HGNC:6023
+GENE-156,,SLC6A99,1,non_existent,none,,HGNC:11056,92.3076923076923,symbol,slc6a9,HGNC:11056
+GENE-157,,CYP3A88,3,non_existent,none,,,76.92307692307692,symbol|prev_symbol,cyp3a4|cyp3a5|cyp3a7|cyp3a3,HGNC:2637|HGNC:2638|HGNC:2640
+GENE-158,,TP83,1,non_existent,none,,HGNC:13535,80.0,symbol,atp8b3,HGNC:13535

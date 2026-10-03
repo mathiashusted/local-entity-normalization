@@ -1,0 +1,256 @@
+query,returned_id,n_candidates,score,matched_string,candidate_ids
+glucosse,5793,1,93.33333333333333,glucose,5793
+ureaa,1176,1,88.88888888888889,urea,1176
+hydroxyureaa,3657,1,95.65217391304348,hydroxyurea,3657
+cytossine,597,1,94.11764705882352,cytosine,597
+sperrmine,1103,1,94.11764705882352,spermine,1103
+melattonin,896,1,94.73684210526316,melatonin,896
+mannnitol,6251,1,94.11764705882352,mannitol,6251
+xanhtine,1188,1,87.5,xanthine,1188
+cystiene,67678,1,93.33333333333333,cystine,67678
+aspratic acid,5960,1,92.3076923076923,aspartic acid,5960
+butryic acid,264,1,91.66666666666666,butyric acid,264
+glutathoine,124886,1,90.9090909090909,glutathione,124886
+chlorofrom,6212,1,90.0,chloroform,6212
+tetrahydrobiooterin,135402045,1,94.73684210526316,tetrahydrobiopterin,135402045
+methiunine,,2,90.0,methionine|methuenine,6137|6441095
+deoxyrybose,9828112,1,90.9090909090909,deoxyribose,9828112
+riboflvin,493570,1,94.73684210526316,riboflavin,493570
+phenyalalanine,6140,1,96.2962962962963,phenylalanine,6140
+hypoxnthine,135398638,1,95.65217391304348,hypoxanthine,135398638
+pyrdoxine,1054,1,94.73684210526316,pyridoxine,1054
+cholestrol,5997,1,100.0,cholestrol,5997
+asetic acid,,2,90.9090909090909,acetic acid|azetic acid,176|17800518
+atp,5957,1,100.0,atp,5957
+adp,6022,1,100.0,adp,6022
+nadph,5884,1,100.0,nadph,5884
+fad,,4,100.0,fad,643975|2734019|16219365|46906035
+gaba,119,1,100.0,gaba,119
+dha,15608515,1,100.0,dha,15608515
+epa,446284,1,100.0,epa,446284
+pep,1005,1,100.0,pep,1005
+g6p,439284,1,100.0,g6p,439284
+acetyl-coa,444493,1,100.0,acetyl-coa,444493
+dmso,679,1,100.0,dmso,679
+edta,6049,1,100.0,edta,6049
+sds,87190,1,85.71428571428572,sdds,87190
+dtt,,4,100.0,dtt,19001|439196|439352|446094
+pmsf,4784,1,100.0,pmsf,4784
+hepes,23831,1,100.0,hepes,23831
+tris,6503,1,100.0,tris,6503
+pbs,14819,1,100.0,pbs,14819
+tca,6421,1,100.0,tca,6421
+5-ht,5202,1,100.0,5-ht,5202
+nac,,7,85.71428571428572,lnac|niac|nacl|nacn|nacp|noac,581|938|5234|8929|78681|133043|389286
+camp,6076,1,100.0,camp,6076
+fructose,2723872,1,100.0,fructose,2723872
+adenosine triphosphate,5957,1,100.0,adenosine triphosphate,5957
+nadh,439153,1,100.0,nadh,439153
+l-dopa,6047,1,100.0,l-dopa,6047
+d-glucose,5793,1,100.0,d-glucose,5793
+vitamin c,54670067,1,100.0,vitamin c,54670067
+sodium chloride,5234,1,100.0,sodium chloride,5234
+hcl,313,1,100.0,hcl,313
+naoh,14798,1,100.0,naoh,14798
+co2,280,1,100.0,co2,280
+mgso4,24083,1,100.0,mgso4,24083
+ethanol,702,1,100.0,ethanol,702
+h2o2,784,1,100.0,h2o2,784
+alpha-ketoglutarate,164533,1,100.0,alpha-ketoglutarate,164533
+fructose 6 phosphate,69507,1,95.0,fructose 6-phosphate,69507
+n acetylcysteine,12035,1,100.0,n acetylcysteine,12035
+beta carotene,5280489,1,100.0,beta carotene,5280489
+β-carotene,,6,90.0,b-carotene|a-carotene|g-carotene|h-carotene,573|4369188|5280489|5280791|16061254|46783370
+2oxoglutaricacid,51,1,94.11764705882352,2-oxoglutaric acid|2 oxoglutaric acid|2-oxoglutaric-acid,51
+5 hydroxytryptamine,5202,1,100.0,5 hydroxytryptamine,5202
+adenosine-triphosphate,5957,1,100.0,adenosine-triphosphate,5957
+glucose6phosphate,,2,94.44444444444444,glucose 6-phosphate|glucose-6-phosphate|glucose 6 phosphate,5958|439958
+"n,n dimethylformamide",6228,1,100.0,"n,n dimethylformamide",6228
+"1,25 dihydroxyvitamin d3",5280453,1,100.0,"1,25 dihydroxyvitamin d3",5280453
+sodium-chloride,5234,1,100.0,sodium-chloride,5234
+acetyl coa,444493,1,100.0,acetyl coa,444493
+vitamin-c,54670067,1,100.0,vitamin-c,54670067
+2-oxoglutarate,51,1,100.0,2-oxoglutarate,51
+deoxy-ribose,9828112,1,95.65217391304348,deoxyribose,9828112
+l glutamine,5961,1,100.0,l glutamine,5961
+tri methylamine,1146,1,96.55172413793103,trimethylamine,1146
+p aminobenzoic acid,978,1,100.0,p aminobenzoic acid,978
+3'5' cyclic amp,6076,1,93.33333333333333,3'5'-cyclic amp,6076
+γ-aminobutyric acid,,6,94.73684210526316,g-aminobutyric acid|a-aminobutyric acid|w-aminobutyric acid|2-aminobutyric acid|3-aminobutyric acid|l-aminobutyric acid|4-aminobutyric acid|r-aminobutyric acid,119|6657|10932|80283|223130|439691
+vitamin b1,1130,1,100.0,vitamin b1,1130
+vitamin b2,493570,1,100.0,vitamin b2,493570
+vitamin b3,938,1,100.0,vitamin b3,938
+vitamin b6,104817,1,100.0,vitamin b6,104817
+vitamin h,171548,1,100.0,vitamin h,171548
+vitamin b12,165339223,1,100.0,vitamin b12,165339223
+paracetamol,1983,1,100.0,paracetamol,1983
+adrenaline,5816,1,100.0,adrenaline,5816
+noradrenaline,439260,1,100.0,noradrenaline,439260
+dextrose,5793,1,100.0,dextrose,5793
+table salt,5234,1,100.0,table salt,5234
+baking soda,516892,1,100.0,baking soda,516892
+caustic soda,14798,1,100.0,caustic soda,14798
+muriatic acid,313,1,100.0,muriatic acid,313
+wood alcohol,887,1,100.0,wood alcohol,887
+carbolic acid,996,1,100.0,carbolic acid,996
+oil of vitriol,24393,1,76.92307692307692,iron vitriol,24393
+epsom salt,24843,1,100.0,epsom salt,24843
+milk sugar,6134,1,100.0,milk sugar,6134
+glycerin,753,1,100.0,glycerin,753
+aspirin,2244,1,100.0,aspirin,2244
+laughing gas,948,1,100.0,laughing gas,948
+quicksilver,23931,1,100.0,quicksilver,23931
+formalin,712,1,100.0,formalin,712
+ethyl alcohol,702,1,100.0,ethyl alcohol,702
+"acid, ascorbic",54670067,1,100.0,"acid, ascorbic",54670067
+"acid, folic",135403648,1,91.66666666666666,"acid, folinic",135403648
+"acid, acetic",6585,1,88.88888888888889,"acid, peracetic",6585
+"chloride, sodium",23668197,1,90.32258064516128,chlorite sodium,23668197
+"acid, hydrochloric",313,1,100.0,"acid, hydrochloric",313
+"acid, l-glutamic",33032,1,83.87096774193549,acido glutamico,33032
+"5'-triphosphate, adenosine",6083,1,93.87755102040816,"5'-phosphate, adenosine",6083
+"acid, palmitic",985,1,100.0,"acid, palmitic",985
+"peroxide, hydrogen",784,1,100.0,"peroxide, hydrogen",784
+"acid, citric",944,1,91.66666666666666,"acid, nitric",944
+glucose,5793,1,100.0,glucose,5793
+lactate,91435,1,100.0,lactate,91435
+adenosine monophosphate,6083,1,100.0,adenosine monophosphate,6083
+nad,5892,1,100.0,nad,5892
+cholesterol,5997,1,100.0,cholesterol,5997
+inositol,892,1,100.0,inositol,892
+xylene,,4,85.71428571428572,o-xylene|2-xylene|p-xylene|4-xylene|m-xylene|3-xylene|m xylene|hexylene,7237|7809|7929|11597
+vitamin d,,8,94.73684210526316,vitamin d2|vitamin d3|vitamin d7|vitamin d4|vitamin d6|vitamin d5|vitamin d1,5280793|5280795|5283800|5460703|9547702|9909623|20055268|66577029
+vitamin e,,4,94.73684210526316,vitamin ea|-vitamin e|vitamine e|vitamin ce|vitamin be,14985|92094|10100188|135398658
+carnitine,288,1,100.0,carnitine,288
+glycerol,753,1,100.0,glycerol,753
+retinoic acid,444795,1,100.0,retinoic acid,444795
+ribose,10975657,1,100.0,ribose,10975657
+tartaric acid,444305,1,100.0,tartaric acid,444305
+melatonin,896,1,100.0,melatonin,896
+chloroform,6212,1,100.0,chloroform,6212
+cytosine,597,1,100.0,cytosine,597
+cresol,7144,1,92.3076923076923,creosol,7144
+menthol,1254,1,100.0,menthol,1254
+galactosamine,24154,1,100.0,galactosamine,24154
+î²-carotene,573,1,85.71428571428572,b-carotene,573
+î³-glutamylcysteine,123938,1,94.44444444444444,-glutamylcysteine,123938
+adenosine 5′-triphosphate,5957,1,97.95918367346938,adenosine 5-triphosphate,5957
+ glucose ,5793,1,88.88888888888889,d glucose,5793
+sodium  chloride,5234,1,96.7741935483871,sodium chloride,5234
+h₂o₂,23988,1,66.66666666666667,ho,23988
+"1,25-dihydroxyvitami",5280453,1,93.02325581395348,"1,25-dihydroxyvitamin d",5280453
+3-hydroxy-3-methylglutar,1662,1,94.11764705882352,3-hydroxy-3-methylglutarate,1662
+&gamma;-linolenic acid,5280933,1,95.23809523809523,gamma-linolenic acid,5280933
+adenosine 5’-monophosphate,,2,98.0392156862745,adenosine 5-monophosphate,6083|83862
+boric acid,7628,1,90.0,boric acid,7628
+phospha-tidylcholine,24778708,1,95.0,phosphatidylcholines,24778708
+n,947,1,100.0,n,947
+pyruvate*,107735,1,94.11764705882352,pyruvate,107735
+d-glucose 9-phosphate,,3,95.23809523809523,d-glucose 1-phosphate|d-glucose 6-phosphate,65533|99058|439958
+l-glucosamine 8-phosphate,,2,92.0,d-glucosamine 1-phosphate|d-glucosamine 6-phosphate,188960|440997
+hydroxyureine,,2,88.88888888888889,hydroxytaurine|hydroxyuridine,10103264|66682050
+trimethylinositol,129639854,1,90.9090909090909,dimethylinositol,129639854
+gamma-tocotrienolic acid,10455173,1,83.72093023255813,tocotrienoloic acid,10455173
+n-acetylthreonyl-coa,7349658,1,76.92307692307692,n-acetylthreoninate,7349658
+dimethylcarnitine sulfate,100875,1,89.79591836734694,dimethyl aniline sulfate,100875
+pentahydroxyhexanoic anhydride,20849010,1,87.27272727272728,pentahydroxyhexanoic acid,20849010
+amphetmine,3007,1,95.23809523809523,amphetamine,3007
+hexane,8058,1,100.0,hexane,8058
+ibuprofin,3672,1,88.88888888888889,ibuprofen|ibuprocin,3672
+thallidomide,5426,1,95.65217391304348,thalidomide,5426
+(-)-menthol,16666,1,100.0,(-)-menthol,16666
+"(6r)-5,6,7,8-tetrahydrobiopterin",135409384,1,100.0,"(6r)-5,6,7,8-tetrahydrobiopterin",135409384
+(s)-lactate,5460161,1,100.0,(s)-lactate,5460161
+2-deoxy-d-ribose,5460005,1,100.0,2-deoxy-d-ribose,5460005
+2-oxoglutaric acid,51,1,100.0,2-oxoglutaric acid,51
+"3',5'-cyclic amp",6076,1,100.0,"3',5'-cyclic amp",6076
+3-hydroxy-3-methylglutaryl-coa,91506,1,100.0,3-hydroxy-3-methylglutaryl-coa,91506
+4-aminobenzoic acid,978,1,100.0,4-aminobenzoic acid,978
+d-biotin,171548,1,100.0,d-biotin,171548
+d-fructose,2723872,1,100.0,d-fructose,2723872
+d-fructose 6-phosphate,439160,1,100.0,d-fructose 6-phosphate,439160
+d-galactosamine,24154,1,100.0,d-galactosamine,24154
+d-glucose 6-phosphate,,2,100.0,d-glucose 6-phosphate,99058|439958
+d-mannitol,6251,1,100.0,d-mannitol,6251
+d-ribose,10975657,1,100.0,d-ribose,10975657
+l-ascorbic acid,54670067,1,100.0,l-ascorbic acid,54670067
+l-aspartic acid,5960,1,100.0,l-aspartic acid,5960
+l-carnitine,10917,1,100.0,l-carnitine,10917
+l-cysteine,5862,1,100.0,l-cysteine,5862
+l-glutamic acid,33032,1,100.0,l-glutamic acid,33032
+l-glutamine,5961,1,100.0,l-glutamine,5961
+l-methionine,6137,1,100.0,l-methionine,6137
+l-phenylalanine,6140,1,100.0,l-phenylalanine,6140
+l-tartaric acid,444305,1,100.0,l-tartaric acid,444305
+"n,n-dimethylformamide",6228,1,100.0,"n,n-dimethylformamide",6228
+n-acetyl-l-cysteine,12035,1,100.0,n-acetyl-l-cysteine,12035
+nad+,5892,1,100.0,nad+,5892
+acetaminophen,1983,1,100.0,acetaminophen,1983
+acetic acid,176,1,100.0,acetic acid,176
+acetylsalicylic acid,2244,1,100.0,acetylsalicylic acid,2244
+adenosine 5'-diphosphate,6022,1,100.0,adenosine 5'-diphosphate,6022
+adenosine 5'-monophosphate,6083,1,100.0,adenosine 5'-monophosphate,6083
+adenosine 5'-triphosphate,5957,1,100.0,adenosine 5'-triphosphate,5957
+alpha-tocopherol,14985,1,100.0,alpha-tocopherol,14985
+amphetamine,3007,1,100.0,amphetamine,3007
+beta-carotene,5280489,1,100.0,beta-carotene,5280489
+boric acid,7628,1,100.0,boric acid,7628
+butanoic acid,264,1,100.0,butanoic acid,264
+calcitriol,5280453,1,100.0,calcitriol,5280453
+carbon dioxide,280,1,100.0,carbon dioxide,280
+cholecalciferol,5280795,1,100.0,cholecalciferol,5280795
+citric acid,311,1,100.0,citric acid,311
+cyanocobalamin,166596686,1,100.0,cyanocobalamin,166596686
+dimethyl sulfoxide,679,1,100.0,dimethyl sulfoxide,679
+dithiothreitol,439196,1,100.0,dithiothreitol,439196
+docosahexaenoic acid,445580,1,100.0,docosahexaenoic acid,445580
+eicosapentaenoic acid,5282847,1,100.0,eicosapentaenoic acid,5282847
+epinephrine,5816,1,100.0,epinephrine,5816
+ethylenediaminetetraacetic acid,6049,1,100.0,ethylenediaminetetraacetic acid,6049
+flavin adenine dinucleotide,643975,1,100.0,flavin adenine dinucleotide,643975
+folic acid,135398658,1,100.0,folic acid,135398658
+formaldehyde,712,1,100.0,formaldehyde,712
+gamma-aminobutyric acid,119,1,100.0,gamma-aminobutyric acid,119
+gamma-glutamylcysteine,123938,1,100.0,gamma-glutamylcysteine,123938
+gamma-linolenic acid,5280933,1,100.0,gamma-linolenic acid,5280933
+glutathione,124886,1,100.0,glutathione,124886
+hydrochloric acid,313,1,100.0,hydrochloric acid,313
+hydrogen peroxide,784,1,100.0,hydrogen peroxide,784
+hydroxyurea,3657,1,100.0,hydroxyurea,3657
+hypoxanthine,135398638,1,100.0,hypoxanthine,135398638
+ibuprofen,3672,1,100.0,ibuprofen,3672
+lactose,6134,1,100.0,lactose,6134
+levodopa,6047,1,100.0,levodopa,6047
+magnesium sulfate,24083,1,100.0,magnesium sulfate,24083
+magnesium sulfate heptahydrate,24843,1,100.0,magnesium sulfate heptahydrate,24843
+mercury,23931,1,100.0,mercury,23931
+methanol,887,1,100.0,methanol,887
+myo-inositol,892,1,100.0,myo-inositol,892
+nicotinic acid,938,1,100.0,nicotinic acid,938
+nitrous oxide,948,1,100.0,nitrous oxide,948
+norepinephrine,439260,1,100.0,norepinephrine,439260
+p-cresol,2879,1,100.0,p-cresol,2879
+p-xylene,7809,1,100.0,p-xylene,7809
+palmitic acid,985,1,100.0,palmitic acid,985
+phenol,996,1,100.0,phenol,996
+phenylmethylsulfonyl fluoride,4784,1,100.0,phenylmethylsulfonyl fluoride,4784
+phosphate-buffered saline,24978514,1,100.0,phosphate-buffered saline,24978514
+phosphatidylcholine,24778708,1,97.43589743589743,phosphatidylcholines,24778708
+phosphoenolpyruvate,1005,1,100.0,phosphoenolpyruvate,1005
+pyridoxine,1054,1,100.0,pyridoxine,1054
+pyruvate,107735,1,100.0,pyruvate,107735
+riboflavin,493570,1,100.0,riboflavin,493570
+serotonin,5202,1,100.0,serotonin,5202
+sodium bicarbonate,516892,1,100.0,sodium bicarbonate,516892
+sodium dodecyl sulfate,3423265,1,100.0,sodium dodecyl sulfate,3423265
+sodium hydroxide,14798,1,100.0,sodium hydroxide,14798
+spermine,1103,1,100.0,spermine,1103
+sulfuric acid,1118,1,100.0,sulfuric acid,1118
+thalidomide,5426,1,100.0,thalidomide,5426
+thiamine,1130,1,100.0,thiamine,1130
+tretinoin,444795,1,100.0,tretinoin,444795
+trichloroacetic acid,6421,1,100.0,trichloroacetic acid,6421
+trimethylamine,1146,1,100.0,trimethylamine,1146
+tromethamine,6503,1,100.0,tromethamine,6503
+urea,1176,1,100.0,urea,1176
+xanthine,1188,1,100.0,xanthine,1188
