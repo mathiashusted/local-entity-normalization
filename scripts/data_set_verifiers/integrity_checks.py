@@ -23,8 +23,8 @@
 # no violations.
 
 import pandas as pd
-BENCHMARK_PATH = "../../data/data set/benchmark.csv"
-CONTROL_PATH = "../../data/data set/control.csv"
+BENCHMARK_PATH = "../../data/dataset/benchmark.csv"
+CONTROL_PATH = "../../data/dataset/control.csv"
 
 
 def main():

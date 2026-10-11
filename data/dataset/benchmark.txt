@@ -1,0 +1,320 @@
+glucosse
+ureaa
+hydroxyureaa
+cytossine
+sperrmine
+melattonin
+mannnitol
+xanhtine
+cystiene
+aspratic acid
+butryic acid
+glutathoine
+chlorofrom
+tetrahydrobiooterin
+methiunine
+deoxyrybose
+riboflvin
+phenyalalanine
+hypoxnthine
+pyrdoxine
+cholestrol
+asetic acid
+ATP
+ADP
+NADPH
+FAD
+GABA
+DHA
+EPA
+PEP
+G6P
+Acetyl-CoA
+DMSO
+EDTA
+SDS
+DTT
+PMSF
+HEPES
+Tris
+PBS
+TCA
+5-HT
+NAC
+cAMP
+FRUCTOSE
+Adenosine Triphosphate
+dmso
+CAMP
+nadh
+l-dopa
+d-glucose
+VITAMIN C
+Sodium Chloride
+hcl
+NAOH
+co2
+mgso4
+ETHANOL
+h2o2
+Alpha-ketoglutarate
+fructose 6 phosphate
+N acetylcysteine
+beta carotene
+β-carotene
+2oxoglutaricacid
+5 hydroxytryptamine
+adenosine-triphosphate
+glucose6phosphate
+N,N dimethylformamide
+1,25 dihydroxyvitamin D3
+sodium-chloride
+acetyl CoA
+vitamin-C
+2-oxoglutarate
+deoxy-ribose
+L glutamine
+tri methylamine
+p aminobenzoic acid
+3'5' cyclic AMP
+γ-aminobutyric acid
+vitamin C
+vitamin B1
+vitamin B2
+vitamin B3
+vitamin B6
+vitamin H
+vitamin B12
+paracetamol
+adrenaline
+noradrenaline
+dextrose
+table salt
+baking soda
+caustic soda
+muriatic acid
+wood alcohol
+carbolic acid
+oil of vitriol
+Epsom salt
+milk sugar
+glycerin
+aspirin
+laughing gas
+quicksilver
+formalin
+ethyl alcohol
+acid, ascorbic
+acid, folic
+acid, acetic
+chloride, sodium
+acid, hydrochloric
+acid, L-glutamic
+5'-triphosphate, adenosine
+acid, palmitic
+peroxide, hydrogen
+acid, citric
+glucose
+lactate
+adenosine monophosphate
+NAD
+cholesterol
+inositol
+xylene
+vitamin D
+vitamin E
+carnitine
+glycerol
+retinoic acid
+ribose
+tartaric acid
+melatonin
+chloroform
+cytosine
+cresol
+menthol
+galactosamine
+Î²-carotene
+Î³-glutamylcysteine
+adenosine 5′-triphosphate
+ glucose 
+sodium  chloride
+H₂O₂
+1,25-dihydroxyvitami
+3-hydroxy-3-methylglutar
+&gamma;-linolenic acid
+adenosine 5’-monophosphate
+boric acid
+phospha-tidylcholine
+N
+pyruvate*
+D-glucose 9-phosphate
+L-glucosamine 8-phosphate
+hydroxyureine
+trimethylinositol
+gamma-tocotrienolic acid
+N-acetylthreonyl-CoA
+dimethylcarnitine sulfate
+pentahydroxyhexanoic anhydride
+amphetmine
+HEXANE
+ibuprofin
+thallidomide
+TP35
+EFGR
+BRAC1
+CFRT
+KARS
+VEGAF
+GAPHD
+SMDA4
+PETN
+MTHRF
+ACBT
+EBRB2
+aplha-synuclein
+hungtingtin
+apolipoprotien E
+tumor prot p53
+interlukin 6
+insulin recptor
+glucocorticod receptor
+cyclooxigenase-2
+epidermal growth factor receptor
+tumor protein p53
+vascular endothelial growth factor A
+interleukin 6
+tumor necrosis factor
+cystic fibrosis transmembrane conductance regulator
+glyceraldehyde-3-phosphate dehydrogenase
+beta-2-microglobulin
+hypoxanthine phosphoribosyltransferase 1
+estrogen receptor 1
+androgen receptor
+amyloid beta precursor protein
+superoxide dismutase 1
+catechol-O-methyltransferase
+brain derived neurotrophic factor
+angiotensin converting enzyme
+low density lipoprotein receptor
+proprotein convertase subtilisin/kexin type 9
+3-hydroxy-3-methylglutaryl-CoA reductase
+methylenetetrahydrofolate reductase
+matrix metallopeptidase 9
+signal transducer and activator of transcription 3
+tp53
+Tp53
+brca1
+Brca1
+egfr
+Egfr
+Actb
+il6
+Il6
+cftr
+Cftr
+c9orf72
+C9ORF72
+Kras
+mtor
+Myc
+Gapdh
+hla-drb1
+Vegfa
+pten
+IL 6
+IL-6
+HLA DRB1
+HLADRB1
+C9orf-72
+CD-4
+p-53
+SLC2 A1
+MT CO1
+MTCO1
+HLA A
+IGF-1
+IL 1B
+NAT-2
+CYP3 A4
+TGFB 1
+BRCA-1
+HIF1-A
+MAP2 K1
+ERBB-2
+p53
+HER2
+IL8
+MCP-1
+RANTES
+PD-1
+PD-L1
+CD20
+VEGF
+GLUT1
+SERT
+MDR1
+COX-2
+FRAP1
+CD152
+PSA
+CA-125
+CEA
+Ki-67
+ERK2
+ERK1
+Nrf2
+hERG
+haemoglobin beta
+TNF-alpha
+dystrophin
+receptor, epidermal growth factor
+protein p53, tumor
+factor A, vascular endothelial growth
+necrosis factor, tumor
+receptor, androgen
+receptor 1, estrogen
+dismutase 1, superoxide
+reductase, methylenetetrahydrofolate
+receptor, low density lipoprotein
+enzyme, angiotensin converting
+receptor, insulin
+factor, brain derived neurotrophic
+precursor protein, amyloid beta
+metallopeptidase 9, matrix
+kinase 1, mitogen-activated protein
+activator of transcription 3, signal transducer and
+regulator, cystic fibrosis transmembrane conductance
+BRCA1 gene
+KRAS oncogene
+insulin-like growth factors
+ERK
+p38
+AMPK
+NF-kB
+PKA
+PI3K
+collagen
+actin
+tubulin
+TGF-beta
+cytochrome P450
+HLA-DR
+1-Mar
+2-Sep
+1-Dec
+9-Sep
+5-Mar
+43891
+NF-ÎºB
+TNFÎ±
+TP53 
+C9orf7
+BRCA4
+CDK94
+MAPK47
+IL73
+SLC6A99
+CYP3A88
+TP83
+

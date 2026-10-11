@@ -7,8 +7,8 @@
 import os
 import pandas as pd
 
-CONTROL_PATH = "../../data/data set/control.csv"
-SAMPLE_PATH = "spot_check_sample.csv"
+CONTROL_PATH = "../../data/dataset/control.csv"
+SAMPLE_PATH = "../../results/verification/spot_check_sample.csv"
 SEED = 42
 PER_STRATUM = 7
 
