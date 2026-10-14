@@ -1,6 +1,4 @@
-data/reference/CID-MeSH.txt
-data/reference/CID-Synonym-filtered.gz
-data/reference/CID-Title.gz
-data/reference/hgnc_complete_set.txt
+data/reference/*
 data/dataset/.~lock.benchmark.csv#
+data/cache/*
 __pycache__/

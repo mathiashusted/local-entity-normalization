@@ -1,0 +1,320 @@
+id,input,pred_name,pred_entity_type,identifier,id_format,exists,entry_status,name_in_entry
+CHEM-001,glucosse,glucose,chemical,678,valid,False,,False
+CHEM-002,ureaa,urea,chemical,300000,valid,True,,False
+CHEM-003,hydroxyureaa,hydroxyurea,chemical,6111,valid,False,,False
+CHEM-004,cytossine,cytosine,chemical,6151,valid,True,,False
+CHEM-005,sperrmine,spermidine,chemical,5111,valid,True,,False
+CHEM-006,melattonin,melatonin,chemical,6211,valid,True,,False
+CHEM-007,mannnitol,mannitol,chemical,5101,valid,False,,False
+CHEM-008,xanhtine,xanthine,chemical,6111,valid,False,,False
+CHEM-009,cystiene,cysteine,chemical,320,valid,True,,False
+CHEM-010,aspratic acid,asparagine,gene,HGNC:1671,valid,False,,False
+CHEM-011,butryic acid,butyric acid,chemical,5731,valid,True,,False
+CHEM-012,glutathoine,glutathione,chemical,671,valid,True,,False
+CHEM-013,chlorofrom,chloroform,chemical,676,valid,False,,False
+CHEM-014,tetrahydrobiooterin,tetrahydrobiopterin,chemical,51111,valid,True,,False
+CHEM-015,methiunine,methionine,chemical,300000,valid,True,,False
+CHEM-016,deoxyrybose,deoxyribose,chemical,10000,valid,True,,False
+CHEM-017,riboflvin,riboflavin,chemical,5101,valid,False,,False
+CHEM-018,phenyalalanine,Phenylalanine,gene,HGNC:10401,valid,True,Approved,False
+CHEM-019,hypoxnthine,hypoxanthine,chemical,6111,valid,False,,False
+CHEM-020,pyrdoxine,pyridoxine,chemical,5111,valid,True,,False
+CHEM-021,cholestrol,cholesterol,chemical,5095,valid,True,,False
+CHEM-022,asetic acid,acetic acid,chemical,174.2,malformed,,,
+CHEM-023,ATP,Adenosine triphosphate,chemical,385,valid,True,,False
+CHEM-024,ADP,Adenosine diphosphate,chemical,312,valid,True,,False
+CHEM-025,NADPH,NADPH,chemical,5101,valid,False,,False
+CHEM-026,FAD,Flavin adenine dinucleotide,chemical,3621,valid,True,,False
+CHEM-027,GABA,gamma-aminobutyric acid,chemical,524-9,malformed,,,
+CHEM-028,DHA,Docosahexaenoic acid,chemical,5710,valid,False,,False
+CHEM-029,EPA,Epoxyeicosatetraenoic acid,chemical,61111,valid,True,,False
+CHEM-030,PEP,Phosphatidylethanolamine,chemical,5631,valid,True,,False
+CHEM-031,G6P,Glucose-6-phosphate,chemical,6111,valid,False,,False
+CHEM-032,Acetyl-CoA,Acetyl-CoA,chemical,6631,valid,True,,False
+CHEM-033,DMSO,Dimethyl sulfoxide,chemical,657,valid,False,,False
+CHEM-034,EDTA,ethylenediaminetetraacetic acid,chemical,5462,valid,False,,False
+CHEM-035,SDS,Sodium Dodecyl Sulfate,chemical,6191,valid,True,,False
+CHEM-036,DTT,dithiothreitol,chemical,5011,valid,True,,False
+CHEM-037,PMSF,PMSF,chemical,6111,valid,False,,False
+CHEM-038,HEPES,Hexamethylenepropylenediaminetriacetic acid,chemical,60111,valid,False,,False
+CHEM-039,Tris,Tris,chemical,5101,valid,False,,False
+CHEM-040,PBS,Phosphate-buffered saline,chemical,6021,valid,False,,False
+CHEM-041,TCA,Trichloroacetic acid,chemical,55111,valid,True,,False
+CHEM-042,5-HT,5-Hydroxytryptamine,chemical,5111,valid,True,,False
+CHEM-043,NAC,N-acetylcysteine,chemical,6091,valid,True,,False
+CHEM-044,cAMP,cyclic adenosine monophosphate,chemical,3591,valid,True,,False
+CHEM-045,FRUCTOSE,fructose,chemical,126,valid,True,,False
+CHEM-046,Adenosine Triphosphate,Adenosine Triphosphate,chemical,6321,valid,True,,False
+CHEM-047,dmso,dimethyl sulfoxide,chemical,6000,valid,True,,False
+CHEM-048,CAMP,cAMP,chemical,6191,valid,True,,False
+CHEM-049,nadh,NADH,chemical,6472,valid,True,,False
+CHEM-050,l-dopa,L-DOPA,chemical,5211,valid,False,,False
+CHEM-051,d-glucose,D-glucose,chemical,526,valid,False,,False
+CHEM-052,VITAMIN C,Ascorbic acid,chemical,3721,valid,False,,False
+CHEM-053,Sodium Chloride,Sodium Chloride,chemical,601,valid,True,,False
+CHEM-054,hcl,hydrochloric acid,chemical,5520,valid,True,,False
+CHEM-055,NAOH,Sodium Hydroxide,chemical,1205,valid,True,,False
+CHEM-056,co2,carbon dioxide,chemical,1291,valid,True,,False
+CHEM-057,mgso4,MgSO4,chemical,1371,valid,True,,False
+CHEM-058,ETHANOL,Ethanol,chemical,151,valid,True,,False
+CHEM-059,h2o2,hydrogen peroxide,chemical,7712,valid,True,,False
+CHEM-060,Alpha-ketoglutarate,alpha-ketoglutarate,chemical,6211,valid,True,,False
+CHEM-061,fructose 6 phosphate,fructose-6-phosphate,chemical,3671,valid,True,,False
+CHEM-062,N acetylcysteine,N-acetylcysteine,chemical,5211,valid,False,,False
+CHEM-063,beta carotene,beta-carotene,chemical,3411,valid,False,,False
+CHEM-064,β-carotene,beta-carotene,chemical,3411,valid,False,,False
+CHEM-065,2oxoglutaricacid,2-oxoglutarate,chemical,6111,valid,False,,False
+CHEM-066,5 hydroxytryptamine,5-hydroxytryptamine,chemical,6011,valid,True,,False
+CHEM-067,adenosine-triphosphate,adenosine triphosphate,chemical,383-1,malformed,,,
+CHEM-068,glucose6phosphate,Glucose-6-phosphate,chemical,6111,valid,False,,False
+CHEM-069,"N,N dimethylformamide","N,N-dimethylformamide",chemical,108-12-1,malformed,,,
+CHEM-070,"1,25 dihydroxyvitamin D3",Vitamin D3,chemical,3141,valid,True,,False
+CHEM-071,sodium-chloride,sodium chloride,chemical,6011,valid,True,,False
+CHEM-072,acetyl CoA,Acetyl coenzyme A,chemical,671,valid,True,,False
+CHEM-073,vitamin-C,Ascorbic acid,chemical,3723,valid,True,,False
+CHEM-074,2-oxoglutarate,2-oxoglutarate,chemical,3611,valid,True,,False
+CHEM-075,deoxy-ribose,deoxyribose,chemical,3311,valid,True,,False
+CHEM-076,L glutamine,L-glutamine,chemical,5101,valid,False,,False
+CHEM-077,tri methylamine,trimethylamine,chemical,5611-11-0,malformed,,,
+CHEM-078,p aminobenzoic acid,PABA,chemical,6711,valid,True,,False
+CHEM-079,3'5' cyclic AMP,cyclic AMP,chemical,318,valid,False,,False
+CHEM-080,γ-aminobutyric acid,gamma-aminobutyric acid,chemical,5214,valid,True,,False
+CHEM-081,vitamin C,Ascorbic acid,chemical,3723,valid,True,,False
+CHEM-082,vitamin B1,Thiamine,chemical,5432,valid,True,,False
+CHEM-083,vitamin B2,Riboflavin,chemical,5101,valid,False,,False
+CHEM-084,vitamin B3,Niacin,chemical,5742,valid,True,,False
+CHEM-085,vitamin B6,Pyridoxine,chemical,5102,valid,True,,False
+CHEM-086,vitamin H,Vitamin H,chemical,1111,valid,True,,False
+CHEM-087,vitamin B12,cobalamin,chemical,3745,valid,True,,False
+CHEM-088,paracetamol,Paracetamol,chemical,602,valid,True,,False
+CHEM-089,adrenaline,epinephrine,chemical,6021,valid,False,,False
+CHEM-090,noradrenaline,norepinephrine,chemical,6211,valid,True,,False
+CHEM-091,dextrose,D-glucose,chemical,526,valid,False,,False
+CHEM-092,table salt,sodium chloride,chemical,6010,valid,True,,False
+CHEM-093,baking soda,sodium bicarbonate,chemical,1447,valid,False,,False
+CHEM-094,caustic soda,sodium hydroxide,chemical,1310,valid,True,,False
+CHEM-095,muriatic acid,muriatic acid,chemical,5611-61-0,malformed,,,
+CHEM-096,wood alcohol,ethanol,chemical,106,valid,True,,False
+CHEM-097,carbolic acid,phenol,chemical,67-22-4,malformed,,,
+CHEM-098,oil of vitriol,sulfuric acid,chemical,5734,valid,True,,False
+CHEM-099,Epsom salt,Epsom salt,chemical,5101,valid,False,,False
+CHEM-100,milk sugar,lactose,chemical,1214,valid,True,,False
+CHEM-101,glycerin,glycerol,chemical,1004,valid,True,,False
+CHEM-102,aspirin,aspirin,chemical,5920,valid,True,,False
+CHEM-103,laughing gas,nitrous oxide,chemical,10681,valid,False,,False
+CHEM-104,quicksilver,mercury,chemical,1195,valid,True,,False
+CHEM-105,formalin,formaldehyde,chemical,67-14-2,malformed,,,
+CHEM-106,ethyl alcohol,ethanol,chemical,108,valid,True,,False
+CHEM-107,"acid, ascorbic",Ascorbic acid,chemical,3723,valid,True,,False
+CHEM-108,"acid, folic",Folic acid,chemical,673,valid,True,,False
+CHEM-109,"acid, acetic",Acetic acid,chemical,174,valid,True,,False
+CHEM-110,"chloride, sodium",Sodium chloride,chemical,5848,valid,False,,False
+CHEM-111,"acid, hydrochloric",hydrochloric acid,chemical,5625,valid,True,,False
+CHEM-112,"acid, L-glutamic",L-glutamic acid,chemical,3076,valid,True,,False
+CHEM-113,"5'-triphosphate, adenosine",ATP,chemical,1001,valid,True,,False
+CHEM-114,"acid, palmitic",Palmitic acid,chemical,5710,valid,False,,False
+CHEM-115,"peroxide, hydrogen",hydrogen peroxide,chemical,6422-91-1,malformed,,,
+CHEM-116,"acid, citric",citric acid,chemical,3320,valid,False,,False
+CHEM-117,glucose,glucose,chemical,678,valid,False,,False
+CHEM-118,lactate,L-lactate,chemical,5771,valid,True,,False
+CHEM-119,adenosine monophosphate,adenosine monophosphate,chemical,3866,valid,True,,False
+CHEM-120,NAD,Nicotinamide adenine dinucleotide,chemical,3048,valid,True,,False
+CHEM-121,cholesterol,cholesterol,chemical,5541,valid,True,,False
+CHEM-122,inositol,inositol,chemical,5101,valid,False,,False
+CHEM-123,xylene,xylene,chemical,6000,valid,True,,False
+CHEM-124,vitamin D,Vitamin D,chemical,12345,valid,True,,False
+CHEM-125,vitamin E,alpha-tocopherol,chemical,3063,valid,True,,False
+CHEM-126,carnitine,carnitine,chemical,5101,valid,False,,False
+CHEM-127,glycerol,glycerol,chemical,1021,valid,True,,False
+CHEM-128,retinoic acid,Retinoic acid,chemical,6111,valid,False,,False
+CHEM-129,ribose,ribose,chemical,3860,valid,True,,False
+CHEM-130,tartaric acid,tartaric acid,chemical,3672,valid,True,,False
+CHEM-131,melatonin,melatonin,chemical,5102,valid,True,,False
+CHEM-132,chloroform,chloroform,chemical,671,valid,True,,False
+CHEM-133,cytosine,cytosine,gene,HGNC:1000,valid,True,Entry Withdrawn,False
+CHEM-134,cresol,cresol,chemical,5111,valid,True,,False
+CHEM-135,menthol,menthol,chemical,6211,valid,True,,False
+CHEM-136,galactosamine,galactosamine,chemical,5111,valid,True,,False
+CHEM-137,Î²-carotene,beta-carotene,chemical,5111,valid,True,,False
+CHEM-138,Î³-glutamylcysteine,gamma-glutamylcysteine,chemical,3111,valid,True,,False
+CHEM-139,adenosine 5′-triphosphate,adenosine 5'-triphosphate,chemical,6211,valid,True,,False
+CHEM-140, glucose ,glucose,chemical,678,valid,False,,False
+CHEM-141,sodium  chloride,sodium chloride,chemical,52341,valid,True,,False
+CHEM-142,H₂O₂,Hydrogen peroxide,chemical,6812,valid,True,,False
+CHEM-143,"1,25-dihydroxyvitami",Vitamin D3,chemical,3151,valid,True,,False
+CHEM-144,3-hydroxy-3-methylglutar,3-hydroxy-3-methylglutaric acid,chemical,61111,valid,True,,False
+CHEM-145,&gamma;-linolenic acid,Linoleic acid,chemical,3011,valid,True,,False
+CHEM-146,adenosine 5’-monophosphate,adenosine 5'-monophosphate,chemical,3862,valid,True,,False
+CHEM-147,boric acid,boric acid,chemical,5401,valid,True,,False
+CHEM-148,phospha-tidylcholine,Phosphatidylcholine,chemical,3121,valid,True,,False
+CHEM-149,N,,gene,,abstain,,,
+CHEM-150,pyruvate*,pyruvate,chemical,1421,valid,True,,False
+CHEM-151,D-glucose 9-phosphate,D-glucose 9-phosphate,chemical,5366,valid,True,,False
+CHEM-152,L-glucosamine 8-phosphate,L-Glucosamine 8-phosphate,chemical,51111,valid,True,,False
+CHEM-153,hydroxyureine,hydroxyurea,chemical,6111,valid,False,,False
+CHEM-154,trimethylinositol,trimethylinositol,chemical,51111,valid,True,,False
+CHEM-155,gamma-tocotrienolic acid,gamma-tocotrienolic acid,chemical,51111,valid,True,,False
+CHEM-156,N-acetylthreonyl-CoA,N-acetylthreonyl-CoA,chemical,5111,valid,True,,False
+CHEM-157,dimethylcarnitine sulfate,dimethylcarnitine sulfate,chemical,51111,valid,True,,False
+CHEM-158,pentahydroxyhexanoic anhydride,pentahydroxyhexanoic anhydride,chemical,51111,valid,True,,False
+CHEM-159,amphetmine,amphetamine,chemical,6411,valid,True,,False
+CHEM-160,HEXANE,hexane,chemical,1144,valid,True,,False
+CHEM-161,ibuprofin,ibuprofen,chemical,5632,valid,True,,False
+CHEM-162,thallidomide,thallidomide,chemical,51112,valid,True,,False
+GENE-001,TP35,TP53,gene,HGNC:61,valid,True,Approved,False
+GENE-002,EFGR,EGFR,gene,HGNC:1061,valid,False,,False
+GENE-003,BRAC1,BRCA1,gene,HGNC:672,valid,True,Approved,False
+GENE-004,CFRT,Ceftriaxone,chemical,51111,valid,True,,False
+GENE-005,KARS,KARS,gene,HGNC:1111,valid,False,,False
+GENE-006,VEGAF,VEGFA,gene,HGNC:1111,valid,False,,False
+GENE-007,GAPHD,GAPDH,gene,HGNC:671,valid,True,Approved,False
+GENE-008,SMDA4,SMDA4,gene,HGNC:2111,valid,False,,False
+GENE-009,PETN,Pethidine,chemical,6111,valid,False,,False
+GENE-010,MTHRF,Methyl-CpG-binding protein,gene,HGNC:10111,valid,True,Approved,False
+GENE-011,ACBT,Acetaminophen,chemical,602,valid,True,,False
+GENE-012,EBRB2,ERBB2,gene,HGNC:10711,valid,True,Approved,False
+GENE-013,aplha-synuclein,Alpha-synuclein,gene,HGNC:6122,valid,True,Approved,False
+GENE-014,hungtingtin,Htt,gene,HGNC:3190,valid,True,Entry Withdrawn,False
+GENE-015,apolipoprotien E,Apolipoprotein E,gene,HGNC:672,valid,True,Approved,False
+GENE-016,tumor prot p53,TP53,gene,HGNC:1000,valid,True,Entry Withdrawn,False
+GENE-017,interlukin 6,Interleukin-6,gene,HGNC:150,valid,True,Approved,False
+GENE-018,insulin recptor,insulin receptor,gene,HGNC:1061,valid,False,,False
+GENE-019,glucocorticod receptor,glucocorticoid receptor,gene,HGNC:10010,valid,True,Approved,False
+GENE-020,cyclooxigenase-2,cyclooxygenase-2,gene,HGNC:1110,valid,False,,False
+GENE-021,epidermal growth factor receptor,EGFR,gene,HGNC:1061,valid,False,,False
+GENE-022,tumor protein p53,TP53,gene,HGNC:1111,valid,False,,False
+GENE-023,vascular endothelial growth factor A,Vascular Endothelial Growth Factor A,gene,HGNC:1811,valid,True,Approved,False
+GENE-024,interleukin 6,Interleukin-6,gene,HGNC:150,valid,True,Approved,False
+GENE-025,tumor necrosis factor,Tumor Necrosis Factor,gene,HGNC:10000,valid,True,Approved,False
+GENE-026,cystic fibrosis transmembrane conductance regulator,CFTR,gene,HGNC:617,valid,False,,False
+GENE-027,glyceraldehyde-3-phosphate dehydrogenase,glyceraldehyde-3-phosphate dehydrogenase,gene,HGNC:1339,valid,True,Approved,False
+GENE-028,beta-2-microglobulin,beta-2-microglobulin,gene,HGNC:672,valid,True,Approved,False
+GENE-029,hypoxanthine phosphoribosyltransferase 1,Hypoxanthine phosphoribosyltransferase 1,gene,HGNC:1071,valid,True,Approved,False
+GENE-030,estrogen receptor 1,Estrogen receptor 1,gene,HGNC:3042,valid,True,Approved,False
+GENE-031,androgen receptor,Androgen receptor,gene,HGNC:1810,valid,True,Approved,False
+GENE-032,amyloid beta precursor protein,APP,gene,HGNC:1501,valid,False,,False
+GENE-033,superoxide dismutase 1,SOD1,gene,HGNC:6111,valid,True,Approved,False
+GENE-034,catechol-O-methyltransferase,COMT,gene,HGNC:2551,valid,True,Approved,False
+GENE-035,brain derived neurotrophic factor,Brain-derived neurotrophic factor,gene,HGNC:181,valid,False,,False
+GENE-036,angiotensin converting enzyme,Angiotensin-converting enzyme,gene,HGNC:147,valid,True,Approved,False
+GENE-037,low density lipoprotein receptor,LDL receptor,gene,HGNC:10711,valid,True,Approved,False
+GENE-038,proprotein convertase subtilisin/kexin type 9,Proprotein convertase subtilisin/kexin type 9,gene,HGNC:15411,valid,True,Entry Withdrawn,False
+GENE-039,3-hydroxy-3-methylglutaryl-CoA reductase,HMG-CoA reductase,gene,HGNC:2031,valid,False,,False
+GENE-040,methylenetetrahydrofolate reductase,Methylenetetrahydrofolate reductase,gene,HGNC:13310,valid,True,Approved,False
+GENE-041,matrix metallopeptidase 9,Matrix metallopeptidase 9,gene,HGNC:10111,valid,True,Approved,False
+GENE-042,signal transducer and activator of transcription 3,STAT3,gene,HGNC:8127,valid,True,Approved,False
+GENE-043,tp53,TP53,gene,HGNC:61,valid,True,Approved,False
+GENE-044,Tp53,TP53,gene,HGNC:672,valid,True,Approved,False
+GENE-045,brca1,BRCA1,gene,HGNC:672,valid,True,Approved,False
+GENE-046,Brca1,BRCA1,gene,HGNC:6171,valid,True,Approved,False
+GENE-047,egfr,EGF receptor,gene,HGNC:10450,valid,True,Approved,False
+GENE-048,Egfr,EGFR,gene,HGNC:1061,valid,False,,False
+GENE-049,Actb,Actin,gene,HGNC:10711,valid,True,Approved,False
+GENE-050,il6,Interleukin-6,gene,HGNC:150,valid,True,Approved,False
+GENE-051,Il6,Interleukin-6,gene,HGNC:150,valid,True,Approved,False
+GENE-052,cftr,Ceftriaxone,chemical,51111,valid,True,,False
+GENE-053,Cftr,Ceftriaxone,chemical,61111,valid,True,,False
+GENE-054,c9orf72,C9orf72,gene,HGNC:6111,valid,True,Approved,False
+GENE-055,C9ORF72,C9ORF72,gene,HGNC:10000,valid,True,Approved,False
+GENE-056,Kras,KRAS,gene,HGNC:1100,valid,True,Approved,False
+GENE-057,mtor,MTOR,gene,HGNC:672,valid,True,Approved,False
+GENE-058,Myc,MYC,gene,HGNC:672,valid,True,Approved,False
+GENE-059,Gapdh,GAPDH,gene,HGNC:672,valid,True,Approved,False
+GENE-060,hla-drb1,HLA-DRB1,gene,HGNC:2515,valid,True,Approved,False
+GENE-061,Vegfa,VEGFA,gene,HGNC:1111,valid,False,,False
+GENE-062,pten,PTEN,gene,HGNC:1100,valid,True,Approved,False
+GENE-063,IL 6,Interleukin-6,gene,HGNC:150,valid,True,Approved,False
+GENE-064,IL-6,Interleukin-6,gene,HGNC:1500,valid,True,Approved,False
+GENE-065,HLA DRB1,HLA-DRB1,gene,HGNC:2511,valid,True,Approved,False
+GENE-066,HLADRB1,HDADRB1,gene,HGNC:10411,valid,True,Approved,False
+GENE-067,C9orf-72,C9orf72,gene,HGNC:6000,valid,True,Approved,False
+GENE-068,CD-4,CD4,gene,HGNC:214,valid,True,Approved,False
+GENE-069,p-53,TP53,gene,HGNC:61,valid,True,Approved,False
+GENE-070,SLC2 A1,SLC2A1,gene,HGNC:611,valid,True,Approved,False
+GENE-071,MT CO1,Methionine,gene,HGNC:4306,valid,False,,False
+GENE-072,MTCO1,MTCO1,gene,HGNC:10001,valid,True,Approved,False
+GENE-073,HLA A,HLA-A,gene,HGNC:672,valid,True,Approved,False
+GENE-074,IGF-1,Insulin-like growth factor 1,gene,HGNC:10450,valid,True,Approved,False
+GENE-075,IL 1B,Interleukin-1 beta,gene,HGNC:1516,valid,True,Approved,False
+GENE-076,NAT-2,NAT2,gene,HGNC:2141,valid,True,Entry Withdrawn,False
+GENE-077,CYP3 A4,CYP3A4,gene,HGNC:10611,valid,True,Approved,False
+GENE-078,TGFB 1,Transforming growth factor beta,gene,HGNC:1811,valid,True,Approved,False
+GENE-079,BRCA-1,BRCA1,gene,HGNC:672,valid,True,Approved,False
+GENE-080,HIF1-A,HIF1,gene,HGNC:611,valid,True,Approved,False
+GENE-081,MAP2 K1,MAP2,gene,HGNC:681,valid,True,Approved,False
+GENE-082,ERBB-2,ERBB2,gene,HGNC:18111,valid,True,Approved,False
+GENE-083,p53,TP53,gene,HGNC:672,valid,True,Approved,False
+GENE-084,HER2,HER2,gene,HGNC:1211,valid,True,Approved,False
+GENE-085,IL8,Interleukin-8,gene,HGNC:1111,valid,False,,False
+GENE-086,MCP-1,Interleukin-1 beta,gene,HGNC:10011,valid,True,Approved,False
+GENE-087,RANTES,CCL5,gene,HGNC:10011,valid,True,Approved,False
+GENE-088,PD-1,PD-1,gene,HGNC:6921,valid,True,Approved,False
+GENE-089,PD-L1,PD-L1,gene,HGNC:15041,valid,True,Approved,False
+GENE-090,CD20,CD20,gene,HGNC:672,valid,True,Approved,False
+GENE-091,VEGF,Vascular endothelial growth factor,gene,HGNC:10450,valid,True,Approved,False
+GENE-092,GLUT1,GLUT1,gene,HGNC:672,valid,True,Approved,False
+GENE-093,SERT,Serotonin transporter,gene,HGNC:6046,valid,False,,False
+GENE-094,MDR1,MDR1,gene,HGNC:10681,valid,True,Approved,False
+GENE-095,COX-2,Cyclooxygenase-2,gene,HGNC:1820,valid,True,Approved,False
+GENE-096,FRAP1,FRAP1,gene,HGNC:10711,valid,True,Approved,False
+GENE-097,CD152,CD152,gene,HGNC:11111,valid,True,Approved,False
+GENE-098,PSA,Prostate-specific antigen,chemical,6111,valid,False,,False
+GENE-099,CA-125,CA-125,chemical,51011,valid,True,,False
+GENE-100,CEA,Carcinoembryonic antigen,chemical,2811,valid,True,,False
+GENE-101,Ki-67,Ki-67,gene,HGNC:10000,valid,True,Approved,False
+GENE-102,ERK2,ERK2,gene,HGNC:6030,valid,True,Approved,False
+GENE-103,ERK1,ERK1,gene,HGNC:13310,valid,True,Approved,False
+GENE-104,Nrf2,Nrf2,gene,HGNC:611,valid,True,Approved,False
+GENE-105,hERG,hERG,gene,HGNC:2551,valid,True,Approved,False
+GENE-106,haemoglobin beta,Hemoglobin beta,gene,HGNC:2810,valid,True,Approved,False
+GENE-107,TNF-alpha,Tumor necrosis factor alpha,gene,HGNC:181,valid,False,,False
+GENE-108,dystrophin,Dystrophin,gene,HGNC:6111,valid,True,Approved,False
+GENE-109,"receptor, epidermal growth factor",epidermal growth factor,gene,HGNC:1811,valid,True,Approved,False
+GENE-110,"protein p53, tumor",TP53,gene,HGNC:1111,valid,False,,False
+GENE-111,"factor A, vascular endothelial growth",VEGF,gene,HGNC:10611,valid,True,Approved,False
+GENE-112,"necrosis factor, tumor",necrosis factor,gene,HGNC:10410,valid,True,Approved,False
+GENE-113,"receptor, androgen",androgen receptor,gene,HGNC:1810,valid,True,Approved,False
+GENE-114,"receptor 1, estrogen",estrogen,chemical,6000,valid,True,,False
+GENE-115,"dismutase 1, superoxide",Dismutase 1,gene,HGNC:10410,valid,True,Approved,False
+GENE-116,"reductase, methylenetetrahydrofolate",methylenetetrahydrofolate,chemical,6151,valid,True,,False
+GENE-117,"receptor, low density lipoprotein",low-density lipoprotein,chemical,6058-0,malformed,,,
+GENE-118,"enzyme, angiotensin converting",Angiotensin-converting enzyme,chemical,2111,valid,True,,False
+GENE-119,"receptor, insulin",insulin,chemical,528,valid,True,,False
+GENE-120,"factor, brain derived neurotrophic",Brain-derived neurotrophic factor,gene,HGNC:181,valid,False,,False
+GENE-121,"precursor protein, amyloid beta",Amyloid beta,gene,HGNC:10461,valid,True,Approved,False
+GENE-122,"metallopeptidase 9, matrix",metallopeptidase9,gene,HGNC:10111,valid,True,Approved,False
+GENE-123,"kinase 1, mitogen-activated protein",MAPK,gene,HGNC:1300,valid,True,Approved,False
+GENE-124,"activator of transcription 3, signal transducer and",STAT3,gene,HGNC:9010,valid,False,,False
+GENE-125,"regulator, cystic fibrosis transmembrane conductance",CFTR,gene,HGNC:617,valid,False,,False
+GENE-126,BRCA1 gene,BRCA1,gene,HGNC:1113,valid,True,Approved,False
+GENE-127,KRAS oncogene,KRAS,gene,HGNC:1245,valid,True,Approved,False
+GENE-128,insulin-like growth factors,insulin-like growth factor,chemical,5271,valid,True,,False
+GENE-129,ERK,ERK,gene,HGNC:13645,valid,False,,False
+GENE-130,p38,P38,gene,HGNC:6111,valid,True,Approved,False
+GENE-131,AMPK,AMPK,gene,HGNC:1361,valid,True,Approved,False
+GENE-132,NF-kB,NF-kappa B,gene,HGNC:3188,valid,True,Approved,False
+GENE-133,PKA,Protein kinase A,gene,HGNC:1300,valid,True,Approved,False
+GENE-134,PI3K,PI3K,gene,HGNC:13310,valid,True,Approved,False
+GENE-135,collagen,collagen,chemical,3111,valid,True,,False
+GENE-136,actin,ACTIN,gene,HGNC:10711,valid,True,Approved,False
+GENE-137,tubulin,tubulin,gene,HGNC:672,valid,True,Approved,False
+GENE-138,TGF-beta,Transforming growth factor beta,gene,HGNC:181,valid,False,,False
+GENE-139,cytochrome P450,Cytochrome P450,chemical,6111,valid,False,,False
+GENE-140,HLA-DR,HLA-DR,gene,HGNC:620,valid,True,Approved,False
+GENE-141,1-Mar,,chemical,,abstain,,,
+GENE-142,2-Sep,,gene,,abstain,,,
+GENE-143,1-Dec,1-Decanoic acid,chemical,5111,valid,True,,False
+GENE-144,9-Sep,,gene,,abstain,,,
+GENE-145,5-Mar,,chemical,,abstain,,,
+GENE-146,43891,43891,chemical,31111,valid,True,,False
+GENE-147,NF-ÎºB,Nifurtimox,chemical,51111,valid,True,,False
+GENE-148,TNFÎ±,Tumor necrosis factor,gene,HGNC:12010,valid,True,Approved,False
+GENE-149,TP53 ,TP53,gene,HGNC:61,valid,True,Approved,False
+GENE-150,C9orf7,C9orf7,gene,HGNC:6111,valid,True,Approved,False
+GENE-151,BRCA4,BRCA1,gene,HGNC:1113,valid,True,Approved,False
+GENE-153,CDK94,CDK9,gene,HGNC:10111,valid,True,Approved,False
+GENE-154,MAPK47,MAPK47,gene,HGNC:11611,valid,False,,False
+GENE-155,IL73,Interleukin-73,gene,HGNC:1111,valid,False,,False
+GENE-156,SLC6A99,SLC6A9,gene,HGNC:6111,valid,True,Approved,False
+GENE-157,CYP3A88,CYP3A4,gene,HGNC:10610,valid,True,Approved,False
+GENE-158,TP83,TP53,gene,HGNC:1111,valid,False,,False

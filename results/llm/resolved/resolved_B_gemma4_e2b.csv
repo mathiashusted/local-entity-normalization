@@ -1,0 +1,320 @@
+id,input,query,pred_entity_type,n_candidates,returned_id,candidate_ids,matched_field
+CHEM-001,glucosse,glucose,chemical,1,5793,5793,
+CHEM-002,ureaa,urea,chemical,1,1176,1176,
+CHEM-003,hydroxyureaa,hydroxyurea,chemical,1,3657,3657,
+CHEM-004,cytossine,cytosine,chemical,1,597,597,
+CHEM-005,sperrmine,spermidine,chemical,1,1102,1102,
+CHEM-006,melattonin,melatonin,chemical,1,896,896,
+CHEM-007,mannnitol,mannitol,chemical,1,6251,6251,
+CHEM-008,xanhtine,xanthine,chemical,1,1188,1188,
+CHEM-009,cystiene,cystine,chemical,1,67678,67678,
+CHEM-010,aspratic acid,asparagine,gene,0,,,
+CHEM-011,butryic acid,butyric acid,chemical,1,264,264,
+CHEM-012,glutathoine,glutathione,chemical,1,124886,124886,
+CHEM-013,chlorofrom,chloroform,chemical,1,6212,6212,
+CHEM-014,tetrahydrobiooterin,tetrahydrobiopterin,chemical,1,135402045,135402045,
+CHEM-015,methiunine,methionine,chemical,1,6137,6137,
+CHEM-016,deoxyrybose,deoxyribose,chemical,1,9828112,9828112,
+CHEM-017,riboflvin,riboflavin,chemical,1,493570,493570,
+CHEM-018,phenyalalanine,phenylalanine,chemical,1,6140,6140,
+CHEM-019,hypoxnthine,hypoxanthine,chemical,1,135398638,135398638,
+CHEM-020,pyrdoxine,pyridoxine,chemical,1,1054,1054,
+CHEM-021,cholestrol,cholesterol,chemical,1,5997,5997,
+CHEM-022,asetic acid,acetic acid,chemical,1,176,176,
+CHEM-023,ATP,Adenosine triphosphate,chemical,1,5957,5957,
+CHEM-024,ADP,Adenosine diphosphate,chemical,1,6022,6022,
+CHEM-025,NADPH,NADPH,chemical,1,5884,5884,
+CHEM-026,FAD,Flavin adenine dinucleotide,chemical,1,643975,643975,
+CHEM-027,GABA,GABA,gene,0,,,
+CHEM-028,DHA,docosahexaenoic acid,chemical,1,445580,445580,
+CHEM-029,EPA,Epoxyehthene,chemical,0,,,
+CHEM-030,PEP,Phosphoenolpyruvate,chemical,1,1005,1005,
+CHEM-031,G6P,Glucose-6-phosphate,chemical,1,439958,439958,
+CHEM-032,Acetyl-CoA,Acetyl-CoA,chemical,1,444493,444493,
+CHEM-033,DMSO,Dimethyl sulfoxide,chemical,1,679,679,
+CHEM-034,EDTA,ethylenediaminetetraacetic acid,chemical,1,6049,6049,
+CHEM-035,SDS,sodium dodecyl sulfate,chemical,1,3423265,3423265,
+CHEM-036,DTT,dithiothreitol,chemical,1,439196,439196,
+CHEM-037,PMSF,PMSF,chemical,1,4784,4784,
+CHEM-038,HEPES,HEPES,chemical,1,23831,23831,
+CHEM-039,Tris,Tris,chemical,1,6503,6503,
+CHEM-040,PBS,Phosphate-Buffered Saline,chemical,1,24978514,24978514,
+CHEM-041,TCA,tricarboxylic acid,chemical,0,,,
+CHEM-042,5-HT,5-Hydroxytryptamine,chemical,1,5202,5202,
+CHEM-043,NAC,N-acetylcysteine,chemical,1,12035,12035,
+CHEM-044,cAMP,cyclic adenosine monophosphate,chemical,1,6076,6076,
+CHEM-045,FRUCTOSE,fructose,chemical,1,2723872,2723872,
+CHEM-046,Adenosine Triphosphate,ATP,chemical,1,5957,5957,
+CHEM-047,dmso,dimethyl sulfoxide,chemical,1,679,679,
+CHEM-048,CAMP,cAMP,chemical,1,6076,6076,
+CHEM-049,nadh,NADH,chemical,1,439153,439153,
+CHEM-050,l-dopa,L-DOPA,chemical,1,6047,6047,
+CHEM-051,d-glucose,D-glucose,chemical,1,5793,5793,
+CHEM-052,VITAMIN C,Ascorbic acid,chemical,1,54670067,54670067,
+CHEM-053,Sodium Chloride,Sodium Chloride,chemical,1,5234,5234,
+CHEM-054,hcl,hydrochloric acid,chemical,1,313,313,
+CHEM-055,NAOH,NaOH,chemical,1,14798,14798,
+CHEM-056,co2,carbon dioxide,chemical,1,280,280,
+CHEM-057,mgso4,MgSO4,chemical,1,24083,24083,
+CHEM-058,ETHANOL,ethanol,chemical,1,702,702,
+CHEM-059,h2o2,hydrogen peroxide,chemical,1,784,784,
+CHEM-060,Alpha-ketoglutarate,alpha-ketoglutarate,chemical,1,164533,164533,
+CHEM-061,fructose 6 phosphate,fructose-6-phosphate,chemical,1,69507,69507,
+CHEM-062,N acetylcysteine,N-acetylcysteine,chemical,1,12035,12035,
+CHEM-063,beta carotene,beta-carotene,chemical,1,5280489,5280489,
+CHEM-064,β-carotene,beta-carotene,chemical,1,5280489,5280489,
+CHEM-065,2oxoglutaricacid,2-oxoglutarate,chemical,1,51,51,
+CHEM-066,5 hydroxytryptamine,serotonin,chemical,1,5202,5202,
+CHEM-067,adenosine-triphosphate,ATP,chemical,1,5957,5957,
+CHEM-068,glucose6phosphate,glucose-6-phosphate,chemical,1,439958,439958,
+CHEM-069,"N,N dimethylformamide","N,N-dimethylformamide",chemical,1,6228,6228,
+CHEM-070,"1,25 dihydroxyvitamin D3",Vitamin D3,chemical,1,5280795,5280795,
+CHEM-071,sodium-chloride,sodium chloride,chemical,1,5234,5234,
+CHEM-072,acetyl CoA,acetyl-CoA,chemical,1,444493,444493,
+CHEM-073,vitamin-C,Ascorbic acid,chemical,1,54670067,54670067,
+CHEM-074,2-oxoglutarate,2-oxoglutarate,chemical,1,51,51,
+CHEM-075,deoxy-ribose,deoxyribose,chemical,1,9828112,9828112,
+CHEM-076,L glutamine,L-glutamine,chemical,1,5961,5961,
+CHEM-077,tri methylamine,trimethylamine,chemical,1,1146,1146,
+CHEM-078,p aminobenzoic acid,p-aminobenzoic acid,chemical,1,978,978,
+CHEM-079,3'5' cyclic AMP,cyclic AMP,chemical,1,6076,6076,
+CHEM-080,γ-aminobutyric acid,gamma-aminobutyric acid,chemical,1,119,119,
+CHEM-081,vitamin C,Ascorbic acid,chemical,1,54670067,54670067,
+CHEM-082,vitamin B1,Thiamine,chemical,1,1130,1130,
+CHEM-083,vitamin B2,riboflavin,chemical,1,493570,493570,
+CHEM-084,vitamin B3,Niacin,chemical,1,938,938,
+CHEM-085,vitamin B6,Pyridoxine,chemical,1,1054,1054,
+CHEM-086,vitamin H,Vitamin H,chemical,1,171548,171548,
+CHEM-087,vitamin B12,cobalamin,chemical,1,73415824,73415824,
+CHEM-088,paracetamol,paracetamol,chemical,1,1983,1983,
+CHEM-089,adrenaline,adrenaline,chemical,1,5816,5816,
+CHEM-090,noradrenaline,norepinephrine,chemical,1,439260,439260,
+CHEM-091,dextrose,D-glucose,chemical,1,5793,5793,
+CHEM-092,table salt,sodium chloride,chemical,1,5234,5234,
+CHEM-093,baking soda,sodium bicarbonate,chemical,1,516892,516892,
+CHEM-094,caustic soda,sodium hydroxide,chemical,1,14798,14798,
+CHEM-095,muriatic acid,sulfuric acid,chemical,1,1118,1118,
+CHEM-096,wood alcohol,ethanol,chemical,1,702,702,
+CHEM-097,carbolic acid,phenol,chemical,1,996,996,
+CHEM-098,oil of vitriol,sulfuric acid,chemical,1,1118,1118,
+CHEM-099,Epsom salt,Epsom salt,chemical,1,24843,24843,
+CHEM-100,milk sugar,lactose,chemical,1,6134,6134,
+CHEM-101,glycerin,glycerol,chemical,1,753,753,
+CHEM-102,aspirin,aspirin,chemical,1,2244,2244,
+CHEM-103,laughing gas,nitrous oxide,chemical,1,948,948,
+CHEM-104,quicksilver,mercury,chemical,1,23931,23931,
+CHEM-105,formalin,formaldehyde,chemical,1,712,712,
+CHEM-106,ethyl alcohol,ethanol,chemical,1,702,702,
+CHEM-107,"acid, ascorbic",Ascorbic acid,chemical,1,54670067,54670067,
+CHEM-108,"acid, folic",folic acid,chemical,1,135398658,135398658,
+CHEM-109,"acid, acetic",acetic acid,chemical,1,176,176,
+CHEM-110,"chloride, sodium",sodium chloride,chemical,1,5234,5234,
+CHEM-111,"acid, hydrochloric",hydrochloric acid,chemical,1,313,313,
+CHEM-112,"acid, L-glutamic",L-glutamic acid,chemical,1,33032,33032,
+CHEM-113,"5'-triphosphate, adenosine",ATP,chemical,1,5957,5957,
+CHEM-114,"acid, palmitic",palmitic acid,chemical,1,985,985,
+CHEM-115,"peroxide, hydrogen",hydrogen peroxide,chemical,1,784,784,
+CHEM-116,"acid, citric",citric acid,chemical,1,311,311,
+CHEM-117,glucose,glucose,chemical,1,5793,5793,
+CHEM-118,lactate,L-lactate,chemical,3,,5460161;107689;49771530,
+CHEM-119,adenosine monophosphate,AMP,chemical,1,6083,6083,
+CHEM-120,NAD,Nicotinamide adenine dinucleotide,chemical,1,5892,5892,
+CHEM-121,cholesterol,cholesterol,chemical,1,5997,5997,
+CHEM-122,inositol,inositol,chemical,1,892,892,
+CHEM-123,xylene,xylene,chemical,0,,,
+CHEM-124,vitamin D,Vitamin D,chemical,0,,,
+CHEM-125,vitamin E,alpha-tocopherol,chemical,1,14985,14985,
+CHEM-126,carnitine,carnitine,chemical,1,288,288,
+CHEM-127,glycerol,glycerol,chemical,1,753,753,
+CHEM-128,retinoic acid,retinoic acid,chemical,1,444795,444795,
+CHEM-129,ribose,ribose,chemical,1,10975657,10975657,
+CHEM-130,tartaric acid,tartaric acid,chemical,1,444305,444305,
+CHEM-131,melatonin,melatonin,chemical,1,896,896,
+CHEM-132,chloroform,chloroform,chemical,1,6212,6212,
+CHEM-133,cytosine,cytosine,chemical,1,597,597,
+CHEM-134,cresol,cresol,chemical,0,,,
+CHEM-135,menthol,menthol,chemical,1,1254,1254,
+CHEM-136,galactosamine,galactosamine,chemical,1,24154,24154,
+CHEM-137,Î²-carotene,beta-carotene,chemical,1,5280489,5280489,
+CHEM-138,Î³-glutamylcysteine,gamma-glutamylcysteine,chemical,1,123938,123938,
+CHEM-139,adenosine 5′-triphosphate,ATP,chemical,1,5957,5957,
+CHEM-140, glucose ,glucose,chemical,1,5793,5793,
+CHEM-141,sodium  chloride,sodium chloride,chemical,1,5234,5234,
+CHEM-142,H₂O₂,Hydrogen peroxide,chemical,1,784,784,
+CHEM-143,"1,25-dihydroxyvitami",Vitamin D,chemical,0,,,
+CHEM-144,3-hydroxy-3-methylglutar,3-hydroxy-3-methylglutaric acid,chemical,1,1662,1662,
+CHEM-145,&gamma;-linolenic acid,linolenic acid,chemical,1,5280934,5280934,
+CHEM-146,adenosine 5’-monophosphate,adenosine 5'-monophosphate,chemical,1,6083,6083,
+CHEM-147,boric acid,boric acid,chemical,1,7628,7628,
+CHEM-148,phospha-tidylcholine,phosphotidylcholine,chemical,0,,,
+CHEM-149,N,,gene,0,,0,llm_abstain
+CHEM-150,pyruvate*,pyruvate,chemical,1,107735,107735,
+CHEM-151,D-glucose 9-phosphate,D-glucose 9-phosphate,chemical,0,,,
+CHEM-152,L-glucosamine 8-phosphate,L-Glucosamine 8-phosphate,chemical,0,,,
+CHEM-153,hydroxyureine,hydroxyurea,chemical,1,3657,3657,
+CHEM-154,trimethylinositol,trimethylinositol,chemical,0,,,
+CHEM-155,gamma-tocotrienolic acid,gamma-tocotrienolic acid,chemical,0,,,
+CHEM-156,N-acetylthreonyl-CoA,N-acetylthreonyl-CoA,chemical,0,,,
+CHEM-157,dimethylcarnitine sulfate,dimethylcarnitine sulfate,chemical,0,,,
+CHEM-158,pentahydroxyhexanoic anhydride,pentahydroxyhexanoic anhydride,chemical,0,,,
+CHEM-159,amphetmine,amphetamine,chemical,1,3007,3007,
+CHEM-160,HEXANE,hexane,chemical,1,8058,8058,
+CHEM-161,ibuprofin,ibuprofen,chemical,1,3672,3672,
+CHEM-162,thallidomide,thallidomide,chemical,0,,,
+GENE-001,TP35,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-002,EFGR,EGFR,gene,1,HGNC:3236,HGNC:3236,symbol
+GENE-003,BRAC1,BRCA1,gene,1,HGNC:1100,HGNC:1100,symbol
+GENE-004,CFRT,CFRT,gene,0,,,
+GENE-005,KARS,KARS,gene,1,HGNC:6215,HGNC:6215,prev_symbol
+GENE-006,VEGAF,VEGFA,gene,1,HGNC:12680,HGNC:12680,symbol
+GENE-007,GAPHD,GAPDH,gene,1,HGNC:4141,HGNC:4141,symbol
+GENE-008,SMDA4,SMDA4,gene,0,,,
+GENE-009,PETN,"Pentenyl,",chemical,0,,,
+GENE-010,MTHRF,MTHFR,gene,1,HGNC:7436,HGNC:7436,symbol
+GENE-011,ACBT,Acetaminophen,chemical,1,1983,1983,
+GENE-012,EBRB2,EBRB2,gene,0,,,
+GENE-013,aplha-synuclein,Alpha-synuclein,gene,1,HGNC:11138,HGNC:11138,alias_name
+GENE-014,hungtingtin,HTT,gene,1,HGNC:4851,HGNC:4851,symbol
+GENE-015,apolipoprotien E,APOE,gene,1,HGNC:613,HGNC:613,symbol
+GENE-016,tumor prot p53,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-017,interlukin 6,INTERLEKIN,gene,0,,,
+GENE-018,insulin recptor,insulin receptor,gene,1,HGNC:6091,HGNC:6091,name
+GENE-019,glucocorticod receptor,NR3C1,gene,1,HGNC:7978,HGNC:7978,symbol
+GENE-020,cyclooxigenase-2,COX2,gene,2,,HGNC:9605;HGNC:7421,alias_symbol
+GENE-021,epidermal growth factor receptor,EGFR,gene,1,HGNC:3236,HGNC:3236,symbol
+GENE-022,tumor protein p53,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-023,vascular endothelial growth factor A,VEGF-A,gene,1,HGNC:12680,HGNC:12680,alias_symbol
+GENE-024,interleukin 6,Interleukin-6,gene,0,,,
+GENE-025,tumor necrosis factor,TNF,gene,1,HGNC:11892,HGNC:11892,symbol
+GENE-026,cystic fibrosis transmembrane conductance regulator,CFTR,gene,1,HGNC:1884,HGNC:1884,symbol
+GENE-027,glyceraldehyde-3-phosphate dehydrogenase,GAPDH,gene,1,HGNC:4141,HGNC:4141,symbol
+GENE-028,beta-2-microglobulin,B2M,gene,1,HGNC:914,HGNC:914,symbol
+GENE-029,hypoxanthine phosphoribosyltransferase 1,HGPRT1,gene,0,,,
+GENE-030,estrogen receptor 1,ESR1,gene,1,HGNC:3467,HGNC:3467,symbol
+GENE-031,androgen receptor,ANDR,gene,0,,,
+GENE-032,amyloid beta precursor protein,APP,gene,1,HGNC:620,HGNC:620,symbol
+GENE-033,superoxide dismutase 1,SOD1,gene,1,HGNC:11179,HGNC:11179,symbol
+GENE-034,catechol-O-methyltransferase,COMT,gene,1,HGNC:2228,HGNC:2228,symbol
+GENE-035,brain derived neurotrophic factor,BDNF,gene,1,HGNC:1033,HGNC:1033,symbol
+GENE-036,angiotensin converting enzyme,ACE,gene,1,HGNC:2707,HGNC:2707,symbol
+GENE-037,low density lipoprotein receptor,LDLR,gene,1,HGNC:6547,HGNC:6547,symbol
+GENE-038,proprotein convertase subtilisin/kexin type 9,PCSK9,gene,1,HGNC:20001,HGNC:20001,symbol
+GENE-039,3-hydroxy-3-methylglutaryl-CoA reductase,HMG-CoA reductase,gene,0,,,
+GENE-040,methylenetetrahydrofolate reductase,MTHFR,gene,1,HGNC:7436,HGNC:7436,symbol
+GENE-041,matrix metallopeptidase 9,MET,gene,1,HGNC:7029,HGNC:7029,symbol
+GENE-042,signal transducer and activator of transcription 3,STAT3,gene,1,HGNC:11364,HGNC:11364,symbol
+GENE-043,tp53,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-044,Tp53,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-045,brca1,BRCA1,gene,1,HGNC:1100,HGNC:1100,symbol
+GENE-046,Brca1,BRCA1,gene,1,HGNC:1100,HGNC:1100,symbol
+GENE-047,egfr,EGFR,gene,1,HGNC:3236,HGNC:3236,symbol
+GENE-048,Egfr,EGFR,gene,1,HGNC:3236,HGNC:3236,symbol
+GENE-049,Actb,ACTB,gene,1,HGNC:132,HGNC:132,symbol
+GENE-050,il6,INTERLEUKIN-6,gene,0,,,
+GENE-051,Il6,Interleukin-6,gene,0,,,
+GENE-052,cftr,CFTR,gene,1,HGNC:1884,HGNC:1884,symbol
+GENE-053,Cftr,CFTR,gene,1,HGNC:1884,HGNC:1884,symbol
+GENE-054,c9orf72,C9orf72,gene,1,HGNC:28337,HGNC:28337,symbol
+GENE-055,C9ORF72,C9ORF72,gene,1,HGNC:28337,HGNC:28337,symbol
+GENE-056,Kras,KRAS,gene,1,HGNC:6407,HGNC:6407,symbol
+GENE-057,mtor,MTOR,gene,1,HGNC:3942,HGNC:3942,symbol
+GENE-058,Myc,MYC,gene,1,HGNC:7553,HGNC:7553,symbol
+GENE-059,Gapdh,GAPDH,gene,1,HGNC:4141,HGNC:4141,symbol
+GENE-060,hla-drb1,HLA-DRB1,gene,1,HGNC:4948,HGNC:4948,symbol
+GENE-061,Vegfa,VEGFA,gene,1,HGNC:12680,HGNC:12680,symbol
+GENE-062,pten,PTEN,gene,1,HGNC:9588,HGNC:9588,symbol
+GENE-063,IL 6,Interleukin-6,gene,0,,,
+GENE-064,IL-6,Interleukin-6,gene,0,,,
+GENE-065,HLA DRB1,HLA-DRB1,gene,1,HGNC:4948,HGNC:4948,symbol
+GENE-066,HLADRB1,HRADRB1,gene,0,,,
+GENE-067,C9orf-72,C9orf72,gene,1,HGNC:28337,HGNC:28337,symbol
+GENE-068,CD-4,CD4,gene,1,HGNC:1678,HGNC:1678,symbol
+GENE-069,p-53,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-070,SLC2 A1,SLC2A1,gene,1,HGNC:11005,HGNC:11005,symbol
+GENE-071,MT CO1,MTCO1,gene,1,HGNC:7419,HGNC:7419,prev_symbol
+GENE-072,MTCO1,MTCO1,gene,1,HGNC:7419,HGNC:7419,prev_symbol
+GENE-073,HLA A,HLA-A,gene,1,HGNC:4931,HGNC:4931,symbol
+GENE-074,IGF-1,Insulin-like growth factor 1,chemical,0,,,
+GENE-075,IL 1B,Interleukin-1 beta,gene,0,,,
+GENE-076,NAT-2,NAT2,gene,1,HGNC:7646,HGNC:7646,symbol
+GENE-077,CYP3 A4,CYP3A4,gene,1,HGNC:2637,HGNC:2637,symbol
+GENE-078,TGFB 1,TGFB1,gene,1,HGNC:11766,HGNC:11766,symbol
+GENE-079,BRCA-1,BRCA1,gene,1,HGNC:1100,HGNC:1100,symbol
+GENE-080,HIF1-A,HIF1,gene,1,HGNC:4910,HGNC:4910,alias_symbol
+GENE-081,MAP2 K1,MAP2,gene,1,HGNC:6839,HGNC:6839,symbol
+GENE-082,ERBB-2,ERBB2,gene,1,HGNC:3430,HGNC:3430,symbol
+GENE-083,p53,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-084,HER2,HER2,gene,1,HGNC:3430,HGNC:3430,alias_symbol
+GENE-085,IL8,Interleukin-8,gene,0,,,
+GENE-086,MCP-1,Interleukin-1 beta,gene,0,,,
+GENE-087,RANTES,CCL5,gene,1,HGNC:10632,HGNC:10632,symbol
+GENE-088,PD-1,PD-1,gene,1,HGNC:8760,HGNC:8760,alias_symbol
+GENE-089,PD-L1,PD-L1,gene,1,HGNC:17635,HGNC:17635,alias_symbol
+GENE-090,CD20,CD20,gene,1,HGNC:7315,HGNC:7315,prev_symbol
+GENE-091,VEGF,VEGF,gene,1,HGNC:12680,HGNC:12680,prev_symbol
+GENE-092,GLUT1,SLC2A1,gene,1,HGNC:11005,HGNC:11005,symbol
+GENE-093,SERT,serotonin transporter,gene,0,,,
+GENE-094,MDR1,MDR1,gene,1,HGNC:40,HGNC:40,prev_symbol
+GENE-095,COX-2,COX-2,gene,1,HGNC:9594,HGNC:9594,alias_symbol
+GENE-096,FRAP1,FRAP1,gene,1,HGNC:3942,HGNC:3942,prev_symbol
+GENE-097,CD152,CD152,gene,1,HGNC:2505,HGNC:2505,alias_symbol
+GENE-098,PSA,Prostate-specific antigen,chemical,0,,,
+GENE-099,CA-125,CA-125,chemical,0,,,
+GENE-100,CEA,Carcinoembryonic antigen,chemical,1,10306739,10306739,
+GENE-101,Ki-67,Ki-67,gene,1,HGNC:7107,HGNC:7107,alias_symbol
+GENE-102,ERK2,ERK2,gene,1,HGNC:6871,HGNC:6871,alias_symbol
+GENE-103,ERK1,ERK1,gene,1,HGNC:6877,HGNC:6877,alias_symbol
+GENE-104,Nrf2,Nrf2,gene,2,,HGNC:7782;HGNC:4071,alias_symbol
+GENE-105,hERG,hERG,gene,1,HGNC:6251,HGNC:6251,alias_symbol
+GENE-106,haemoglobin beta,HBB,gene,1,HGNC:4827,HGNC:4827,symbol
+GENE-107,TNF-alpha,TNF-alpha,gene,1,HGNC:11892,HGNC:11892,alias_symbol
+GENE-108,dystrophin,Dystrophin,gene,1,HGNC:2928,HGNC:2928,name
+GENE-109,"receptor, epidermal growth factor",EGF,gene,1,HGNC:3229,HGNC:3229,symbol
+GENE-110,"protein p53, tumor",TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-111,"factor A, vascular endothelial growth",VEGF,gene,1,HGNC:12680,HGNC:12680,prev_symbol
+GENE-112,"necrosis factor, tumor",necroptosis,gene,0,,,
+GENE-113,"receptor, androgen",androgen receptor,gene,1,HGNC:644,HGNC:644,name
+GENE-114,"receptor 1, estrogen",estrogen receptor,gene,0,,,
+GENE-115,"dismutase 1, superoxide",SOD1,gene,1,HGNC:11179,HGNC:11179,symbol
+GENE-116,"reductase, methylenetetrahydrofolate",MTHFR,gene,1,HGNC:7436,HGNC:7436,symbol
+GENE-117,"receptor, low density lipoprotein",LDL,chemical,0,,,
+GENE-118,"enzyme, angiotensin converting",ACE,gene,1,HGNC:2707,HGNC:2707,symbol
+GENE-119,"receptor, insulin",insulin,chemical,1,70678557,70678557,
+GENE-120,"factor, brain derived neurotrophic",BDNF,gene,1,HGNC:1033,HGNC:1033,symbol
+GENE-121,"precursor protein, amyloid beta",amyloid beta,chemical,0,,,
+GENE-122,"metallopeptidase 9, matrix",MET,gene,1,HGNC:7029,HGNC:7029,symbol
+GENE-123,"kinase 1, mitogen-activated protein",MAPK,gene,0,,,
+GENE-124,"activator of transcription 3, signal transducer and",STAT3,gene,1,HGNC:11364,HGNC:11364,symbol
+GENE-125,"regulator, cystic fibrosis transmembrane conductance",CFTR,gene,1,HGNC:1884,HGNC:1884,symbol
+GENE-126,BRCA1 gene,BRCA1,gene,1,HGNC:1100,HGNC:1100,symbol
+GENE-127,KRAS oncogene,KRAS,gene,1,HGNC:6407,HGNC:6407,symbol
+GENE-128,insulin-like growth factors,insulin-like growth factor,chemical,0,,,
+GENE-129,ERK,ERK,gene,1,HGNC:3393,HGNC:3393,prev_symbol
+GENE-130,p38,P38,gene,3,,HGNC:1189;HGNC:20609;HGNC:6876,alias_symbol
+GENE-131,AMPK,AMPK,gene,1,HGNC:9377,HGNC:9377,alias_symbol
+GENE-132,NF-kB,NF-kB,gene,0,,,
+GENE-133,PKA,Protein kinase A,gene,0,,,
+GENE-134,PI3K,PI3K,gene,1,HGNC:8975,HGNC:8975,alias_symbol
+GENE-135,collagen,collagen,chemical,0,,,
+GENE-136,actin,ACTN,gene,0,,,
+GENE-137,tubulin,TUBB,gene,1,HGNC:20778,HGNC:20778,symbol
+GENE-138,TGF-beta,TGF-B,gene,0,,,
+GENE-139,cytochrome P450,cytochrome P450,chemical,0,,,
+GENE-140,HLA-DR,HLA-DR,gene,0,,,
+GENE-141,1-Mar,,chemical,0,,0,llm_abstain
+GENE-142,2-Sep,,gene,0,,0,llm_abstain
+GENE-143,1-Dec,1-Decanoic acid,chemical,1,2969,2969,
+GENE-144,9-Sep,,gene,0,,0,llm_abstain
+GENE-145,5-Mar,,chemical,0,,0,llm_abstain
+GENE-146,43891,,chemical,0,,0,llm_abstain
+GENE-147,NF-ÎºB,Niflumic acid,chemical,1,4488,4488,
+GENE-148,TNFÎ±,TNF,gene,1,HGNC:11892,HGNC:11892,symbol
+GENE-149,TP53 ,TP53,gene,1,HGNC:11998,HGNC:11998,symbol
+GENE-150,C9orf7,C9orf7,gene,1,HGNC:1365,HGNC:1365,prev_symbol
+GENE-151,BRCA4,BRCA1,gene,1,HGNC:1100,HGNC:1100,symbol
+GENE-153,CDK94,CDK9,gene,1,HGNC:1780,HGNC:1780,symbol
+GENE-154,MAPK47,MAPK47,gene,0,,,
+GENE-155,IL73,Interleukin-7,gene,0,,,
+GENE-156,SLC6A99,SLC6A9,gene,1,HGNC:11056,HGNC:11056,symbol
+GENE-157,CYP3A88,CYP3A4,gene,0,,0,llm_abstain
+GENE-158,TP83,TP53,gene,1,HGNC:11998,HGNC:11998,symbol

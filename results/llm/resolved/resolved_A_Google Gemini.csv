@@ -1,0 +1,320 @@
+id,input,pred_name,pred_entity_type,identifier,id_format,exists,entry_status,name_in_entry
+CHEM-001,glucosse,glucose,chemical,5793,valid,True,,True
+CHEM-002,ureaa,urea,chemical,1176,valid,True,,True
+CHEM-003,hydroxyureaa,hydroxyurea,chemical,3657,valid,True,,True
+CHEM-004,cytossine,cytosine,chemical,225,valid,True,,False
+CHEM-005,sperrmine,spermine,chemical,1103,valid,True,,True
+CHEM-006,melattonin,melatonin,chemical,896,valid,True,,True
+CHEM-007,mannnitol,mannitol,chemical,6251,valid,True,,True
+CHEM-008,xanhtine,xanthine,chemical,1188,valid,True,,True
+CHEM-009,cystiene,cysteine,chemical,5862,valid,True,,True
+CHEM-010,aspratic acid,aspartic acid,chemical,5960,valid,True,,True
+CHEM-011,butryic acid,butyric acid,chemical,1049,valid,True,,False
+CHEM-012,glutathoine,glutathione,chemical,124886,valid,True,,True
+CHEM-013,chlorofrom,chloroform,chemical,6212,valid,True,,True
+CHEM-014,tetrahydrobiooterin,tetrahydrobiopterin,chemical,442574,valid,False,,False
+CHEM-015,methiunine,methionine,chemical,6137,valid,True,,True
+CHEM-016,deoxyrybose,deoxyribose,chemical,439576,valid,True,,False
+CHEM-017,riboflvin,riboflavin,chemical,493570,valid,True,,True
+CHEM-018,phenyalalanine,phenylalanine,chemical,6140,valid,True,,True
+CHEM-019,hypoxnthine,hypoxanthine,chemical,790,valid,False,,False
+CHEM-020,pyrdoxine,pyridoxine,chemical,1054,valid,True,,True
+CHEM-021,cholestrol,cholesterol,chemical,5997,valid,True,,True
+CHEM-022,asetic acid,acetic acid,chemical,176,valid,True,,True
+CHEM-023,ATP,adenosine 5'-triphosphate,chemical,5957,valid,True,,True
+CHEM-024,ADP,adenosine 5'-diphosphate,chemical,6022,valid,True,,True
+CHEM-025,NADPH,NADPH,chemical,5884,valid,True,,True
+CHEM-026,FAD,flavin adenine dinucleotide,chemical,643975,valid,True,,True
+CHEM-027,GABA,gamma-aminobutyric acid,chemical,119,valid,True,,True
+CHEM-028,DHA,docosahexaenoic acid,chemical,231,valid,True,,False
+CHEM-029,EPA,eicosapentaenoic acid,chemical,8918,valid,True,,False
+CHEM-030,PEP,phosphoenolpyruvate,chemical,1005,valid,True,,True
+CHEM-031,G6P,Glucose 6-phosphate,chemical,3558,valid,True,,False
+CHEM-032,Acetyl-CoA,acetyl-CoA,chemical,444493,valid,True,,True
+CHEM-033,DMSO,Dimethyl sulfoxide,chemical,679,valid,True,,True
+CHEM-034,EDTA,Edetic Acid,chemical,6049,valid,True,,True
+CHEM-035,SDS,sodium dodecyl sulfate,chemical,3423265,valid,True,,True
+CHEM-036,DTT,dithiothreitol,chemical,446094,valid,True,,False
+CHEM-037,PMSF,phenylmethylsulfonyl fluoride,chemical,4784,valid,True,,True
+CHEM-038,HEPES,HEPES,chemical,23831,valid,True,,True
+CHEM-039,Tris,Tris,chemical,9354,valid,True,,False
+CHEM-040,PBS,Phosphate Buffered Saline,chemical,24847818,valid,False,,False
+CHEM-041,TCA,citric acid,chemical,311,valid,True,,True
+CHEM-042,5-HT,serotonin,chemical,5202,valid,True,,True
+CHEM-043,NAC,acetylcysteine,chemical,934,valid,True,,False
+CHEM-044,cAMP,"3',5'-cyclic AMP",chemical,6076,valid,True,,True
+CHEM-045,FRUCTOSE,D-fructose,chemical,5984,valid,True,,False
+CHEM-046,Adenosine Triphosphate,Adenosine Triphosphate,chemical,5957,valid,True,,True
+CHEM-047,dmso,dimethyl sulfoxide,chemical,679,valid,True,,True
+CHEM-048,CAMP,CAMP,gene,HGNC:1472,valid,True,Approved,True
+CHEM-049,nadh,NADH,chemical,439153,valid,True,,True
+CHEM-050,l-dopa,Levodopa,chemical,6047,valid,True,,True
+CHEM-051,d-glucose,D-glucose,chemical,5793,valid,True,,True
+CHEM-052,VITAMIN C,ascorbic acid,chemical,54670067,valid,True,,True
+CHEM-053,Sodium Chloride,Sodium Chloride,chemical,5234,valid,True,,True
+CHEM-054,hcl,hydrochloric acid,chemical,313,valid,True,,True
+CHEM-055,NAOH,sodium hydroxide,chemical,14798,valid,True,,True
+CHEM-056,co2,carbon dioxide,chemical,280,valid,True,,True
+CHEM-057,mgso4,magnesium sulfate,chemical,24083,valid,True,,True
+CHEM-058,ETHANOL,ethanol,chemical,702,valid,True,,True
+CHEM-059,h2o2,hydrogen peroxide,chemical,784,valid,True,,True
+CHEM-060,Alpha-ketoglutarate,2-oxoglutaric acid,chemical,51,valid,True,,True
+CHEM-061,fructose 6 phosphate,fructose 6-phosphate,chemical,444321,valid,False,,False
+CHEM-062,N acetylcysteine,acetylcysteine,chemical,12035,valid,True,,True
+CHEM-063,beta carotene,beta-carotene,chemical,5280489,valid,True,,True
+CHEM-064,β-carotene,beta-carotene,chemical,5280489,valid,True,,True
+CHEM-065,2oxoglutaricacid,2-oxoglutaric acid,chemical,51,valid,True,,True
+CHEM-066,5 hydroxytryptamine,serotonin,chemical,5202,valid,True,,True
+CHEM-067,adenosine-triphosphate,adenosine triphosphate,chemical,5957,valid,True,,True
+CHEM-068,glucose6phosphate,glucose 6-phosphate,chemical,5958,valid,True,,True
+CHEM-069,"N,N dimethylformamide","N,N-dimethylformamide",chemical,6228,valid,True,,True
+CHEM-070,"1,25 dihydroxyvitamin D3",Calcitriol,chemical,5280453,valid,True,,True
+CHEM-071,sodium-chloride,sodium chloride,chemical,5234,valid,True,,True
+CHEM-072,acetyl CoA,acetyl-CoA,chemical,444493,valid,True,,True
+CHEM-073,vitamin-C,ascorbic acid,chemical,54670067,valid,True,,True
+CHEM-074,2-oxoglutarate,2-oxoglutaric acid,chemical,51,valid,True,,True
+CHEM-075,deoxy-ribose,2-deoxy-D-ribose,chemical,439576,valid,True,,False
+CHEM-076,L glutamine,L-glutamine,chemical,5961,valid,True,,True
+CHEM-077,tri methylamine,trimethylamine,chemical,1146,valid,True,,True
+CHEM-078,p aminobenzoic acid,4-aminobenzoic acid,chemical,978,valid,True,,True
+CHEM-079,3'5' cyclic AMP,"3',5'-cyclic AMP",chemical,6076,valid,True,,True
+CHEM-080,γ-aminobutyric acid,gamma-aminobutyric acid,chemical,119,valid,True,,True
+CHEM-081,vitamin C,ascorbic acid,chemical,54670067,valid,True,,True
+CHEM-082,vitamin B1,thiamine,chemical,1130,valid,True,,True
+CHEM-083,vitamin B2,riboflavin,chemical,5280453,valid,True,,False
+CHEM-084,vitamin B3,niacin,chemical,938,valid,True,,True
+CHEM-085,vitamin B6,Pyridoxine,chemical,1054,valid,True,,True
+CHEM-086,vitamin H,biotin,chemical,238,valid,True,,False
+CHEM-087,vitamin B12,cyanocobalamin,chemical,5280763,valid,False,,False
+CHEM-088,paracetamol,acetaminophen,chemical,1983,valid,True,,True
+CHEM-089,adrenaline,epinephrine,chemical,5816,valid,True,,True
+CHEM-090,noradrenaline,norepinephrine,chemical,439260,valid,True,,True
+CHEM-091,dextrose,D-glucose,chemical,5793,valid,True,,True
+CHEM-092,table salt,Sodium chloride,chemical,5234,valid,True,,True
+CHEM-093,baking soda,sodium bicarbonate,chemical,516892,valid,True,,True
+CHEM-094,caustic soda,Sodium hydroxide,chemical,14798,valid,True,,True
+CHEM-095,muriatic acid,hydrochloric acid,chemical,313,valid,True,,True
+CHEM-096,wood alcohol,methanol,chemical,887,valid,True,,True
+CHEM-097,carbolic acid,phenol,chemical,996,valid,True,,True
+CHEM-098,oil of vitriol,sulfuric acid,chemical,1118,valid,True,,True
+CHEM-099,Epsom salt,magnesium sulfate,chemical,24083,valid,True,,True
+CHEM-100,milk sugar,lactose,chemical,4413571,valid,True,,False
+CHEM-101,glycerin,glycerol,chemical,753,valid,True,,True
+CHEM-102,aspirin,aspirin,chemical,2244,valid,True,,True
+CHEM-103,laughing gas,nitrous oxide,chemical,948,valid,True,,True
+CHEM-104,quicksilver,Mercury,chemical,23925,valid,True,,False
+CHEM-105,formalin,formaldehyde,chemical,712,valid,True,,True
+CHEM-106,ethyl alcohol,ethanol,chemical,702,valid,True,,True
+CHEM-107,"acid, ascorbic",ascorbic acid,chemical,54670067,valid,True,,True
+CHEM-108,"acid, folic",folic acid,chemical,135398735,valid,True,,False
+CHEM-109,"acid, acetic",acetic acid,chemical,176,valid,True,,True
+CHEM-110,"chloride, sodium",sodium chloride,chemical,5234,valid,True,,True
+CHEM-111,"acid, hydrochloric",hydrochloric acid,chemical,313,valid,True,,True
+CHEM-112,"acid, L-glutamic",L-glutamic acid,chemical,611,valid,True,,False
+CHEM-113,"5'-triphosphate, adenosine",adenosine 5'-triphosphate,chemical,5957,valid,True,,True
+CHEM-114,"acid, palmitic",palmitic acid,chemical,985,valid,True,,True
+CHEM-115,"peroxide, hydrogen",hydrogen peroxide,chemical,784,valid,True,,True
+CHEM-116,"acid, citric",citric acid,chemical,311,valid,True,,True
+CHEM-117,glucose,D-glucose,chemical,5793,valid,True,,True
+CHEM-118,lactate,lactic acid,chemical,1054,valid,True,,False
+CHEM-119,adenosine monophosphate,adenosine monophosphate,chemical,6083,valid,True,,True
+CHEM-120,NAD,NAD,chemical,5892,valid,True,,True
+CHEM-121,cholesterol,cholesterol,chemical,5997,valid,True,,True
+CHEM-122,inositol,myo-inositol,chemical,892,valid,True,,True
+CHEM-123,xylene,xylene,chemical,7237,valid,True,,False
+CHEM-124,vitamin D,cholecalciferol,chemical,5280795,valid,True,,True
+CHEM-125,vitamin E,alpha-tocopherol,chemical,14985,valid,True,,True
+CHEM-126,carnitine,carnitine,chemical,10917,valid,True,,False
+CHEM-127,glycerol,glycerol,chemical,753,valid,True,,True
+CHEM-128,retinoic acid,tretinoin,chemical,444795,valid,True,,True
+CHEM-129,ribose,D-ribose,chemical,5779,valid,True,,False
+CHEM-130,tartaric acid,tartaric acid,chemical,444305,valid,True,,True
+CHEM-131,melatonin,melatonin,chemical,896,valid,True,,True
+CHEM-132,chloroform,chloroform,chemical,6212,valid,True,,True
+CHEM-133,cytosine,cytosine,chemical,597,valid,True,,True
+CHEM-134,cresol,cresol,chemical,1078,valid,True,,False
+CHEM-135,menthol,menthol,chemical,16666,valid,True,,False
+CHEM-136,galactosamine,D-galactosamine,chemical,439210,valid,True,,False
+CHEM-137,Î²-carotene,beta-carotene,chemical,5280489,valid,True,,True
+CHEM-138,Î³-glutamylcysteine,gamma-glutamylcysteine,chemical,1020,valid,False,,False
+CHEM-139,adenosine 5′-triphosphate,adenosine triphosphate,chemical,5957,valid,True,,True
+CHEM-140, glucose ,glucose,chemical,5793,valid,True,,True
+CHEM-141,sodium  chloride,Sodium chloride,chemical,5234,valid,True,,True
+CHEM-142,H₂O₂,hydrogen peroxide,chemical,784,valid,True,,True
+CHEM-143,"1,25-dihydroxyvitami",calcitriol,chemical,5284359,valid,True,,False
+CHEM-144,3-hydroxy-3-methylglutar,3-hydroxy-3-methylglutaric acid,chemical,1607,valid,True,,False
+CHEM-145,&gamma;-linolenic acid,gamma-linolenic acid,chemical,5280933,valid,True,,True
+CHEM-146,adenosine 5’-monophosphate,adenosine monophosphate,chemical,6083,valid,True,,True
+CHEM-147,boric acid,boric acid,chemical,887,valid,True,,False
+CHEM-148,phospha-tidylcholine,phosphatidylcholine,chemical,45266822,valid,True,,False
+CHEM-149,N,nitrogen,chemical,947,valid,True,,True
+CHEM-150,pyruvate*,pyruvic acid,chemical,1060,valid,True,,True
+CHEM-151,D-glucose 9-phosphate,D-glucose 6-phosphate,chemical,1183,valid,True,,False
+CHEM-152,L-glucosamine 8-phosphate,L-glucosamine 6-phosphate,chemical,439527,valid,True,,False
+CHEM-153,hydroxyureine,hydroxyurea,chemical,3657,valid,True,,True
+CHEM-154,trimethylinositol,trimethylinositol,chemical,23376036,valid,False,,False
+CHEM-155,gamma-tocotrienolic acid,gamma-tocotrienolic acid,chemical,102228806,valid,True,,False
+CHEM-156,N-acetylthreonyl-CoA,N-acetylthreonyl-CoA,chemical,24847970,valid,False,,False
+CHEM-157,dimethylcarnitine sulfate,dimethylcarnitine sulfate,chemical,138388481,valid,True,,False
+CHEM-158,pentahydroxyhexanoic anhydride,Gluconic anhydride,chemical,102008275,valid,False,,False
+CHEM-159,amphetmine,amphetamine,chemical,3007,valid,True,,True
+CHEM-160,HEXANE,hexane,chemical,8058,valid,True,,True
+CHEM-161,ibuprofin,ibuprofen,chemical,3672,valid,True,,True
+CHEM-162,thallidomide,Thalidomide,chemical,5426,valid,True,,True
+GENE-001,TP35,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-002,EFGR,EGFR,gene,HGNC:3236,valid,True,Approved,True
+GENE-003,BRAC1,BRCA1,gene,HGNC:1100,valid,True,Approved,True
+GENE-004,CFRT,CFTR,gene,HGNC:1884,valid,True,Approved,True
+GENE-005,KARS,KARS1,gene,HGNC:6259,valid,True,Approved,False
+GENE-006,VEGAF,VEGFA,gene,HGNC:12680,valid,True,Approved,True
+GENE-007,GAPHD,GAPDH,gene,HGNC:4141,valid,True,Approved,True
+GENE-008,SMDA4,SMAD4,gene,HGNC:6770,valid,True,Approved,True
+GENE-009,PETN,pentaerythritol tetranitrate,chemical,6418,valid,True,,False
+GENE-010,MTHRF,MTHFR,gene,HGNC:7436,valid,True,Approved,True
+GENE-011,ACBT,ACBT,chemical,10012224,valid,True,,False
+GENE-012,EBRB2,ERBB2,gene,HGNC:3430,valid,True,Approved,True
+GENE-013,aplha-synuclein,SNCA,gene,HGNC:11138,valid,True,Approved,True
+GENE-014,hungtingtin,HTT,gene,HGNC:4851,valid,True,Approved,True
+GENE-015,apolipoprotien E,APOE,gene,HGNC:613,valid,True,Approved,True
+GENE-016,tumor prot p53,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-017,interlukin 6,IL6,gene,HGNC:6018,valid,True,Approved,True
+GENE-018,insulin recptor,INSR,gene,HGNC:6091,valid,True,Approved,True
+GENE-019,glucocorticod receptor,NR3C1,gene,HGNC:7978,valid,True,Approved,True
+GENE-020,cyclooxigenase-2,PTGS2,gene,HGNC:9605,valid,True,Approved,True
+GENE-021,epidermal growth factor receptor,EGFR,gene,HGNC:3236,valid,True,Approved,True
+GENE-022,tumor protein p53,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-023,vascular endothelial growth factor A,VEGFA,gene,HGNC:12680,valid,True,Approved,True
+GENE-024,interleukin 6,IL6,gene,HGNC:6018,valid,True,Approved,True
+GENE-025,tumor necrosis factor,TNF,gene,HGNC:11892,valid,True,Approved,True
+GENE-026,cystic fibrosis transmembrane conductance regulator,CFTR,gene,HGNC:1884,valid,True,Approved,True
+GENE-027,glyceraldehyde-3-phosphate dehydrogenase,GAPDH,gene,HGNC:4141,valid,True,Approved,True
+GENE-028,beta-2-microglobulin,B2M,gene,HGNC:914,valid,True,Approved,True
+GENE-029,hypoxanthine phosphoribosyltransferase 1,HPRT1,gene,HGNC:5157,valid,True,Approved,True
+GENE-030,estrogen receptor 1,ESR1,gene,HGNC:3467,valid,True,Approved,True
+GENE-031,androgen receptor,AR,gene,HGNC:644,valid,True,Approved,True
+GENE-032,amyloid beta precursor protein,APP,gene,HGNC:620,valid,True,Approved,True
+GENE-033,superoxide dismutase 1,SOD1,gene,HGNC:11179,valid,True,Approved,True
+GENE-034,catechol-O-methyltransferase,COMT,gene,HGNC:2228,valid,True,Approved,True
+GENE-035,brain derived neurotrophic factor,BDNF,gene,HGNC:1033,valid,True,Approved,True
+GENE-036,angiotensin converting enzyme,ACE,gene,HGNC:2707,valid,True,Approved,True
+GENE-037,low density lipoprotein receptor,LDLR,gene,HGNC:6547,valid,True,Approved,True
+GENE-038,proprotein convertase subtilisin/kexin type 9,PCSK9,gene,HGNC:20001,valid,True,Approved,True
+GENE-039,3-hydroxy-3-methylglutaryl-CoA reductase,HMGCR,gene,HGNC:5006,valid,True,Approved,True
+GENE-040,methylenetetrahydrofolate reductase,MTHFR,gene,HGNC:7436,valid,True,Approved,True
+GENE-041,matrix metallopeptidase 9,MMP9,gene,HGNC:7148,valid,False,,False
+GENE-042,signal transducer and activator of transcription 3,STAT3,gene,HGNC:11364,valid,True,Approved,True
+GENE-043,tp53,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-044,Tp53,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-045,brca1,BRCA1,gene,HGNC:1100,valid,True,Approved,True
+GENE-046,Brca1,BRCA1,gene,HGNC:1100,valid,True,Approved,True
+GENE-047,egfr,EGFR,gene,HGNC:3236,valid,True,Approved,True
+GENE-048,Egfr,EGFR,gene,HGNC:3236,valid,True,Approved,True
+GENE-049,Actb,ACTB,gene,HGNC:153,valid,True,Approved,False
+GENE-050,il6,IL6,gene,HGNC:6018,valid,True,Approved,True
+GENE-051,Il6,IL6,gene,HGNC:6018,valid,True,Approved,True
+GENE-052,cftr,CFTR,gene,HGNC:1884,valid,True,Approved,True
+GENE-053,Cftr,CFTR,gene,HGNC:1884,valid,True,Approved,True
+GENE-054,c9orf72,C9orf72,gene,HGNC:28921,valid,False,,False
+GENE-055,C9ORF72,C9orf72,gene,HGNC:28956,valid,True,Approved,False
+GENE-056,Kras,KRAS,gene,HGNC:6407,valid,True,Approved,True
+GENE-057,mtor,MTOR,gene,HGNC:3942,valid,True,Approved,True
+GENE-058,Myc,MYC,gene,HGNC:7553,valid,True,Approved,True
+GENE-059,Gapdh,GAPDH,gene,HGNC:4141,valid,True,Approved,True
+GENE-060,hla-drb1,HLA-DRB1,gene,HGNC:4948,valid,True,Approved,True
+GENE-061,Vegfa,VEGFA,gene,HGNC:12680,valid,True,Approved,True
+GENE-062,pten,PTEN,gene,HGNC:9588,valid,True,Approved,True
+GENE-063,IL 6,IL6,gene,HGNC:6018,valid,True,Approved,True
+GENE-064,IL-6,IL6,gene,HGNC:6018,valid,True,Approved,True
+GENE-065,HLA DRB1,HLA-DRB1,gene,HGNC:4948,valid,True,Approved,True
+GENE-066,HLADRB1,HLA-DRB1,gene,HGNC:4948,valid,True,Approved,True
+GENE-067,C9orf-72,C9orf72,gene,HGNC:28777,valid,True,Approved,False
+GENE-068,CD-4,CD4,gene,HGNC:1678,valid,True,Approved,True
+GENE-069,p-53,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-070,SLC2 A1,SLC2A1,gene,HGNC:11005,valid,True,Approved,True
+GENE-071,MT CO1,MT-CO1,gene,HGNC:7419,valid,True,Approved,True
+GENE-072,MTCO1,MT-CO1,gene,HGNC:7419,valid,True,Approved,True
+GENE-073,HLA A,HLA-A,gene,HGNC:4931,valid,True,Approved,True
+GENE-074,IGF-1,IGF1,gene,HGNC:5464,valid,True,Approved,True
+GENE-075,IL 1B,IL1B,gene,HGNC:5992,valid,True,Approved,True
+GENE-076,NAT-2,NAT2,gene,HGNC:7637,valid,True,Approved,False
+GENE-077,CYP3 A4,CYP3A4,gene,HGNC:2622,valid,True,Approved,False
+GENE-078,TGFB 1,TGFB1,gene,HGNC:11766,valid,True,Approved,True
+GENE-079,BRCA-1,BRCA1,gene,HGNC:1100,valid,True,Approved,True
+GENE-080,HIF1-A,HIF1A,gene,HGNC:4999,valid,True,Entry Withdrawn,False
+GENE-081,MAP2 K1,MAP2K1,gene,HGNC:6840,valid,True,Approved,True
+GENE-082,ERBB-2,ERBB2,gene,HGNC:3430,valid,True,Approved,True
+GENE-083,p53,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-084,HER2,ERBB2,gene,HGNC:3430,valid,True,Approved,True
+GENE-085,IL8,CXCL8,gene,HGNC:6025,valid,True,Approved,True
+GENE-086,MCP-1,CCL2,gene,HGNC:10618,valid,True,Approved,True
+GENE-087,RANTES,CCL5,gene,HGNC:10632,valid,True,Approved,True
+GENE-088,PD-1,PDCD1,gene,HGNC:8760,valid,True,Approved,True
+GENE-089,PD-L1,CD274,gene,HGNC:17635,valid,True,Approved,True
+GENE-090,CD20,MS4A1,gene,HGNC:7315,valid,True,Approved,True
+GENE-091,VEGF,VEGFA,gene,HGNC:12680,valid,True,Approved,True
+GENE-092,GLUT1,SLC2A1,gene,HGNC:11005,valid,True,Approved,True
+GENE-093,SERT,SLC6A4,gene,HGNC:11050,valid,True,Approved,True
+GENE-094,MDR1,ABCB1,gene,HGNC:40,valid,True,Approved,True
+GENE-095,COX-2,PTGS2,gene,HGNC:9605,valid,True,Approved,True
+GENE-096,FRAP1,MTOR,gene,HGNC:3942,valid,True,Approved,True
+GENE-097,CD152,CTLA4,gene,HGNC:2501,valid,True,Approved,False
+GENE-098,PSA,KLK3,gene,HGNC:6364,valid,True,Approved,True
+GENE-099,CA-125,MUC16,gene,HGNC:15582,valid,True,Approved,True
+GENE-100,CEA,CEACAM5,gene,HGNC:1815,valid,True,Approved,False
+GENE-101,Ki-67,MKI67,gene,HGNC:7107,valid,True,Approved,True
+GENE-102,ERK2,MAPK1,gene,HGNC:6871,valid,True,Approved,True
+GENE-103,ERK1,MAPK3,gene,HGNC:6877,valid,True,Approved,True
+GENE-104,Nrf2,NFE2L2,gene,HGNC:7782,valid,True,Approved,True
+GENE-105,hERG,KCNH2,gene,HGNC:6251,valid,True,Approved,True
+GENE-106,haemoglobin beta,HBB,gene,HGNC:4827,valid,True,Approved,True
+GENE-107,TNF-alpha,TNF,gene,HGNC:11892,valid,True,Approved,True
+GENE-108,dystrophin,DMD,gene,HGNC:2928,valid,True,Approved,True
+GENE-109,"receptor, epidermal growth factor",EGFR,gene,HGNC:3236,valid,True,Approved,True
+GENE-110,"protein p53, tumor",TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-111,"factor A, vascular endothelial growth",VEGFA,gene,HGNC:12680,valid,True,Approved,True
+GENE-112,"necrosis factor, tumor",TNF,gene,HGNC:11892,valid,True,Approved,True
+GENE-113,"receptor, androgen",AR,gene,HGNC:644,valid,True,Approved,True
+GENE-114,"receptor 1, estrogen",ESR1,gene,HGNC:3467,valid,True,Approved,True
+GENE-115,"dismutase 1, superoxide",SOD1,gene,HGNC:11179,valid,True,Approved,True
+GENE-116,"reductase, methylenetetrahydrofolate",MTHFR,gene,HGNC:7436,valid,True,Approved,True
+GENE-117,"receptor, low density lipoprotein",LDLR,gene,HGNC:6547,valid,True,Approved,True
+GENE-118,"enzyme, angiotensin converting",ACE,gene,HGNC:2707,valid,True,Approved,True
+GENE-119,"receptor, insulin",INSR,gene,HGNC:6091,valid,True,Approved,True
+GENE-120,"factor, brain derived neurotrophic",BDNF,gene,HGNC:1033,valid,True,Approved,True
+GENE-121,"precursor protein, amyloid beta",APP,gene,HGNC:620,valid,True,Approved,True
+GENE-122,"metallopeptidase 9, matrix",MMP9,gene,HGNC:7176,valid,True,Approved,True
+GENE-123,"kinase 1, mitogen-activated protein",MAPK1,gene,HGNC:6871,valid,True,Approved,True
+GENE-124,"activator of transcription 3, signal transducer and",STAT3,gene,HGNC:11364,valid,True,Approved,True
+GENE-125,"regulator, cystic fibrosis transmembrane conductance",CFTR,gene,HGNC:1884,valid,True,Approved,True
+GENE-126,BRCA1 gene,BRCA1,gene,HGNC:1100,valid,True,Approved,True
+GENE-127,KRAS oncogene,KRAS,gene,HGNC:6407,valid,True,Approved,True
+GENE-128,insulin-like growth factors,IGF1,gene,HGNC:5464,valid,True,Approved,True
+GENE-129,ERK,MAPK1,gene,HGNC:6871,valid,True,Approved,True
+GENE-130,p38,MAPK14,gene,HGNC:6876,valid,True,Approved,True
+GENE-131,AMPK,PRKAA1,gene,HGNC:9376,valid,True,Approved,True
+GENE-132,NF-kB,NFKB1,gene,HGNC:7794,valid,True,Approved,True
+GENE-133,PKA,PRKACA,gene,HGNC:9380,valid,True,Approved,True
+GENE-134,PI3K,PIK3CA,gene,HGNC:8975,valid,True,Approved,True
+GENE-135,collagen,collagen,chemical,23330,valid,True,,False
+GENE-136,actin,ACTA1,gene,HGNC:129,valid,True,Approved,True
+GENE-137,tubulin,TUBB,gene,HGNC:12408,valid,True,Approved,False
+GENE-138,TGF-beta,TGFB1,gene,HGNC:11766,valid,True,Approved,True
+GENE-139,cytochrome P450,cytochrome P450 family,gene,,abstain,,,
+GENE-140,HLA-DR,HLA-DRA,gene,HGNC:4947,valid,True,Approved,True
+GENE-141,1-Mar,MARCHF1,gene,HGNC:26033,valid,True,Approved,False
+GENE-142,2-Sep,SEPTIN2,gene,HGNC:10729,valid,True,Approved,False
+GENE-143,1-Dec,1-decene,chemical,12389,valid,True,,False
+GENE-144,9-Sep,SEPTIN9,gene,HGNC:10016,valid,False,,False
+GENE-145,5-Mar,MARCHF5,gene,HGNC:26081,valid,False,,False
+GENE-146,43891,L-Alanyl-L-proline,chemical,43891,valid,True,,False
+GENE-147,NF-ÎºB,NFKB1,gene,HGNC:7794,valid,True,Approved,True
+GENE-148,TNFÎ±,TNF,gene,HGNC:11892,valid,True,Approved,True
+GENE-149,TP53 ,TP53,gene,HGNC:11998,valid,True,Approved,True
+GENE-150,C9orf7,C9orf7,gene,HGNC:25316,valid,True,Approved,False
+GENE-151,BRCA4,BRCA4,gene,HGNC:1103,valid,True,Approved,False
+GENE-153,CDK94,,gene,,abstain,,,
+GENE-154,MAPK47,,gene,,abstain,,,
+GENE-155,IL73,NT5E,gene,HGNC:8021,valid,True,Approved,True
+GENE-156,SLC6A99,,gene,,abstain,,,
+GENE-157,CYP3A88,CYP3A88,gene,HGNC:32338,valid,True,Entry Withdrawn,False
+GENE-158,TP83,B3GNT6,gene,HGNC:17935,valid,True,Approved,False
