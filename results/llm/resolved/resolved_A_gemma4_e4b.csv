@@ -9,13 +9,13 @@ CHEM-007,mannnitol,Mannitol,chemical,5401,valid,True,,False
 CHEM-008,xanhtine,xanthine,chemical,3703,valid,True,,False
 CHEM-009,cystiene,Cysteine,chemical,5604,valid,True,,False
 CHEM-010,aspratic acid,aspartic acid,chemical,5793,valid,True,,False
-CHEM-011,butryic acid,Butyric acid,chemical,1699,valid,False,,False
+CHEM-011,butryic acid,Butyric acid,chemical,1699,valid,True,,False
 CHEM-012,glutathoine,Glutathione,chemical,5729,valid,True,,False
-CHEM-013,chlorofrom,Chloroform,chemical,5990,valid,False,,False
+CHEM-013,chlorofrom,Chloroform,chemical,5990,valid,True,,False
 CHEM-014,tetrahydrobiooterin,,chemical,,abstain,,,
 CHEM-015,methiunine,methionine,chemical,5612,valid,True,,False
 CHEM-016,deoxyrybose,deoxyribose,chemical,5361,valid,True,,False
-CHEM-017,riboflvin,Riboflavin,chemical,3753,valid,False,,False
+CHEM-017,riboflvin,Riboflavin,chemical,3753,valid,True,,False
 CHEM-018,phenyalalanine,Phenylalanine,chemical,3121,valid,True,,False
 CHEM-019,hypoxnthine,hypoxanthine,chemical,3403,valid,True,,False
 CHEM-020,pyrdoxine,pyridoxine,chemical,3534,valid,True,,False
@@ -29,7 +29,7 @@ CHEM-027,GABA,GABA,chemical,3672,valid,True,,False
 CHEM-028,DHA,Docosahexaenoic acid,chemical,4411,valid,True,,False
 CHEM-029,EPA,,chemical,,abstain,,,
 CHEM-030,PEP,PEP,chemical,1671,valid,True,,False
-CHEM-031,G6P,Glucose-6-phosphate,chemical,5001,valid,False,,False
+CHEM-031,G6P,Glucose-6-phosphate,chemical,5001,valid,True,,False
 CHEM-032,Acetyl-CoA,Acetyl-CoA,chemical,6080,valid,True,,False
 CHEM-033,DMSO,Dimethyl sulfoxide,chemical,207,valid,True,,False
 CHEM-034,EDTA,Ethylenediaminetetraacetic acid,chemical,6081,valid,True,,False
@@ -53,11 +53,11 @@ CHEM-051,d-glucose,D-glucopyranose,chemical,5467,valid,True,,False
 CHEM-052,VITAMIN C,ascorbic acid,chemical,5244,valid,True,,False
 CHEM-053,Sodium Chloride,Sodium chloride,chemical,519,valid,True,,False
 CHEM-054,hcl,hydrochloric acid,chemical,10001,valid,True,,False
-CHEM-055,NAOH,Sodium hydroxide,chemical,1602,valid,False,,False
+CHEM-055,NAOH,Sodium hydroxide,chemical,1602,valid,True,,False
 CHEM-056,co2,Carbon dioxide,chemical,1079,valid,True,,False
 CHEM-057,mgso4,Magnesium sulfate,chemical,3776,valid,True,,False
 CHEM-058,ETHANOL,Ethanol,chemical,174,valid,True,,False
-CHEM-059,h2o2,Hydrogen peroxide,chemical,1566,valid,False,,False
+CHEM-059,h2o2,Hydrogen peroxide,chemical,1566,valid,True,,False
 CHEM-060,Alpha-ketoglutarate,alpha-ketoglutarate,chemical,3121,valid,True,,False
 CHEM-061,fructose 6 phosphate,Fructose 6-phosphate,chemical,5051,valid,True,,False
 CHEM-062,N acetylcysteine,N-acetylcysteine,chemical,5050,valid,True,,False
@@ -86,13 +86,13 @@ CHEM-084,vitamin B3,Niacin,chemical,3019,valid,True,,False
 CHEM-085,vitamin B6,Pyridoxine,chemical,3121,valid,True,,False
 CHEM-086,vitamin H,Biotin,chemical,5713,valid,True,,False
 CHEM-087,vitamin B12,Cobalamin,chemical,3066,valid,True,,False
-CHEM-088,paracetamol,paracetamol,chemical,3075,valid,False,,False
+CHEM-088,paracetamol,paracetamol,chemical,3075,valid,True,,False
 CHEM-089,adrenaline,Epinephrine,chemical,3672,valid,True,,False
 CHEM-090,noradrenaline,Norepinephrine,chemical,3187,valid,True,,False
 CHEM-091,dextrose,D-glucopyranose,chemical,5721,valid,True,,False
-CHEM-092,table salt,Sodium chloride,chemical,509,valid,False,,False
+CHEM-092,table salt,Sodium chloride,chemical,509,valid,True,,False
 CHEM-093,baking soda,sodium bicarbonate,chemical,3693,valid,True,,False
-CHEM-094,caustic soda,Sodium hydroxide,chemical,1602,valid,False,,False
+CHEM-094,caustic soda,Sodium hydroxide,chemical,1602,valid,True,,False
 CHEM-095,muriatic acid,hydrochloric acid,chemical,10001,valid,True,,False
 CHEM-096,wood alcohol,Methanol,chemical,150,valid,True,,False
 CHEM-097,carbolic acid,Benzenethiol,chemical,2050,valid,True,,False
@@ -108,13 +108,13 @@ CHEM-106,ethyl alcohol,ethanol,chemical,174,valid,True,,False
 CHEM-107,"acid, ascorbic",ascorbic acid,chemical,5242,valid,True,,False
 CHEM-108,"acid, folic",Folic acid,chemical,3141,valid,True,,False
 CHEM-109,"acid, acetic",acetic acid,chemical,239,valid,True,,False
-CHEM-110,"chloride, sodium",Sodium chloride,chemical,509,valid,False,,False
+CHEM-110,"chloride, sodium",Sodium chloride,chemical,509,valid,True,,False
 CHEM-111,"acid, hydrochloric",hydrochloric acid,chemical,239,valid,True,,False
 CHEM-112,"acid, L-glutamic",L-glutamic acid,chemical,3672,valid,True,,False
 CHEM-113,"5'-triphosphate, adenosine",Adenosine triphosphate,chemical,6081,valid,True,,False
 CHEM-114,"acid, palmitic",Palmitic acid,chemical,2145,valid,True,,False
 CHEM-115,"peroxide, hydrogen",Hydrogen peroxide,chemical,3031,valid,True,,False
-CHEM-116,"acid, citric",Citric acid,chemical,3112,valid,False,,False
+CHEM-116,"acid, citric",Citric acid,chemical,3112,valid,True,,False
 CHEM-117,glucose,D-glucopyranose,chemical,5793,valid,True,,True
 CHEM-118,lactate,Lactate,chemical,5721,valid,True,,False
 CHEM-119,adenosine monophosphate,Adenosine monophosphate,chemical,3403,valid,True,,False
@@ -125,7 +125,7 @@ CHEM-123,xylene,Xylene,chemical,108-65-6,malformed,,,
 CHEM-124,vitamin D,Vitamin D3,chemical,3816,valid,True,,False
 CHEM-125,vitamin E,alpha-tocopherol,chemical,5267,valid,True,,False
 CHEM-126,carnitine,L-carnitine,chemical,5721,valid,True,,False
-CHEM-127,glycerol,Glycerol,chemical,5686,valid,False,,False
+CHEM-127,glycerol,Glycerol,chemical,5686,valid,True,,False
 CHEM-128,retinoic acid,Retinoic acid,chemical,3941,valid,True,,False
 CHEM-129,ribose,Ribose,chemical,5721,valid,True,,False
 CHEM-130,tartaric acid,Tartaric acid,chemical,5003,valid,True,,False
@@ -139,10 +139,10 @@ CHEM-137,Î²-carotene,beta-carotene,chemical,5230,valid,True,,False
 CHEM-138,Î³-glutamylcysteine,Glutamylcysteine,chemical,10833,valid,True,,False
 CHEM-139,adenosine 5′-triphosphate,Adenosine triphosphate,chemical,2077,valid,True,,False
 CHEM-140, glucose ,D-glucopyranose,chemical,5793,valid,True,,True
-CHEM-141,sodium  chloride,sodium chloride,chemical,509,valid,False,,False
+CHEM-141,sodium  chloride,sodium chloride,chemical,509,valid,True,,False
 CHEM-142,H₂O₂,Hydrogen peroxide,chemical,3031,valid,True,,False
 CHEM-143,"1,25-dihydroxyvitami","1,25-dihydroxyvitamin D3",chemical,4151,valid,True,,False
-CHEM-144,3-hydroxy-3-methylglutar,3-hydroxy-3-methylglutaric acid,chemical,1673,valid,False,,False
+CHEM-144,3-hydroxy-3-methylglutar,3-hydroxy-3-methylglutaric acid,chemical,1673,valid,True,,False
 CHEM-145,&gamma;-linolenic acid,gamma-linolenic acid,chemical,5463,valid,True,,False
 CHEM-146,adenosine 5’-monophosphate,Adenosine 5'-monophosphate,chemical,2073,valid,True,,False
 CHEM-147,boric acid,Boric acid,chemical,1567,valid,True,,False
@@ -152,12 +152,12 @@ CHEM-150,pyruvate*,Pyruvate,chemical,5721,valid,True,,False
 CHEM-151,D-glucose 9-phosphate,D-glucopyranose 6-phosphate,chemical,5467,valid,True,,False
 CHEM-152,L-glucosamine 8-phosphate,Glucosamine-6-phosphate,chemical,5467888,valid,True,,False
 CHEM-153,hydroxyureine,Hydroxyurea,chemical,3033,valid,True,,False
-CHEM-154,trimethylinositol,Trimethylinositol,chemical,10013,valid,False,,False
+CHEM-154,trimethylinositol,Trimethylinositol,chemical,10013,valid,True,,False
 CHEM-155,gamma-tocotrienolic acid,gamma-tocotrienolic acid,chemical,1163336,valid,True,,False
 CHEM-156,N-acetylthreonyl-CoA,N-acetylthreonyl-CoA,chemical,10861,valid,True,,False
 CHEM-157,dimethylcarnitine sulfate,Dimethylcarnitine sulfate,chemical,10661,valid,True,,False
 CHEM-158,pentahydroxyhexanoic anhydride,Pentahydroxyhexanoic anhydride,chemical,,abstain,,,
-CHEM-159,amphetmine,amphetamine,chemical,3466,valid,False,,False
+CHEM-159,amphetmine,amphetamine,chemical,3466,valid,True,,False
 CHEM-160,HEXANE,Hexane,chemical,551,valid,True,,False
 CHEM-161,ibuprofin,Ibuprofen,chemical,3672,valid,True,,True
 CHEM-162,thallidomide,Thalidomide,chemical,3646,valid,True,,False
@@ -299,7 +299,7 @@ GENE-135,collagen,COL1A1,gene,HGNC:1266,valid,True,Approved,False
 GENE-136,actin,ACTB,gene,HGNC:1588,valid,False,,False
 GENE-137,tubulin,TUBB,gene,HGNC:1077,valid,True,Approved,False
 GENE-138,TGF-beta,Transforming growth factor beta,gene,HGNC:2138,valid,True,Entry Withdrawn,False
-GENE-139,cytochrome P450,Cytochrome P450,chemical,1661,valid,False,,False
+GENE-139,cytochrome P450,Cytochrome P450,chemical,1661,valid,True,,False
 GENE-140,HLA-DR,HLA-DRA,gene,HGNC:1587,valid,True,Approved,False
 GENE-141,1-Mar,,chemical,,abstain,,,
 GENE-142,2-Sep,,chemical,,abstain,,,

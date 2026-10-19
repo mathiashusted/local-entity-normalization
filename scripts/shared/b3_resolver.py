@@ -111,6 +111,17 @@ def get_gene_ids(name, cache, cache_path):
     return result, matched_field
 
 
+# Same function as the id getter, but using titles endpoint instead of synonyns
+# this addition fixes the bug of some entities mistakenly getting identified as fabricated
+def get_chemical_title(cid, cache, cache_path):
+    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/Title/JSON"
+    result = fetch_json(url, cache, cache_path)
+    if "PropertyTable" in result:
+        return {"found": True, "title": result["PropertyTable"]["Properties"][0].get("Title", "")}
+    if result.get("Fault", {}).get("Code") == "PUGREST.NotFound":
+        return {"found": False, "title": ""}
+    raise ValueError(f"Unexpected response type")
+
 # Resolve a chemical name to every CID the public PubChem name search returns
 def get_chemical_ids(name, cache, cache_path):
     url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{quote(name, safe='')}/cids/JSON"

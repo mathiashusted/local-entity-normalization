@@ -54,7 +54,7 @@ CHEM-052,VITAMIN C,Ascorbic Acid,chemical,224,valid,True,,False
 CHEM-053,Sodium Chloride,Sodium Chloride,chemical,PubChem CID: 2198,malformed,,,
 CHEM-054,hcl,Hydrochloric acid,chemical,PubChem CID: 249,malformed,,,
 CHEM-055,NAOH,Sodium hydroxide,chemical,PubChem CID: 244,malformed,,,
-CHEM-056,co2,Carbon dioxide,chemical,7446,valid,False,,False
+CHEM-056,co2,Carbon dioxide,chemical,7446,valid,True,,False
 CHEM-057,mgso4,Magnesium Sulfate,chemical,1234,valid,True,,False
 CHEM-058,ETHANOL,ethanol,chemical,443,valid,True,,False
 CHEM-059,h2o2,Hydrogen Peroxide,chemical,244,valid,True,,False
@@ -96,7 +96,7 @@ CHEM-094,caustic soda,Sodium Hydroxide,chemical,244,valid,True,,False
 CHEM-095,muriatic acid,Hydrochloric acid,chemical,244,valid,True,,False
 CHEM-096,wood alcohol,Methanol,chemical,662,valid,True,,False
 CHEM-097,carbolic acid,Phenol,chemical,244,valid,True,,False
-CHEM-098,oil of vitriol,Sulfuric Acid,chemical,7446,valid,False,,False
+CHEM-098,oil of vitriol,Sulfuric Acid,chemical,7446,valid,True,,False
 CHEM-099,Epsom salt,Epsom Salt,chemical,123,valid,True,,False
 CHEM-100,milk sugar,lactose,chemical,123,valid,True,,False
 CHEM-101,glycerin,glycerol,chemical,PubChem CID: 1616,malformed,,,
@@ -199,7 +199,7 @@ GENE-035,brain derived neurotrophic factor,BDNF,gene,HGNC:101,valid,True,Approve
 GENE-036,angiotensin converting enzyme,Angiotensin-Converting Enzyme,gene,HGNC:101,valid,True,Approved,False
 GENE-037,low density lipoprotein receptor,LDLR,gene,HGNC:1234,valid,False,,False
 GENE-038,proprotein convertase subtilisin/kexin type 9,PCSK9,gene,HGNC:6088,valid,True,Approved,False
-GENE-039,3-hydroxy-3-methylglutaryl-CoA reductase,3-hydroxy-3-methylglutaryl-CoA reductase,chemical,12345678,valid,False,,False
+GENE-039,3-hydroxy-3-methylglutaryl-CoA reductase,3-hydroxy-3-methylglutaryl-CoA reductase,chemical,12345678,valid,True,,False
 GENE-040,methylenetetrahydrofolate reductase,MTHFR,gene,HGNC:623,valid,True,Entry Withdrawn,False
 GENE-041,matrix metallopeptidase 9,MT1G,gene,HGNC:1017,valid,True,Approved,False
 GENE-042,signal transducer and activator of transcription 3,STAT3,gene,HGNC:123,valid,True,Approved,False
@@ -290,7 +290,7 @@ GENE-126,BRCA1 gene,BRCA1,gene,HGNC:6,valid,False,,False
 GENE-127,KRAS oncogene,KRAS,gene,HGNC:101,valid,True,Approved,False
 GENE-128,insulin-like growth factors,Insulin-like Growth Factors,chemical,PubChem CID for Insulin-like Growth Factors,malformed,,,
 GENE-129,ERK,ERK1/2,gene,HGNC:1017,valid,True,Approved,False
-GENE-130,p38,p38 mitogen-activated protein kinase,chemical,12345678,valid,False,,False
+GENE-130,p38,p38 mitogen-activated protein kinase,chemical,12345678,valid,True,,False
 GENE-131,AMPK,AMP-activated protein kinase,gene,HGNC:108,valid,True,Approved,False
 GENE-132,NF-kB,NF-kB,gene,HGNC:203,valid,True,Approved,False
 GENE-133,PKA,Protein Kinase A,chemical,PubChem CID: 528,malformed,,,

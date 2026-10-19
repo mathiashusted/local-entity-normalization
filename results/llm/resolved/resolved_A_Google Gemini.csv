@@ -12,12 +12,12 @@ CHEM-010,aspratic acid,aspartic acid,chemical,5960,valid,True,,True
 CHEM-011,butryic acid,butyric acid,chemical,1049,valid,True,,False
 CHEM-012,glutathoine,glutathione,chemical,124886,valid,True,,True
 CHEM-013,chlorofrom,chloroform,chemical,6212,valid,True,,True
-CHEM-014,tetrahydrobiooterin,tetrahydrobiopterin,chemical,442574,valid,False,,False
+CHEM-014,tetrahydrobiooterin,tetrahydrobiopterin,chemical,442574,valid,True,,False
 CHEM-015,methiunine,methionine,chemical,6137,valid,True,,True
 CHEM-016,deoxyrybose,deoxyribose,chemical,439576,valid,True,,False
 CHEM-017,riboflvin,riboflavin,chemical,493570,valid,True,,True
 CHEM-018,phenyalalanine,phenylalanine,chemical,6140,valid,True,,True
-CHEM-019,hypoxnthine,hypoxanthine,chemical,790,valid,False,,False
+CHEM-019,hypoxnthine,hypoxanthine,chemical,790,valid,True,,False
 CHEM-020,pyrdoxine,pyridoxine,chemical,1054,valid,True,,True
 CHEM-021,cholestrol,cholesterol,chemical,5997,valid,True,,True
 CHEM-022,asetic acid,acetic acid,chemical,176,valid,True,,True
@@ -38,7 +38,7 @@ CHEM-036,DTT,dithiothreitol,chemical,446094,valid,True,,False
 CHEM-037,PMSF,phenylmethylsulfonyl fluoride,chemical,4784,valid,True,,True
 CHEM-038,HEPES,HEPES,chemical,23831,valid,True,,True
 CHEM-039,Tris,Tris,chemical,9354,valid,True,,False
-CHEM-040,PBS,Phosphate Buffered Saline,chemical,24847818,valid,False,,False
+CHEM-040,PBS,Phosphate Buffered Saline,chemical,24847818,valid,True,,False
 CHEM-041,TCA,citric acid,chemical,311,valid,True,,True
 CHEM-042,5-HT,serotonin,chemical,5202,valid,True,,True
 CHEM-043,NAC,acetylcysteine,chemical,934,valid,True,,False
@@ -59,7 +59,7 @@ CHEM-057,mgso4,magnesium sulfate,chemical,24083,valid,True,,True
 CHEM-058,ETHANOL,ethanol,chemical,702,valid,True,,True
 CHEM-059,h2o2,hydrogen peroxide,chemical,784,valid,True,,True
 CHEM-060,Alpha-ketoglutarate,2-oxoglutaric acid,chemical,51,valid,True,,True
-CHEM-061,fructose 6 phosphate,fructose 6-phosphate,chemical,444321,valid,False,,False
+CHEM-061,fructose 6 phosphate,fructose 6-phosphate,chemical,444321,valid,True,,False
 CHEM-062,N acetylcysteine,acetylcysteine,chemical,12035,valid,True,,True
 CHEM-063,beta carotene,beta-carotene,chemical,5280489,valid,True,,True
 CHEM-064,β-carotene,beta-carotene,chemical,5280489,valid,True,,True
@@ -85,7 +85,7 @@ CHEM-083,vitamin B2,riboflavin,chemical,5280453,valid,True,,False
 CHEM-084,vitamin B3,niacin,chemical,938,valid,True,,True
 CHEM-085,vitamin B6,Pyridoxine,chemical,1054,valid,True,,True
 CHEM-086,vitamin H,biotin,chemical,238,valid,True,,False
-CHEM-087,vitamin B12,cyanocobalamin,chemical,5280763,valid,False,,False
+CHEM-087,vitamin B12,cyanocobalamin,chemical,5280763,valid,True,,False
 CHEM-088,paracetamol,acetaminophen,chemical,1983,valid,True,,True
 CHEM-089,adrenaline,epinephrine,chemical,5816,valid,True,,True
 CHEM-090,noradrenaline,norepinephrine,chemical,439260,valid,True,,True
@@ -136,7 +136,7 @@ CHEM-134,cresol,cresol,chemical,1078,valid,True,,False
 CHEM-135,menthol,menthol,chemical,16666,valid,True,,False
 CHEM-136,galactosamine,D-galactosamine,chemical,439210,valid,True,,False
 CHEM-137,Î²-carotene,beta-carotene,chemical,5280489,valid,True,,True
-CHEM-138,Î³-glutamylcysteine,gamma-glutamylcysteine,chemical,1020,valid,False,,False
+CHEM-138,Î³-glutamylcysteine,gamma-glutamylcysteine,chemical,1020,valid,True,,False
 CHEM-139,adenosine 5′-triphosphate,adenosine triphosphate,chemical,5957,valid,True,,True
 CHEM-140, glucose ,glucose,chemical,5793,valid,True,,True
 CHEM-141,sodium  chloride,Sodium chloride,chemical,5234,valid,True,,True
@@ -152,11 +152,11 @@ CHEM-150,pyruvate*,pyruvic acid,chemical,1060,valid,True,,True
 CHEM-151,D-glucose 9-phosphate,D-glucose 6-phosphate,chemical,1183,valid,True,,False
 CHEM-152,L-glucosamine 8-phosphate,L-glucosamine 6-phosphate,chemical,439527,valid,True,,False
 CHEM-153,hydroxyureine,hydroxyurea,chemical,3657,valid,True,,True
-CHEM-154,trimethylinositol,trimethylinositol,chemical,23376036,valid,False,,False
+CHEM-154,trimethylinositol,trimethylinositol,chemical,23376036,valid,True,,False
 CHEM-155,gamma-tocotrienolic acid,gamma-tocotrienolic acid,chemical,102228806,valid,True,,False
-CHEM-156,N-acetylthreonyl-CoA,N-acetylthreonyl-CoA,chemical,24847970,valid,False,,False
+CHEM-156,N-acetylthreonyl-CoA,N-acetylthreonyl-CoA,chemical,24847970,valid,True,,False
 CHEM-157,dimethylcarnitine sulfate,dimethylcarnitine sulfate,chemical,138388481,valid,True,,False
-CHEM-158,pentahydroxyhexanoic anhydride,Gluconic anhydride,chemical,102008275,valid,False,,False
+CHEM-158,pentahydroxyhexanoic anhydride,Gluconic anhydride,chemical,102008275,valid,True,,False
 CHEM-159,amphetmine,amphetamine,chemical,3007,valid,True,,True
 CHEM-160,HEXANE,hexane,chemical,8058,valid,True,,True
 CHEM-161,ibuprofin,ibuprofen,chemical,3672,valid,True,,True
