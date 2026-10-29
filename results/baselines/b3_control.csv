@@ -1,0 +1,190 @@
+n_candidates,returned_id,candidate_ids,id,input,entity_type,matched_field
+1,16666,16666,CTRL-001,(-)-menthol,chemical,
+1,135409384,135409384,CTRL-002,"(6R)-5,6,7,8-tetrahydrobiopterin",chemical,
+1,5460161,5460161,CTRL-003,(S)-lactate,chemical,
+1,5460005,5460005,CTRL-004,2-deoxy-D-ribose,chemical,
+1,51,51,CTRL-005,2-oxoglutaric acid,chemical,
+1,6076,6076,CTRL-006,"3',5'-cyclic AMP",chemical,
+1,91506,91506,CTRL-007,3-hydroxy-3-methylglutaryl-CoA,chemical,
+1,978,978,CTRL-008,4-aminobenzoic acid,chemical,
+1,HGNC:40,HGNC:40,CTRL-009,ABCB1,gene,symbol
+1,HGNC:2707,HGNC:2707,CTRL-010,ACE,gene,symbol
+1,HGNC:132,HGNC:132,CTRL-011,ACTB,gene,symbol
+1,HGNC:613,HGNC:613,CTRL-012,APOE,gene,symbol
+1,HGNC:620,HGNC:620,CTRL-013,APP,gene,symbol
+1,HGNC:644,HGNC:644,CTRL-014,AR,gene,symbol
+1,HGNC:914,HGNC:914,CTRL-015,B2M,gene,symbol
+1,HGNC:1033,HGNC:1033,CTRL-016,BDNF,gene,symbol
+1,HGNC:1100,HGNC:1100,CTRL-017,BRCA1,gene,symbol
+1,HGNC:28337,HGNC:28337,CTRL-018,C9orf72,gene,symbol
+1,HGNC:10618,HGNC:10618,CTRL-019,CCL2,gene,symbol
+1,HGNC:10632,HGNC:10632,CTRL-020,CCL5,gene,symbol
+1,HGNC:17635,HGNC:17635,CTRL-021,CD274,gene,symbol
+1,HGNC:1678,HGNC:1678,CTRL-022,CD4,gene,symbol
+1,HGNC:1817,HGNC:1817,CTRL-023,CEACAM5,gene,symbol
+1,HGNC:1884,HGNC:1884,CTRL-024,CFTR,gene,symbol
+1,HGNC:2197,HGNC:2197,CTRL-025,COL1A1,gene,symbol
+1,HGNC:2228,HGNC:2228,CTRL-026,COMT,gene,symbol
+1,HGNC:2505,HGNC:2505,CTRL-027,CTLA4,gene,symbol
+1,HGNC:6025,HGNC:6025,CTRL-028,CXCL8,gene,symbol
+1,HGNC:2637,HGNC:2637,CTRL-029,CYP3A4,gene,symbol
+1,171548,171548,CTRL-030,D-biotin,chemical,
+1,2723872,2723872,CTRL-031,D-fructose,chemical,
+1,439160,439160,CTRL-032,D-fructose 6-phosphate,chemical,
+1,24154,24154,CTRL-033,D-galactosamine,chemical,
+1,5793,5793,CTRL-034,D-glucose,chemical,
+2,,439958;99058,CTRL-035,D-glucose 6-phosphate,chemical,
+1,6251,6251,CTRL-036,D-mannitol,chemical,
+1,10975657,10975657,CTRL-037,D-ribose,chemical,
+1,HGNC:23658,HGNC:23658,CTRL-038,DELEC1,gene,symbol
+1,HGNC:2928,HGNC:2928,CTRL-039,DMD,gene,symbol
+1,HGNC:3236,HGNC:3236,CTRL-040,EGFR,gene,symbol
+1,HGNC:3430,HGNC:3430,CTRL-041,ERBB2,gene,symbol
+1,HGNC:3467,HGNC:3467,CTRL-042,ESR1,gene,symbol
+1,HGNC:4141,HGNC:4141,CTRL-043,GAPDH,gene,symbol
+1,HGNC:4827,HGNC:4827,CTRL-044,HBB,gene,symbol
+1,23831,23831,CTRL-045,HEPES,chemical,
+1,HGNC:4910,HGNC:4910,CTRL-046,HIF1A,gene,symbol
+1,HGNC:4931,HGNC:4931,CTRL-047,HLA-A,gene,symbol
+1,HGNC:4948,HGNC:4948,CTRL-048,HLA-DRB1,gene,symbol
+1,HGNC:5006,HGNC:5006,CTRL-049,HMGCR,gene,symbol
+1,HGNC:5157,HGNC:5157,CTRL-050,HPRT1,gene,symbol
+1,HGNC:4851,HGNC:4851,CTRL-051,HTT,gene,symbol
+1,HGNC:5464,HGNC:5464,CTRL-052,IGF1,gene,symbol
+1,HGNC:5992,HGNC:5992,CTRL-053,IL1B,gene,symbol
+1,HGNC:6018,HGNC:6018,CTRL-054,IL6,gene,symbol
+1,HGNC:6091,HGNC:6091,CTRL-055,INSR,gene,symbol
+1,HGNC:6251,HGNC:6251,CTRL-056,KCNH2,gene,symbol
+1,HGNC:6364,HGNC:6364,CTRL-057,KLK3,gene,symbol
+1,HGNC:6407,HGNC:6407,CTRL-058,KRAS,gene,symbol
+1,54670067,54670067,CTRL-059,L-ascorbic acid,chemical,
+1,5960,5960,CTRL-060,L-aspartic acid,chemical,
+1,10917,10917,CTRL-061,L-carnitine,chemical,
+1,5862,5862,CTRL-062,L-cysteine,chemical,
+1,33032,33032,CTRL-063,L-glutamic acid,chemical,
+1,5961,5961,CTRL-064,L-glutamine,chemical,
+1,6137,6137,CTRL-065,L-methionine,chemical,
+1,6140,6140,CTRL-066,L-phenylalanine,chemical,
+1,444305,444305,CTRL-067,L-tartaric acid,chemical,
+1,HGNC:6547,HGNC:6547,CTRL-068,LDLR,gene,symbol
+1,HGNC:6840,HGNC:6840,CTRL-069,MAP2K1,gene,symbol
+1,HGNC:6871,HGNC:6871,CTRL-070,MAPK1,gene,symbol
+1,HGNC:6876,HGNC:6876,CTRL-071,MAPK14,gene,symbol
+1,HGNC:6877,HGNC:6877,CTRL-072,MAPK3,gene,symbol
+1,HGNC:26077,HGNC:26077,CTRL-073,MARCHF1,gene,symbol
+1,HGNC:26025,HGNC:26025,CTRL-074,MARCHF5,gene,symbol
+1,HGNC:7107,HGNC:7107,CTRL-075,MKI67,gene,symbol
+1,HGNC:7176,HGNC:7176,CTRL-076,MMP9,gene,symbol
+1,HGNC:7315,HGNC:7315,CTRL-077,MS4A1,gene,symbol
+1,HGNC:7419,HGNC:7419,CTRL-078,MT-CO1,gene,symbol
+1,HGNC:7436,HGNC:7436,CTRL-079,MTHFR,gene,symbol
+1,HGNC:3942,HGNC:3942,CTRL-080,MTOR,gene,symbol
+1,HGNC:15582,HGNC:15582,CTRL-081,MUC16,gene,symbol
+1,HGNC:7553,HGNC:7553,CTRL-082,MYC,gene,symbol
+1,6228,6228,CTRL-083,"N,N-dimethylformamide",chemical,
+1,12035,12035,CTRL-084,N-acetyl-L-cysteine,chemical,
+4,,5892;5893;15938971;10897651,CTRL-085,NAD+,chemical,
+1,439153,439153,CTRL-086,NADH,chemical,
+1,5884,5884,CTRL-087,NADPH,chemical,
+1,HGNC:7646,HGNC:7646,CTRL-088,NAT2,gene,symbol
+1,HGNC:7782,HGNC:7782,CTRL-089,NFE2L2,gene,symbol
+1,HGNC:7978,HGNC:7978,CTRL-090,NR3C1,gene,symbol
+1,HGNC:20001,HGNC:20001,CTRL-091,PCSK9,gene,symbol
+1,HGNC:8760,HGNC:8760,CTRL-092,PDCD1,gene,symbol
+1,HGNC:8975,HGNC:8975,CTRL-093,PIK3CA,gene,symbol
+1,HGNC:9376,HGNC:9376,CTRL-094,PRKAA1,gene,symbol
+1,HGNC:9380,HGNC:9380,CTRL-095,PRKACA,gene,symbol
+1,HGNC:9588,HGNC:9588,CTRL-096,PTEN,gene,symbol
+1,HGNC:9605,HGNC:9605,CTRL-097,PTGS2,gene,symbol
+1,HGNC:9955,HGNC:9955,CTRL-098,RELA,gene,symbol
+1,HGNC:7729,HGNC:7729,CTRL-099,SEPTIN2,gene,symbol
+1,HGNC:7323,HGNC:7323,CTRL-100,SEPTIN9,gene,symbol
+1,HGNC:11005,HGNC:11005,CTRL-101,SLC2A1,gene,symbol
+1,HGNC:11050,HGNC:11050,CTRL-102,SLC6A4,gene,symbol
+1,HGNC:6770,HGNC:6770,CTRL-103,SMAD4,gene,symbol
+1,HGNC:11138,HGNC:11138,CTRL-104,SNCA,gene,symbol
+1,HGNC:11179,HGNC:11179,CTRL-105,SOD1,gene,symbol
+1,HGNC:11364,HGNC:11364,CTRL-106,STAT3,gene,symbol
+1,HGNC:11766,HGNC:11766,CTRL-107,TGFB1,gene,symbol
+1,HGNC:11892,HGNC:11892,CTRL-108,TNF,gene,symbol
+1,HGNC:11998,HGNC:11998,CTRL-109,TP53,gene,symbol
+1,HGNC:20778,HGNC:20778,CTRL-110,TUBB,gene,symbol
+1,HGNC:12680,HGNC:12680,CTRL-111,VEGFA,gene,symbol
+1,1983,1983,CTRL-112,acetaminophen,chemical,
+1,176,176,CTRL-113,acetic acid,chemical,
+1,444493,444493,CTRL-114,acetyl-CoA,chemical,
+1,2244,2244,CTRL-115,acetylsalicylic acid,chemical,
+1,6022,6022,CTRL-116,adenosine 5'-diphosphate,chemical,
+1,6083,6083,CTRL-117,adenosine 5'-monophosphate,chemical,
+1,5957,5957,CTRL-118,adenosine 5'-triphosphate,chemical,
+1,14985,14985,CTRL-119,alpha-tocopherol,chemical,
+1,3007,3007,CTRL-120,amphetamine,chemical,
+1,5280489,5280489,CTRL-121,beta-carotene,chemical,
+1,7628,7628,CTRL-122,boric acid,chemical,
+1,264,264,CTRL-123,butanoic acid,chemical,
+1,5280453,5280453,CTRL-124,calcitriol,chemical,
+1,280,280,CTRL-125,carbon dioxide,chemical,
+1,6212,6212,CTRL-126,chloroform,chemical,
+1,5280795,5280795,CTRL-127,cholecalciferol,chemical,
+1,5997,5997,CTRL-128,cholesterol,chemical,
+1,311,311,CTRL-129,citric acid,chemical,
+1,166596686,166596686,CTRL-130,cyanocobalamin,chemical,
+1,597,597,CTRL-131,cytosine,chemical,
+1,679,679,CTRL-132,dimethyl sulfoxide,chemical,
+1,439196,439196,CTRL-133,dithiothreitol,chemical,
+1,445580,445580,CTRL-134,docosahexaenoic acid,chemical,
+1,5282847,5282847,CTRL-135,eicosapentaenoic acid,chemical,
+1,5816,5816,CTRL-136,epinephrine,chemical,
+1,702,702,CTRL-137,ethanol,chemical,
+1,6049,6049,CTRL-138,ethylenediaminetetraacetic acid,chemical,
+1,643975,643975,CTRL-139,flavin adenine dinucleotide,chemical,
+1,135398658,135398658,CTRL-140,folic acid,chemical,
+1,712,712,CTRL-141,formaldehyde,chemical,
+1,119,119,CTRL-142,gamma-aminobutyric acid,chemical,
+1,123938,123938,CTRL-143,gamma-glutamylcysteine,chemical,
+1,5280933,5280933,CTRL-144,gamma-linolenic acid,chemical,
+1,124886,124886,CTRL-145,glutathione,chemical,
+1,753,753,CTRL-146,glycerol,chemical,
+1,8058,8058,CTRL-147,hexane,chemical,
+1,313,313,CTRL-148,hydrochloric acid,chemical,
+1,784,784,CTRL-149,hydrogen peroxide,chemical,
+1,3657,3657,CTRL-150,hydroxyurea,chemical,
+1,135398638,135398638,CTRL-151,hypoxanthine,chemical,
+1,3672,3672,CTRL-152,ibuprofen,chemical,
+1,6134,6134,CTRL-153,lactose,chemical,
+1,6047,6047,CTRL-154,levodopa,chemical,
+1,24083,24083,CTRL-155,magnesium sulfate,chemical,
+1,24843,24843,CTRL-156,magnesium sulfate heptahydrate,chemical,
+1,896,896,CTRL-157,melatonin,chemical,
+1,23931,23931,CTRL-158,mercury,chemical,
+1,887,887,CTRL-159,methanol,chemical,
+1,892,892,CTRL-160,myo-inositol,chemical,
+1,938,938,CTRL-161,nicotinic acid,chemical,
+1,948,948,CTRL-162,nitrous oxide,chemical,
+1,439260,439260,CTRL-163,norepinephrine,chemical,
+1,2879,2879,CTRL-164,p-cresol,chemical,
+1,7809,7809,CTRL-165,p-xylene,chemical,
+1,985,985,CTRL-166,palmitic acid,chemical,
+1,996,996,CTRL-167,phenol,chemical,
+1,4784,4784,CTRL-168,phenylmethylsulfonyl fluoride,chemical,
+1,24978514,24978514,CTRL-169,phosphate-buffered saline,chemical,
+0,,,CTRL-170,phosphatidylcholine,chemical,
+1,1005,1005,CTRL-171,phosphoenolpyruvate,chemical,
+1,1054,1054,CTRL-172,pyridoxine,chemical,
+1,107735,107735,CTRL-173,pyruvate,chemical,
+1,493570,493570,CTRL-174,riboflavin,chemical,
+1,5202,5202,CTRL-175,serotonin,chemical,
+1,516892,516892,CTRL-176,sodium bicarbonate,chemical,
+1,5234,5234,CTRL-177,sodium chloride,chemical,
+1,3423265,3423265,CTRL-178,sodium dodecyl sulfate,chemical,
+1,14798,14798,CTRL-179,sodium hydroxide,chemical,
+1,1103,1103,CTRL-180,spermine,chemical,
+1,1118,1118,CTRL-181,sulfuric acid,chemical,
+1,5426,5426,CTRL-182,thalidomide,chemical,
+1,1130,1130,CTRL-183,thiamine,chemical,
+1,444795,444795,CTRL-184,tretinoin,chemical,
+1,6421,6421,CTRL-185,trichloroacetic acid,chemical,
+1,1146,1146,CTRL-186,trimethylamine,chemical,
+1,6503,6503,CTRL-187,tromethamine,chemical,
+1,1176,1176,CTRL-188,urea,chemical,
+1,1188,1188,CTRL-189,xanthine,chemical,

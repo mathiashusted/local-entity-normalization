@@ -1,4 +1,2 @@
 data/reference/*
-data/dataset/.~lock.benchmark.csv#
-data/cache/*
 __pycache__/
