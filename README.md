@@ -43,7 +43,7 @@ Network lookups are served from `data/cache/api.jsonl` where possible; only unca
 
 ## Data and sources
 
-PubChem (CID-Title, CID-Synonym-filtered, CID-MeSH; [Extras](https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/)) and HGNC ([complete set](https://www.genenames.org/download/)) snapshots were downloaded on 2026-09-20 and are not included because of their size. The API cache was fetched between 2026-10-13 and 2026-10-29. The benchmark was seeded from [ECO-ID Supplementary Table S1](https://github.com/khabatv/ECO-ID-Supplementary/blob/main/Supplementary%20Table%20S1.csv). Details are given in the thesis: [link TODO].
+PubChem (CID-Title, CID-Synonym-filtered, CID-MeSH; [Extras](https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/)) and HGNC ([complete set](https://www.genenames.org/download/)) snapshots were downloaded on 2026-09-20 and are not included because of their size. The API cache was fetched between 2026-10-13 and 2026-10-29. The benchmark was seeded from [ECO-ID Supplementary Table S1](https://github.com/khabatv/ECO-ID-Supplementary/blob/main/Supplementary%20Table%20S1.csv).
 
 ## License and AI use
 
