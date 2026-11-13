@@ -1,0 +1,191 @@
+id,input,canonical_name,entity_type
+CTRL-001,(-)-menthol,(-)-menthol,chemical
+CTRL-002,"(6R)-5,6,7,8-tetrahydrobiopterin","(6R)-5,6,7,8-tetrahydrobiopterin",chemical
+CTRL-003,(S)-lactate,(S)-lactate,chemical
+CTRL-004,2-deoxy-D-ribose,2-deoxy-D-ribose,chemical
+CTRL-005,2-oxoglutarate,2-oxoglutarate,chemical
+CTRL-006,2-oxoglutaric acid,2-oxoglutaric acid,chemical
+CTRL-007,"3',5'-cyclic AMP","3',5'-cyclic AMP",chemical
+CTRL-008,3-hydroxy-3-methylglutaryl-CoA,3-hydroxy-3-methylglutaryl-CoA,chemical
+CTRL-009,4-aminobenzoic acid,4-aminobenzoic acid,chemical
+CTRL-010,ABCB1,ABCB1,gene
+CTRL-011,ACE,ACE,gene
+CTRL-012,ACTB,ACTB,gene
+CTRL-013,APOE,APOE,gene
+CTRL-014,APP,APP,gene
+CTRL-015,AR,AR,gene
+CTRL-016,B2M,B2M,gene
+CTRL-017,BDNF,BDNF,gene
+CTRL-018,BRCA1,BRCA1,gene
+CTRL-019,C9orf72,C9orf72,gene
+CTRL-020,CCL2,CCL2,gene
+CTRL-021,CCL5,CCL5,gene
+CTRL-022,CD274,CD274,gene
+CTRL-023,CD4,CD4,gene
+CTRL-024,CEACAM5,CEACAM5,gene
+CTRL-025,CFTR,CFTR,gene
+CTRL-026,COL1A1,COL1A1,gene
+CTRL-027,COMT,COMT,gene
+CTRL-028,CTLA4,CTLA4,gene
+CTRL-029,CXCL8,CXCL8,gene
+CTRL-030,CYP3A4,CYP3A4,gene
+CTRL-031,D-biotin,D-biotin,chemical
+CTRL-032,D-fructose,D-fructose,chemical
+CTRL-033,D-fructose 6-phosphate,D-fructose 6-phosphate,chemical
+CTRL-034,D-galactosamine,D-galactosamine,chemical
+CTRL-035,D-glucose,D-glucose,chemical
+CTRL-036,D-glucose 6-phosphate,D-glucose 6-phosphate,chemical
+CTRL-037,D-mannitol,D-mannitol,chemical
+CTRL-038,D-ribose,D-ribose,chemical
+CTRL-039,DELEC1,DELEC1,gene
+CTRL-040,DMD,DMD,gene
+CTRL-041,EGFR,EGFR,gene
+CTRL-042,ERBB2,ERBB2,gene
+CTRL-043,ESR1,ESR1,gene
+CTRL-044,GAPDH,GAPDH,gene
+CTRL-045,HBB,HBB,gene
+CTRL-046,HEPES,HEPES,chemical
+CTRL-047,HIF1A,HIF1A,gene
+CTRL-048,HLA-A,HLA-A,gene
+CTRL-049,HLA-DRB1,HLA-DRB1,gene
+CTRL-050,HMGCR,HMGCR,gene
+CTRL-051,HPRT1,HPRT1,gene
+CTRL-052,HTT,HTT,gene
+CTRL-053,IGF1,IGF1,gene
+CTRL-054,IL1B,IL1B,gene
+CTRL-055,IL6,IL6,gene
+CTRL-056,INSR,INSR,gene
+CTRL-057,KCNH2,KCNH2,gene
+CTRL-058,KLK3,KLK3,gene
+CTRL-059,KRAS,KRAS,gene
+CTRL-060,L-ascorbic acid,L-ascorbic acid,chemical
+CTRL-061,L-aspartic acid,L-aspartic acid,chemical
+CTRL-062,L-carnitine,L-carnitine,chemical
+CTRL-063,L-cysteine,L-cysteine,chemical
+CTRL-064,L-glutamic acid,L-glutamic acid,chemical
+CTRL-065,L-glutamine,L-glutamine,chemical
+CTRL-066,L-methionine,L-methionine,chemical
+CTRL-067,L-phenylalanine,L-phenylalanine,chemical
+CTRL-068,L-tartaric acid,L-tartaric acid,chemical
+CTRL-069,LDLR,LDLR,gene
+CTRL-070,MAP2K1,MAP2K1,gene
+CTRL-071,MAPK1,MAPK1,gene
+CTRL-072,MAPK14,MAPK14,gene
+CTRL-073,MAPK3,MAPK3,gene
+CTRL-074,MARCHF1,MARCHF1,gene
+CTRL-075,MARCHF5,MARCHF5,gene
+CTRL-076,MKI67,MKI67,gene
+CTRL-077,MMP9,MMP9,gene
+CTRL-078,MS4A1,MS4A1,gene
+CTRL-079,MT-CO1,MT-CO1,gene
+CTRL-080,MTHFR,MTHFR,gene
+CTRL-081,MTOR,MTOR,gene
+CTRL-082,MUC16,MUC16,gene
+CTRL-083,MYC,MYC,gene
+CTRL-084,"N,N-dimethylformamide","N,N-dimethylformamide",chemical
+CTRL-085,N-acetyl-L-cysteine,N-acetyl-L-cysteine,chemical
+CTRL-086,NAD+,NAD+,chemical
+CTRL-087,NADH,NADH,chemical
+CTRL-088,NADPH,NADPH,chemical
+CTRL-089,NAT2,NAT2,gene
+CTRL-090,NFE2L2,NFE2L2,gene
+CTRL-091,NR3C1,NR3C1,gene
+CTRL-092,PCSK9,PCSK9,gene
+CTRL-093,PDCD1,PDCD1,gene
+CTRL-094,PIK3CA,PIK3CA,gene
+CTRL-095,PRKAA1,PRKAA1,gene
+CTRL-096,PRKACA,PRKACA,gene
+CTRL-097,PTEN,PTEN,gene
+CTRL-098,PTGS2,PTGS2,gene
+CTRL-099,RELA,RELA,gene
+CTRL-100,SEPTIN2,SEPTIN2,gene
+CTRL-101,SEPTIN9,SEPTIN9,gene
+CTRL-102,SLC2A1,SLC2A1,gene
+CTRL-103,SLC6A4,SLC6A4,gene
+CTRL-104,SMAD4,SMAD4,gene
+CTRL-105,SNCA,SNCA,gene
+CTRL-106,SOD1,SOD1,gene
+CTRL-107,STAT3,STAT3,gene
+CTRL-108,TGFB1,TGFB1,gene
+CTRL-109,TNF,TNF,gene
+CTRL-110,TP53,TP53,gene
+CTRL-111,TUBB,TUBB,gene
+CTRL-112,VEGFA,VEGFA,gene
+CTRL-113,acetaminophen,acetaminophen,chemical
+CTRL-114,acetic acid,acetic acid,chemical
+CTRL-115,acetyl-CoA,acetyl-CoA,chemical
+CTRL-116,acetylsalicylic acid,acetylsalicylic acid,chemical
+CTRL-117,adenosine 5'-diphosphate,adenosine 5'-diphosphate,chemical
+CTRL-118,adenosine 5'-monophosphate,adenosine 5'-monophosphate,chemical
+CTRL-119,adenosine 5'-triphosphate,adenosine 5'-triphosphate,chemical
+CTRL-120,alpha-tocopherol,alpha-tocopherol,chemical
+CTRL-121,amphetamine,amphetamine,chemical
+CTRL-122,beta-carotene,beta-carotene,chemical
+CTRL-123,boric acid,boric acid,chemical
+CTRL-124,butanoic acid,butanoic acid,chemical
+CTRL-125,calcitriol,calcitriol,chemical
+CTRL-126,carbon dioxide,carbon dioxide,chemical
+CTRL-127,chloroform,chloroform,chemical
+CTRL-128,cholecalciferol,cholecalciferol,chemical
+CTRL-129,cholesterol,cholesterol,chemical
+CTRL-130,citric acid,citric acid,chemical
+CTRL-131,cyanocobalamin,cyanocobalamin,chemical
+CTRL-132,cytosine,cytosine,chemical
+CTRL-133,dimethyl sulfoxide,dimethyl sulfoxide,chemical
+CTRL-134,dithiothreitol,dithiothreitol,chemical
+CTRL-135,docosahexaenoic acid,docosahexaenoic acid,chemical
+CTRL-136,eicosapentaenoic acid,eicosapentaenoic acid,chemical
+CTRL-137,epinephrine,epinephrine,chemical
+CTRL-138,ethanol,ethanol,chemical
+CTRL-139,ethylenediaminetetraacetic acid,ethylenediaminetetraacetic acid,chemical
+CTRL-140,flavin adenine dinucleotide,flavin adenine dinucleotide,chemical
+CTRL-141,folic acid,folic acid,chemical
+CTRL-142,formaldehyde,formaldehyde,chemical
+CTRL-143,gamma-aminobutyric acid,gamma-aminobutyric acid,chemical
+CTRL-144,gamma-glutamylcysteine,gamma-glutamylcysteine,chemical
+CTRL-145,gamma-linolenic acid,gamma-linolenic acid,chemical
+CTRL-146,glutathione,glutathione,chemical
+CTRL-147,glycerol,glycerol,chemical
+CTRL-148,hexane,hexane,chemical
+CTRL-149,hydrochloric acid,hydrochloric acid,chemical
+CTRL-150,hydrogen peroxide,hydrogen peroxide,chemical
+CTRL-151,hydroxyurea,hydroxyurea,chemical
+CTRL-152,hypoxanthine,hypoxanthine,chemical
+CTRL-153,ibuprofen,ibuprofen,chemical
+CTRL-154,lactose,lactose,chemical
+CTRL-155,levodopa,levodopa,chemical
+CTRL-156,magnesium sulfate,magnesium sulfate,chemical
+CTRL-157,magnesium sulfate heptahydrate,magnesium sulfate heptahydrate,chemical
+CTRL-158,melatonin,melatonin,chemical
+CTRL-159,mercury,mercury,chemical
+CTRL-160,methanol,methanol,chemical
+CTRL-161,myo-inositol,myo-inositol,chemical
+CTRL-162,nicotinic acid,nicotinic acid,chemical
+CTRL-163,nitrous oxide,nitrous oxide,chemical
+CTRL-164,norepinephrine,norepinephrine,chemical
+CTRL-165,p-cresol,p-cresol,chemical
+CTRL-166,p-xylene,p-xylene,chemical
+CTRL-167,palmitic acid,palmitic acid,chemical
+CTRL-168,phenol,phenol,chemical
+CTRL-169,phenylmethylsulfonyl fluoride,phenylmethylsulfonyl fluoride,chemical
+CTRL-170,phosphate-buffered saline,phosphate-buffered saline,chemical
+CTRL-171,phosphatidylcholine,phosphatidylcholine,chemical
+CTRL-172,phosphoenolpyruvate,phosphoenolpyruvate,chemical
+CTRL-173,pyridoxine,pyridoxine,chemical
+CTRL-174,pyruvate,pyruvate,chemical
+CTRL-175,riboflavin,riboflavin,chemical
+CTRL-176,serotonin,serotonin,chemical
+CTRL-177,sodium bicarbonate,sodium bicarbonate,chemical
+CTRL-178,sodium chloride,sodium chloride,chemical
+CTRL-179,sodium dodecyl sulfate,sodium dodecyl sulfate,chemical
+CTRL-180,sodium hydroxide,sodium hydroxide,chemical
+CTRL-181,spermine,spermine,chemical
+CTRL-182,sulfuric acid,sulfuric acid,chemical
+CTRL-183,thalidomide,thalidomide,chemical
+CTRL-184,thiamine,thiamine,chemical
+CTRL-185,tretinoin,tretinoin,chemical
+CTRL-186,trichloroacetic acid,trichloroacetic acid,chemical
+CTRL-187,trimethylamine,trimethylamine,chemical
+CTRL-188,tromethamine,tromethamine,chemical
+CTRL-189,urea,urea,chemical
+CTRL-190,xanthine,xanthine,chemical
